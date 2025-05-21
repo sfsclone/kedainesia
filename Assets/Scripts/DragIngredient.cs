@@ -23,10 +23,18 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
     {
         originalParent = transform.parent;
 
+        // If it's inside a slot, clear that slot
+        IngredientSlot slot = originalParent.GetComponent<IngredientSlot>();
+        if (slot != null)
+        {
+            slot.ClearSlot();
+        }
+
         // Move to DragLayer
         Transform dragLayer = GameObject.Find("DragLayer").transform;
         transform.SetParent(dragLayer);
 
+        // Hide label during drag
         if (label != null)
             label.gameObject.SetActive(false);
 
@@ -45,18 +53,19 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
 
         if (droppedOnSlot)
         {
-            transform.SetParent(eventData.pointerEnter.transform);
+            // Let OnDrop in IngredientSlot handle parenting
+            // We don't touch the label here — it will stay visible
         }
         else
         {
             // Return to scroll list
             transform.SetParent(ingredientListParent);
+            transform.localPosition = Vector3.zero;
+
+            // Show label again
+            if (label != null)
+                label.gameObject.SetActive(true);
         }
-
-        transform.localPosition = Vector3.zero;
-
-        if (label != null)
-            label.gameObject.SetActive(true);
 
         canvasGroup.blocksRaycasts = true;
     }

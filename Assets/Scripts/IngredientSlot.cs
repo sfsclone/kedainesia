@@ -6,6 +6,7 @@ public class IngredientSlot : MonoBehaviour, IDropHandler
 {
     public int slotIndex; // 0, 1, 2 for 3 input slots
 
+
     public void OnDrop(PointerEventData eventData)
     {
         // Prevent dropping if the slot already has an ingredient
@@ -19,11 +20,11 @@ public class IngredientSlot : MonoBehaviour, IDropHandler
             dragged.transform.SetParent(transform);
             dragged.transform.localPosition = Vector3.zero;
 
-            // Optional: Hide the label (you can comment this out if you want to show it)
+            // Show label when dropped into slot
             if (dragged.label != null)
-                dragged.label.gameObject.SetActive(false);
+                dragged.label.gameObject.SetActive(true);
 
-            // Notify CraftingManager
+            // Update crafting manager
             CraftingManager crafting = FindAnyObjectByType<CraftingManager>();
             if (crafting != null)
             {
@@ -31,4 +32,32 @@ public class IngredientSlot : MonoBehaviour, IDropHandler
             }
         }
     }
+
+
+
+    public void ClearSlot()
+    {
+        CraftingManager crafting = FindAnyObjectByType<CraftingManager>();
+        if (crafting != null)
+        {
+            crafting.ClearIngredient(slotIndex);
+        }
+    }
+
+
+    public bool HasIngredient()
+    {
+        return transform.childCount > 0;
+    }
+
+    public string GetIngredientName()
+    {
+        if (transform.childCount > 0)
+        {
+            DragIngredient ingredient = transform.GetChild(0).GetComponent<DragIngredient>();
+            return ingredient != null ? ingredient.ingredientName : null;
+        }
+        return null;
+    }
 }
+

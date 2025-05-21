@@ -163,6 +163,15 @@ public class CraftingManager : MonoBehaviour
                 tmpText.text = ingredient;
         }
     }
+    public void ClearIngredient(int index)
+    {
+        if (index >= 0 && index < currentIngredients.Length)
+        {
+            currentIngredients[index] = "";
+            ValidateIngredients();
+        }
+    }
+
 
     public void CookSelectedFood()
     {
@@ -179,7 +188,6 @@ public class CraftingManager : MonoBehaviour
         float duration = 3f; // Cooking duration
         float elapsed = 0f;
 
-        // Cooking animation
         while (elapsed < duration)
         {
             elapsed += Time.deltaTime;
@@ -190,14 +198,15 @@ public class CraftingManager : MonoBehaviour
         cookingSlider.gameObject.SetActive(false);
         craftingPanel.SetActive(false);
 
-        // Spawn the cooked food on plate
+        // Spawn the cooked food before resetting selectedFood
         SpawnCookedFood();
 
-        // Reset state
+        // Reset state after spawning
         selectedFood = "";
         currentIngredients = new string[3];
         cookButton.interactable = false;
     }
+
 
     private void SpawnCookedFood()
     {
@@ -237,6 +246,8 @@ public class CraftingManager : MonoBehaviour
             dragScript.canvas = this.canvas; // Use the CraftingManager's canvas reference
         }
     }
+
+
 
     [System.Serializable]
     public class IngredientSprite

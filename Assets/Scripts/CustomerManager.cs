@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
@@ -6,8 +6,11 @@ using System.Collections;
 
 public class CustomerManager : MonoBehaviour
 {
+    private GameClock gameClock;
+
     [Header("Customer Setup")]
-    public List<CustomerData> todaysCustomers;
+    public List<CustomerData> allCustomerPool; // Drag all customer profiles here
+    private List<CustomerData> todaysCustomers = new List<CustomerData>();
     public Transform customerSpawnPoint;
     public GameObject customerPrefab; // Contains Image + Name + Order UI
 
@@ -18,6 +21,10 @@ public class CustomerManager : MonoBehaviour
     private GameObject currentCustomerInstance;
     private int customersServed = 0;
 
+    void Start()
+    {
+        gameClock = FindAnyObjectByType<GameClock>();
+    }
     public void StartCustomerFlow()
     {
         StartCoroutine(DelayedSpawn());
@@ -30,6 +37,35 @@ public class CustomerManager : MonoBehaviour
         SpawnNextCustomer();
     }
 
+    public void GenerateTodaysCustomers(int day)
+    {
+        todaysCustomers.Clear();
+        int customerCount = Mathf.Min(3 + day, 10); // e.g., Day 1 = 4 customers, caps at 10
+
+        List<CustomerData> shuffledPool = new List<CustomerData>(allCustomerPool);
+        ShuffleList(shuffledPool); // Randomize order
+
+        for (int i = 0; i < customerCount && i < shuffledPool.Count; i++)
+        {
+            todaysCustomers.Add(shuffledPool[i]);
+        }
+
+        currentCustomerIndex = 0;
+        customersServed = 0;
+        Debug.Log($"All customer pool size: {allCustomerPool.Count}");
+
+    }
+
+    private void ShuffleList<T>(List<T> list)
+    {
+        for (int i = 0; i < list.Count; i++)
+        {
+            T temp = list[i];
+            int randomIndex = Random.Range(i, list.Count);
+            list[i] = list[randomIndex];
+            list[randomIndex] = temp;
+        }
+    }
 
 
     public void SpawnNextCustomer()
@@ -40,14 +76,18 @@ public class CustomerManager : MonoBehaviour
         if (currentCustomerIndex >= todaysCustomers.Count)
         {
             Debug.Log("All customers served today!");
+
+            if (gameClock != null)
+                gameClock.CloseRestaurantEarly();
+
             return;
         }
 
         CustomerData customer = todaysCustomers[currentCustomerIndex];
         currentCustomerInstance = Instantiate(customerPrefab, customerSpawnPoint);
-        Debug.Log("Customer Spawned: " + customer.customerName);  // Debugging line
+        Debug.Log("Customer Spawned: " + customer.customerName);
 
-        // Debug the hierarchy of the instantiated customer
+        // Debug prefab children
         Debug.Log("Prefab Hierarchy:");
         foreach (Transform child in currentCustomerInstance.transform)
         {
@@ -76,6 +116,7 @@ public class CustomerManager : MonoBehaviour
 
         UpdateCustomerProgress();
     }
+
 
     public string GetCurrentCustomerOrder()
     {

@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
@@ -10,7 +10,7 @@ public class GameClock : MonoBehaviour
     private float currentTime = 9 * 60; // Start at 09:00
     public bool clockRunning = false;
     public CustomerManager customerManager; // Assign in Inspector
-
+    public GameManager gameManager; // Assign in Inspector
 
     void Start()
     {
@@ -24,23 +24,27 @@ public class GameClock : MonoBehaviour
         openButton.gameObject.SetActive(false); // Hide the button
         Debug.Log("Restaurant opened. Clock started.");
 
-        customerManager.StartCustomerFlow(); // spawn next customer
+        //Generate customers based on current day only when restaurant opens
+        customerManager.GenerateTodaysCustomers(gameManager.currentDay);
+        customerManager.StartCustomerFlow();
     }
-
 
     void Update()
     {
         if (!clockRunning) return;
 
         currentTime += Time.deltaTime * timeMultiplier / 60f;
-
         UpdateClockText();
 
         if (currentTime >= 17 * 60)
         {
             clockRunning = false;
             Debug.Log("Restaurant closed. Day ended.");
-            // TODO: Trigger day-end logic here
+
+            if (gameManager != null)
+            {
+                gameManager.ShowNextDayButton();
+            }
         }
     }
 
@@ -50,4 +54,25 @@ public class GameClock : MonoBehaviour
         int minutes = Mathf.FloorToInt(currentTime % 60);
         clockText.text = $"{hours:00}:{minutes:00}";
     }
+
+    public void ResetClock()
+    {
+        currentTime = 9 * 60;
+        UpdateClockText();
+        openButton.gameObject.SetActive(true);
+    }
+
+    public void CloseRestaurantEarly()
+    {
+        if (!clockRunning) return;
+
+        clockRunning = false;
+        Debug.Log("All customers served. Restaurant closed early.");
+
+        if (gameManager != null)
+        {
+            gameManager.ShowNextDayButton();
+        }
+    }
+
 }
