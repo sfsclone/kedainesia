@@ -1,0 +1,47 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class PauseMenu : MonoBehaviour
+{
+    [SerializeField] private GameObject pauseMenuPanel;
+
+    private bool isPaused = false;
+
+    private void Start()
+    {
+        pauseMenuPanel.SetActive(false); // Hide panel di awal
+    }
+
+    // panggil tombol pause
+    public void TooglePause()
+    {
+        if (isPaused)
+        {
+            ResumeGame();
+        }
+        else
+        {
+            PauseGame();
+        }
+    }
+
+    private void PauseGame()
+    {
+        pauseMenuPanel?.SetActive(true);
+        Time.timeScale = 0f; // freeze waktu ingame
+        isPaused = true;
+    }
+
+    public void ResumeGame()
+    {
+        pauseMenuPanel.SetActive(false);
+        Time.timeScale = 1f; // waktu lanjut
+        isPaused = false;
+    }
+
+    public void GoToMainMenu()
+    {
+        Time.timeScale = 1f; // mastiin waktu lanjut
+        SceneManager.LoadScene("MainMenu"); // ganti scene ke main menu
+    }
+}
