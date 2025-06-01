@@ -61,7 +61,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sunda Laki laki_0: 7866221284355709159
+      Sunda Laki laki_1: 2020780181958882922
+      Sunda Laki laki_2: 7486357625458350758
+      Sunda Laki laki_3: -3100080192743531170
+      Sunda Laki laki_4: -6813366591792432230
+      Sunda Laki laki_5: 5810103606182833954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

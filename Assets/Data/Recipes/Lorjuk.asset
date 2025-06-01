@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a271a0626f184a4f884a23ceee872aa, type: 3}
+  m_Name: Lorjuk
+  m_EditorClassIdentifier: 
+  recipeName: Lorjuk
+  foodIcon: {fileID: -3683565074687734449, guid: 0cd8c4e34a307864b910f538e30ccaec, type: 3}
+  requiredIngredients:
+  - Lorjuk
+  - Santan
+  - Bawang Putih

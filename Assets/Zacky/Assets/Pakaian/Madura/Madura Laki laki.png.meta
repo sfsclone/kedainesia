@@ -64,7 +64,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -275,7 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Madura Laki laki_0: 2986294167059269987
+      Madura Laki laki_1: 2926911045957380649
+      Madura Laki laki_2: -5617066305416471959
+      Madura Laki laki_3: 991233208620086666
+      Madura Laki laki_4: 1750801094660453459
+      Madura Laki laki_5: 8367485681267604548
+      Madura Laki laki_6: 6074134629325574623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
