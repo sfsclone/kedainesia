@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 667cdaf87c1a2c54b8417322e9df5824, type: 3}
-  m_Name: Betawi
+  m_Name: LelakiBetawi
   m_EditorClassIdentifier: 
-  customerName: Betawi
+  customerName: LelakiBetawi
   customerSprite: {fileID: 8908045514498463199, guid: cab2bd4724d764e4e8bd7bea59fdf5cb, type: 3}
-  associatedRecipe: {fileID: 11400000, guid: ce9b07077f7bab84295a267ad812b806, type: 2}
-  orderedFoodName: Kerak Telor
+  possibleRecipes:
+  - {fileID: 11400000, guid: ce9b07077f7bab84295a267ad812b806, type: 2}
+  - {fileID: 11400000, guid: 33b7cd9d81f14ee4eaca35653c6850b8, type: 2}
+  - {fileID: 11400000, guid: 3388170feb6cc684baeee061e5115f33, type: 2}
+  selectedRecipe: {fileID: 0}

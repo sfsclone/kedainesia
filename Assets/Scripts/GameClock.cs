@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
 using TMPro;
 
 public class GameClock : MonoBehaviour
@@ -11,6 +12,7 @@ public class GameClock : MonoBehaviour
     public bool clockRunning = false;
     public CustomerManager customerManager; // Assign in Inspector
     public GameManager gameManager; // Assign in Inspector
+    public GameObject restartDayButton; // assign in Inspector (optional)
 
     void Start()
     {

@@ -49,4 +49,18 @@ public class GameManager : MonoBehaviour
         if (dayText != null)
             dayText.text = $"Hari - {currentDay}";
     }
+
+    public void RestartDay()
+    {
+        Debug.Log("Restarting current day due to 3 warnings.");
+        FindAnyObjectByType<WarningSystem>()?.ResetWarnings();
+
+        // Reset the clock
+        FindAnyObjectByType<GameClock>()?.ResetClock();
+
+        // Clear and respawn customers
+        customerManager.ClearCustomers();
+        customerManager.GenerateTodaysCustomers(currentDay);
+    }
+   
 }

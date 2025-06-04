@@ -260,7 +260,6 @@ public class CraftingManager : MonoBehaviour
     }
 
 
-
     [System.Serializable]
     public class IngredientSprite
     {

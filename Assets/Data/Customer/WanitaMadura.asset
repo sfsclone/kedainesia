@@ -14,5 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: Wanita Madura
   customerSprite: {fileID: -1237182694038644034, guid: 61d83de8266ef144e9c3fab46815e20a, type: 3}
-  associatedRecipe: {fileID: 0}
-  orderedFoodName: 
+  possibleRecipes:
+  - {fileID: 11400000, guid: 219e560bc0e5dbe43be77c96776f9f3a, type: 2}
+  - {fileID: 11400000, guid: d9f8b6b4f8d51e848b2c591907f0b244, type: 2}
+  - {fileID: 11400000, guid: 2ce7621dd9f4e9f478e8e64ee8534e06, type: 2}
+  selectedRecipe: {fileID: 0}
