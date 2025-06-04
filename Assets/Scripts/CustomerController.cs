@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections;
 
 public class CustomerController : MonoBehaviour
 {
@@ -10,12 +11,17 @@ public class CustomerController : MonoBehaviour
     private bool isServed = false;
     private CustomerManager customerManager;
 
-
     public GameObject acceptOrderButton;
     public GameObject patienceSliderUI;
     public Slider patienceSlider;
 
     private bool isTimerActive = true;
+
+    [Header("Emoji")]
+    public Image emojiImage;          // assign the Image component in Inspector
+    public Sprite smileEmoji;         // assign smile sprite in Inspector
+    public Sprite angryEmoji;         // assign angry sprite in Inspector
+    public float emojiDisplayDuration = 1.5f;
 
     private void Start()
     {
@@ -23,6 +29,8 @@ public class CustomerController : MonoBehaviour
         currentTimer = preAcceptPatienceTime;
         patienceSlider.maxValue = preAcceptPatienceTime;
         patienceSlider.value = currentTimer;
+
+        if (emojiImage) emojiImage.enabled = false;  // hide emoji initially
     }
 
     private void Update()
@@ -38,15 +46,17 @@ public class CustomerController : MonoBehaviour
 
             if (!isServed)
             {
+                if (emojiImage)
+                {
+                    emojiImage.sprite = angryEmoji;
+                    emojiImage.enabled = true;
+                }
+
                 FindAnyObjectByType<WarningSystem>()?.AddWarning();
-            }
 
-            if (customerManager != null)
-            {
-                customerManager.OnCustomerLeftImpatiently();
+                // Delay destroy so emoji shows
+                StartCoroutine(LeaveUnhappy());
             }
-            Destroy(gameObject);
-
         }
     }
 
@@ -63,6 +73,30 @@ public class CustomerController : MonoBehaviour
     {
         isServed = true;
         isTimerActive = false;
+
+        if (emojiImage)
+        {
+            emojiImage.sprite = smileEmoji;
+            emojiImage.enabled = true;
+        }
+
+        StartCoroutine(LeaveHappily());
+    }
+
+    private IEnumerator LeaveHappily()
+    {
+        yield return null; // wait one frame to show emoji
+        yield return new WaitForSeconds(emojiDisplayDuration);
+        customerManager?.OnCustomerLeftImpatiently();
+        Destroy(gameObject);
+    }
+
+    private IEnumerator LeaveUnhappy()
+    {
+        yield return null; // wait one frame to show emoji
+        yield return new WaitForSeconds(emojiDisplayDuration);
+        customerManager?.OnCustomerLeftImpatiently();
+        Destroy(gameObject);
     }
 
     public bool IsOrderAccepted() => isAccepted;

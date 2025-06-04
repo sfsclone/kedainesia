@@ -111,6 +111,7 @@ public class CustomerManager : MonoBehaviour
         var image = currentCustomerInstance.transform.Find("OutfitImage")?.GetComponent<Image>();
         var nameText = currentCustomerInstance.transform.Find("NameText")?.GetComponent<TMP_Text>();
         var orderText = currentCustomerInstance.transform.Find("OrderText")?.GetComponent<TMP_Text>();
+        
 
         if (image)
             image.sprite = customer.customerSprite;
@@ -123,13 +124,14 @@ public class CustomerManager : MonoBehaviour
         else if (orderText)
             orderText.text = "Pesan: ???";
 
+
         UpdateCustomerProgress();
     }
-
     public void OnCustomerLeftImpatiently()
     {
         StartCoroutine(SpawnNextCustomerWithDelay());
     }
+
 
     public void OnFoodServed(string servedFoodName)
     {
@@ -139,13 +141,22 @@ public class CustomerManager : MonoBehaviour
         {
             customersServed++;
             UpdateCustomerProgress();
+
+            CustomerController controller = currentCustomerInstance?.GetComponent<CustomerController>();
+            if (controller != null)
+            {
+                controller.MarkAsServed();
+            }
+
             StartCoroutine(SpawnNextCustomerWithDelay());
         }
         else
         {
             Debug.Log("Incorrect food served.");
+            warningSystem?.AddWarning(); // or handle however you'd like
         }
     }
+
 
     private IEnumerator SpawnNextCustomerWithDelay()
     {

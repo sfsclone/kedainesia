@@ -23,6 +23,7 @@ public class CraftingManager : MonoBehaviour
     [Header("Buttons")]
     public Button stoveButton;
     public Button cookButton;
+    public Button clearPlateButton;
 
     [Header("Ingredient Input")]
     public string[] currentIngredients = new string[3];
@@ -37,26 +38,28 @@ public class CraftingManager : MonoBehaviour
     public Dictionary<string, Sprite> ingredientSprites = new Dictionary<string, Sprite>();
 
     [Header("Cooked Food UI")]
-    public Transform cookedFoodParent; // This should be your plate's transform
+    public Transform cookedFoodParent;
     public GameObject cookedFoodPrefab;
-    public Canvas canvas; // Reference to your main canvas
+    public Canvas canvas;
 
     private Coroutine cookingRoutine;
     private string selectedFood;
     public CustomerManager customerManager;
 
+    private bool isFoodOnPlate = false;
+
     private void Start()
     {
         stoveButton.onClick.AddListener(OpenCraftingPanel);
+        clearPlateButton.onClick.AddListener(ClearCookedFood);
+        clearPlateButton.gameObject.SetActive(false);
 
-        // Initialize ingredient sprites dictionary
         foreach (var entry in ingredientSpriteList)
         {
             if (!ingredientSprites.ContainsKey(entry.ingredientName))
                 ingredientSprites[entry.ingredientName] = entry.icon;
         }
 
-        // Set up UI state
         craftingPanel.SetActive(false);
         foodSelectionPanel.SetActive(true);
         ingredientInputPanel.SetActive(false);
@@ -64,7 +67,6 @@ public class CraftingManager : MonoBehaviour
 
         SpawnAllIngredientIcons();
 
-        // Find canvas if not assigned
         if (canvas == null)
         {
             canvas = GetComponentInParent<Canvas>();
@@ -83,6 +85,7 @@ public class CraftingManager : MonoBehaviour
         ingredientInputPanel.SetActive(false);
         selectedFood = "";
         LoadFoodButtons();
+        SpawnAllIngredientIcons();
     }
 
     public void SelectFood(string foodName)
@@ -90,13 +93,10 @@ public class CraftingManager : MonoBehaviour
         selectedFood = foodName;
         selectedFoodText.text = foodName;
 
-        // Reset ingredients
-        for (int i = 0; i < currentIngredients.Length; i++)
-            currentIngredients[i] = "";
+        ClearIngredientSlotsUI();
+        ClearIngredientSlotObjects();
+        ValidateIngredients();
 
-        cookButton.interactable = false;
-
-        // Switch panels
         foodSelectionPanel.SetActive(false);
         ingredientInputPanel.SetActive(true);
     }
@@ -116,33 +116,65 @@ public class CraftingManager : MonoBehaviour
         List<string> input = new List<string>(currentIngredients);
         input.RemoveAll(i => string.IsNullOrEmpty(i));
 
-        if (input.Count == 3 && new HashSet<string>(input).SetEquals(required))
-            cookButton.interactable = true;
-        else
-            cookButton.interactable = false;
+        cookButton.interactable = input.Count == 3 &&
+                                  new HashSet<string>(input).SetEquals(required) &&
+                                  !isFoodOnPlate;
+    }
+
+    private void ClearIngredientSlotsUI()
+    {
+        for (int i = 0; i < currentIngredients.Length; i++)
+        {
+            currentIngredients[i] = "";
+
+            Transform slot = ingredientInputPanel.transform.Find($"IngredientSlot{i + 1}");
+            if (slot != null)
+            {
+                Image iconImage = slot.Find("Icon")?.GetComponent<Image>();
+                if (iconImage != null)
+                {
+                    iconImage.sprite = null;
+                    iconImage.color = new Color(1, 1, 1, 0);
+                }
+            }
+        }
+    }
+
+    private void ClearIngredientSlotObjects()
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            Transform slot = ingredientInputPanel.transform.Find($"IngredientSlot{i + 1}");
+            if (slot != null)
+            {
+                foreach (Transform child in slot)
+                {
+                    if (child.name != "Icon" && child.name != "Label")
+                    {
+                        Destroy(child.gameObject);
+                    }
+                }
+            }
+        }
     }
 
     private void LoadFoodButtons()
     {
-        // Clear old buttons
         foreach (Transform child in foodButtonParent)
             Destroy(child.gameObject);
 
-        // Create new buttons
         foreach (RecipeData recipe in allRecipes)
         {
             GameObject button = Instantiate(foodButtonPrefab, foodButtonParent);
             TMP_Text buttonText = button.GetComponentInChildren<TMP_Text>();
-
             if (buttonText != null)
                 buttonText.text = recipe.recipeName;
 
-            // Set icon if it exists
             Transform iconTransform = button.transform.Find("Icon");
             if (iconTransform != null)
             {
                 Image iconImage = iconTransform.GetComponent<Image>();
-                if(iconImage != null && recipe.foodIcon != null)
+                if (iconImage != null && recipe.foodIcon != null)
                 {
                     iconImage.sprite = recipe.foodIcon;
                     iconImage.preserveAspect = true;
@@ -164,17 +196,16 @@ public class CraftingManager : MonoBehaviour
             DragIngredient dragScript = icon.GetComponent<DragIngredient>();
             dragScript.ingredientName = ingredient;
 
-            // Set icon sprite
             Image iconImage = icon.transform.Find("Icon")?.GetComponent<Image>();
             if (iconImage != null && ingredientSprites.ContainsKey(ingredient))
                 iconImage.sprite = ingredientSprites[ingredient];
 
-            // Set text label
             TMP_Text tmpText = icon.transform.Find("Label")?.GetComponent<TMP_Text>();
             if (tmpText != null)
                 tmpText.text = ingredient;
         }
     }
+
     public void ClearIngredient(int index)
     {
         if (index >= 0 && index < currentIngredients.Length)
@@ -184,9 +215,14 @@ public class CraftingManager : MonoBehaviour
         }
     }
 
-
     public void CookSelectedFood()
     {
+        if (isFoodOnPlate)
+        {
+            Debug.Log("Please clear the plate before cooking new food.");
+            return;
+        }
+
         if (cookingRoutine != null)
             StopCoroutine(cookingRoutine);
         cookingRoutine = StartCoroutine(CookingProcess());
@@ -197,7 +233,7 @@ public class CraftingManager : MonoBehaviour
         cookingSlider.gameObject.SetActive(true);
         cookingSlider.value = 0f;
 
-        float duration = 3f; // Cooking duration
+        float duration = 3f;
         float elapsed = 0f;
 
         while (elapsed < duration)
@@ -210,15 +246,14 @@ public class CraftingManager : MonoBehaviour
         cookingSlider.gameObject.SetActive(false);
         craftingPanel.SetActive(false);
 
-        // Spawn the cooked food before resetting selectedFood
         SpawnCookedFood();
 
-        // Reset state after spawning
         selectedFood = "";
         currentIngredients = new string[3];
+        ClearIngredientSlotsUI();
+        ClearIngredientSlotObjects();
         cookButton.interactable = false;
     }
-
 
     private void SpawnCookedFood()
     {
@@ -229,15 +264,12 @@ public class CraftingManager : MonoBehaviour
             return;
         }
 
-        // Clear previous food if needed
         foreach (Transform child in cookedFoodParent)
             Destroy(child.gameObject);
 
-        // Create new food instance
         GameObject cookedFood = Instantiate(cookedFoodPrefab, cookedFoodParent);
         cookedFood.transform.localPosition = Vector3.zero;
 
-        // Set up food visuals
         Image foodImage = cookedFood.GetComponent<Image>();
         if (foodImage != null)
         {
@@ -245,20 +277,28 @@ public class CraftingManager : MonoBehaviour
             foodImage.preserveAspect = true;
         }
 
-        // Set up drag functionality
         DragCookedFood dragScript = cookedFood.GetComponent<DragCookedFood>();
         if (dragScript == null)
             dragScript = cookedFood.AddComponent<DragCookedFood>();
 
         dragScript.foodName = cookedRecipe.recipeName;
-
-        // Set canvas reference - this is the corrected version
         if (dragScript.canvas == null)
-        {
-            dragScript.canvas = this.canvas; // Use the CraftingManager's canvas reference
-        }
+            dragScript.canvas = this.canvas;
+
+        isFoodOnPlate = true;
+        clearPlateButton.gameObject.SetActive(true);
+        cookButton.interactable = false;
     }
 
+    public void ClearCookedFood()
+    {
+        foreach (Transform child in cookedFoodParent)
+            Destroy(child.gameObject);
+
+        isFoodOnPlate = false;
+        clearPlateButton.gameObject.SetActive(false);
+        ValidateIngredients();
+    }
 
     [System.Serializable]
     public class IngredientSprite
