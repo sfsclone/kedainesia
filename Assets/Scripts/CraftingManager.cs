@@ -137,6 +137,18 @@ public class CraftingManager : MonoBehaviour
             if (buttonText != null)
                 buttonText.text = recipe.recipeName;
 
+            // Set icon if it exists
+            Transform iconTransform = button.transform.Find("Icon");
+            if (iconTransform != null)
+            {
+                Image iconImage = iconTransform.GetComponent<Image>();
+                if(iconImage != null && recipe.foodIcon != null)
+                {
+                    iconImage.sprite = recipe.foodIcon;
+                    iconImage.preserveAspect = true;
+                }
+            }
+
             button.GetComponent<Button>().onClick.AddListener(() => SelectFood(recipe.recipeName));
         }
     }

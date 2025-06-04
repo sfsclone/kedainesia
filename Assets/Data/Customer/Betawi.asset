@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Betawi
   m_EditorClassIdentifier: 
   customerName: Betawi
-  customerSprite: {fileID: -1228623626960166904, guid: 1aa348c7b4d62f7488d1abe115935fea, type: 3}
+  customerSprite: {fileID: 8908045514498463199, guid: cab2bd4724d764e4e8bd7bea59fdf5cb, type: 3}
   associatedRecipe: {fileID: 11400000, guid: ce9b07077f7bab84295a267ad812b806, type: 2}
   orderedFoodName: Kerak Telor
