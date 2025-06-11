@@ -1,10 +1,12 @@
+﻿using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 
 public class WarningSystem : MonoBehaviour
 {
-    [SerializeField] private GameObject restartDayButton;
+    [SerializeField] private GameObject gameOverPanel; 
+    [SerializeField] private Button restartButton;     
+
     [SerializeField] private GameClock gameClock;
     [SerializeField] private CustomerManager customerManager;
     [SerializeField] private Button openButton;
@@ -12,7 +14,7 @@ public class WarningSystem : MonoBehaviour
     public int maxWarnings = 3;
     private int currentWarnings = 0;
 
-    public TMP_Text warningText; // Assign in Inspector: "Peringatan: X / 3"
+    public TMP_Text warningText;
     public GameManager gameManager;
 
     public bool HasReachedMaxWarnings => currentWarnings >= maxWarnings;
@@ -20,6 +22,8 @@ public class WarningSystem : MonoBehaviour
     private void Start()
     {
         UpdateWarningUI();
+        restartButton.onClick.AddListener(OnRestartDayClicked); // Hook listener
+        gameOverPanel.SetActive(false);                         // Hide at start
     }
 
     public void AddWarning()
@@ -29,19 +33,19 @@ public class WarningSystem : MonoBehaviour
 
         if (currentWarnings >= maxWarnings)
         {
-            Debug.Log("Max warnings reached. Show restart button.");
+            Debug.Log("Max warnings reached. Show Game Over panel.");
             gameClock.clockRunning = false;
             gameClock.ResetClock();
             customerManager.ClearCustomers();
-            restartDayButton.SetActive(true);
+
+            gameOverPanel.SetActive(true); //Show Game Over
         }
     }
 
     public void OnRestartDayClicked()
     {
         currentWarnings = 0;
-        restartDayButton.SetActive(false);
-        customerManager.GenerateTodaysCustomers(gameManager.currentDay);
+        gameOverPanel.SetActive(false); //Hide Game Over
         gameClock.ResetClock();
         UpdateWarningUI();
     }
@@ -55,8 +59,6 @@ public class WarningSystem : MonoBehaviour
     private void UpdateWarningUI()
     {
         if (warningText != null)
-        {
             warningText.text = $"Peringatan : {currentWarnings} / {maxWarnings}";
-        }
     }
 }

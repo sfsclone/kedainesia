@@ -54,25 +54,45 @@ public class CustomerManager : MonoBehaviour
     public void GenerateTodaysCustomers(int day)
     {
         todaysCustomers.Clear();
-        int customerCount = Mathf.Min(1 + day, 10);
+        int customerCount = Mathf.Min(2 + day, 10);
 
         List<CustomerData> shuffledPool = new List<CustomerData>(allCustomerPool);
         ShuffleList(shuffledPool);
 
-        for (int i = 0; i < customerCount && i < shuffledPool.Count; i++)
+        HashSet<string> usedRecipes = new HashSet<string>();
+
+        foreach (CustomerData original in shuffledPool)
         {
-            CustomerData customer = ScriptableObject.Instantiate(shuffledPool[i]);
-            if (customer.possibleRecipes.Count > 0)
-            {
-                customer.selectedRecipe = customer.possibleRecipes[Random.Range(0, customer.possibleRecipes.Count)];
-            }
+            if (todaysCustomers.Count >= customerCount)
+                break;
+
+            if (original.possibleRecipes.Count == 0)
+                continue;
+
+            // Filter recipes that haven't been used yet
+            List<RecipeData> availableRecipes = original.possibleRecipes.FindAll(recipe =>
+                recipe != null && !usedRecipes.Contains(recipe.recipeName));
+
+            if (availableRecipes.Count == 0)
+                continue;
+
+            // Instantiate a fresh copy of the customer
+            CustomerData customer = ScriptableObject.Instantiate(original);
+            customer.selectedRecipe = availableRecipes[Random.Range(0, availableRecipes.Count)];
+
+            // Mark recipe as used
+            usedRecipes.Add(customer.selectedRecipe.recipeName);
+
+            // Add to today's list
             todaysCustomers.Add(customer);
         }
 
         currentCustomerIndex = 0;
         customersServed = 0;
-        Debug.Log($"All customer pool size: {allCustomerPool.Count}");
+
+        Debug.Log($"Generated {todaysCustomers.Count} unique customer orders.");
     }
+
 
     private void ShuffleList<T>(List<T> list)
     {
@@ -153,7 +173,7 @@ public class CustomerManager : MonoBehaviour
         else
         {
             Debug.Log("Incorrect food served.");
-            warningSystem?.AddWarning(); // or handle however you'd like
+            warningSystem?.AddWarning(); 
         }
     }
 

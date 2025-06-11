@@ -54,7 +54,6 @@ public class CustomerController : MonoBehaviour
 
                 FindAnyObjectByType<WarningSystem>()?.AddWarning();
 
-                // Delay destroy so emoji shows
                 StartCoroutine(LeaveUnhappy());
             }
         }
@@ -74,27 +73,28 @@ public class CustomerController : MonoBehaviour
         isServed = true;
         isTimerActive = false;
 
+        StartCoroutine(LeaveHappily());
+    }
+
+    private IEnumerator LeaveHappily()
+    {
         if (emojiImage)
         {
             emojiImage.sprite = smileEmoji;
             emojiImage.enabled = true;
         }
 
-        StartCoroutine(LeaveHappily());
-    }
-
-    private IEnumerator LeaveHappily()
-    {
-        yield return null; // wait one frame to show emoji
         yield return new WaitForSeconds(emojiDisplayDuration);
+
         customerManager?.OnCustomerLeftImpatiently();
         Destroy(gameObject);
     }
 
     private IEnumerator LeaveUnhappy()
     {
-        yield return null; // wait one frame to show emoji
+        yield return null; // wait one frame to ensure emoji appears
         yield return new WaitForSeconds(emojiDisplayDuration);
+
         customerManager?.OnCustomerLeftImpatiently();
         Destroy(gameObject);
     }

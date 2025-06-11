@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b72abecdd044def498be2cfe6d1876a6
+guid: e7b8cb683fab753479d59cb5a8821196
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3326007939848190586
-    second: Buku Resep_0
+      213: -1166855656581969921
+    second: MADURA_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Buku Resep_0
+      name: MADURA_0
       rect:
         serializedVersion: 2
-        x: 160
-        y: 102
-        width: 688
-        height: 839
+        x: 0
+        y: 0
+        width: 284
+        height: 347
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68548319665a7d1d0800000000000000
-      internalID: -3326007939848190586
+      spriteID: ff7c64d66fe7ecfe0800000000000000
+      internalID: -1166855656581969921
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7ad4b52e2d74edd48bf7e4c6289212c7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Buku Resep_0: -3326007939848190586
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

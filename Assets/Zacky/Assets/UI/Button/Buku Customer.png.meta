@@ -129,12 +129,12 @@ TextureImporter:
       name: Buku Customer_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 0
-        width: 1019
-        height: 1019
+        x: 162
+        y: 156
+        width: 680
+        height: 792
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2ce94375ef0c1a643af266a4b1afed4b
     internalID: 0
     vertices: []
     indices: 
@@ -159,9 +159,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Buku Customer_0: -3619672645815357102
+      Buku Customer_1: -438600566
+      Buku Customer_2: -158611542
+      Buku Customer_3: -1614175866
+      Buku Customer_4: -4980382
+      Buku Customer_5: -397521057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

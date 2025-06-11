@@ -12,7 +12,15 @@ public class PauseMenu : MonoBehaviour
         pauseMenuPanel.SetActive(false); // Hide panel di awal
     }
 
-    // panggil tombol pause
+    private void Update()
+    {
+        // Toggle pause if Esc is pressed
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            TooglePause();
+        }
+    }
+
     public void TooglePause()
     {
         if (isPaused)

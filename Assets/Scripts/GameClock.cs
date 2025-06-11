@@ -60,9 +60,11 @@ public class GameClock : MonoBehaviour
     public void ResetClock()
     {
         currentTime = 9 * 60;
+        clockRunning = false; // Make sure the clock stops
         UpdateClockText();
         openButton.gameObject.SetActive(true);
     }
+
 
     public void CloseRestaurantEarly()
     {

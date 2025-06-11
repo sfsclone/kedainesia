@@ -88,6 +88,13 @@ public class CraftingManager : MonoBehaviour
         SpawnAllIngredientIcons();
     }
 
+    public void CloseCraftingPanel()
+    {
+        craftingPanel.SetActive(false);
+        foodSelectionPanel.SetActive(false);
+        ingredientInputPanel.SetActive(false);
+    }
+
     public void SelectFood(string foodName)
     {
         selectedFood = foodName;
@@ -246,14 +253,16 @@ public class CraftingManager : MonoBehaviour
         cookingSlider.gameObject.SetActive(false);
         craftingPanel.SetActive(false);
 
-        SpawnCookedFood();
+        SpawnCookedFood(); 
 
-        selectedFood = "";
         currentIngredients = new string[3];
         ClearIngredientSlotsUI();
         ClearIngredientSlotObjects();
         cookButton.interactable = false;
+
+        selectedFood = ""; 
     }
+
 
     private void SpawnCookedFood()
     {
