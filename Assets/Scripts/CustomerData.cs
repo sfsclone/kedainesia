@@ -7,7 +7,6 @@ public class CustomerData : ScriptableObject
     public string customerName;
     public Sprite customerSprite;
 
-
     [Header("Recipe Options")]
     public List<RecipeData> possibleRecipes; // Customer can order from this list
 

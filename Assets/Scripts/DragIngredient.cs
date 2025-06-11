@@ -23,7 +23,6 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
     {
         originalParent = transform.parent;
 
-        // If it's inside a slot, clear that slot
         IngredientSlot slot = originalParent.GetComponent<IngredientSlot>();
         if (slot != null)
         {
@@ -54,7 +53,7 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
         if (droppedOnSlot)
         {
             // Let OnDrop in IngredientSlot handle parenting
-            // We don't touch the label here — it will stay visible
+            //don't touch the label here.it will stay visible
         }
         else
         {

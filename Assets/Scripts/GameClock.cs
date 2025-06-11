@@ -6,13 +6,13 @@ using TMPro;
 public class GameClock : MonoBehaviour
 {
     public TMP_Text clockText;
-    public Button openButton; // assign in Inspector
+    public Button openButton; 
     public float timeMultiplier = 60f; // 1 real second = 1 in-game minute
     private float currentTime = 9 * 60; // Start at 09:00
     public bool clockRunning = false;
-    public CustomerManager customerManager; // Assign in Inspector
-    public GameManager gameManager; // Assign in Inspector
-    public GameObject restartDayButton; // assign in Inspector (optional)
+    public CustomerManager customerManager; 
+    public GameManager gameManager; 
+    public GameObject restartDayButton; 
 
     void Start()
     {
