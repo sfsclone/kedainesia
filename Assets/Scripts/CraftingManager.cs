@@ -83,6 +83,7 @@ public class CraftingManager : MonoBehaviour
         craftingPanel.SetActive(true);
         foodSelectionPanel.SetActive(true);
         ingredientInputPanel.SetActive(false);
+        selectedFoodText.text = "Select Food";
         selectedFood = "";
         LoadFoodButtons();
         SpawnAllIngredientIcons();
@@ -253,16 +254,19 @@ public class CraftingManager : MonoBehaviour
         cookingSlider.gameObject.SetActive(false);
         craftingPanel.SetActive(false);
 
-        SpawnCookedFood(); 
+        SpawnCookedFood();
 
+        // Reset ingredient slots and UI
         currentIngredients = new string[3];
         ClearIngredientSlotsUI();
         ClearIngredientSlotObjects();
         cookButton.interactable = false;
 
-        selectedFood = ""; 
+        // Go back to food selection to allow a new recipe
+        ingredientInputPanel.SetActive(false);
+        foodSelectionPanel.SetActive(true);
+        selectedFoodText.text = "Select Food";
     }
-
 
     private void SpawnCookedFood()
     {

@@ -3,11 +3,12 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using System.Collections;
 
-[RequireComponent(typeof(Image))] // Works with UI Image
+[RequireComponent(typeof(Image))]
 public class CustomerDropZone : MonoBehaviour, IDropHandler
 {
     [Header("References")]
     public CustomerManager customerManager;
+    private CraftingManager craftingManager; // cached reference
 
     [Header("Feedback")]
     public float flashDuration = 0.3f;
@@ -21,35 +22,34 @@ public class CustomerDropZone : MonoBehaviour, IDropHandler
     {
         customerImage = GetComponent<Image>();
         if (customerImage != null)
-        {
             originalColor = customerImage.color;
-        }
         else
-        {
             Debug.LogError("CustomerDropZone requires an Image component!");
-        }
 
-        // Null check for critical reference
+        // Find managers once at start (only if not assigned in Inspector)
         if (customerManager == null)
         {
             customerManager = FindAnyObjectByType<CustomerManager>();
             if (customerManager == null)
-            {
                 Debug.LogError("CustomerManager reference is missing!");
-            }
+        }
+
+        if (craftingManager == null)
+        {
+            craftingManager = FindAnyObjectByType<CraftingManager>();
+            if (craftingManager == null)
+                Debug.LogError("CraftingManager reference is missing!");
         }
     }
 
     public void OnDrop(PointerEventData eventData)
     {
-        // 1. Null check for the dragged object
         if (eventData.pointerDrag == null)
         {
             Debug.LogWarning("Dropped object is null");
             return;
         }
 
-        // 2. Get the DragCookedFood component
         DragCookedFood draggedFood = eventData.pointerDrag.GetComponent<DragCookedFood>();
         if (draggedFood == null)
         {
@@ -57,26 +57,27 @@ public class CustomerDropZone : MonoBehaviour, IDropHandler
             return;
         }
 
-        // 3. Null check for customerManager
         if (customerManager == null)
         {
             Debug.LogError("CustomerManager reference is missing!");
             return;
         }
 
-        // 4. Check if the order is correct
         bool isCorrectOrder = customerManager.CheckOrder(draggedFood.foodName);
 
         if (isCorrectOrder)
         {
-            // Success - serve the food
+            // Serve the food
             draggedFood.ServeToCustomer(transform);
             customerManager.OnFoodServed(draggedFood.foodName);
             StartCoroutine(FlashFeedback(successColor));
+
+            // Clear plate so player can cook again
+            if (craftingManager != null)
+                craftingManager.ClearCookedFood();
         }
         else
         {
-            // Wrong order - return food
             draggedFood.ReturnToPlate();
             StartCoroutine(FlashFeedback(failColor));
         }

@@ -3,40 +3,57 @@ using TMPro;
 
 public class GameManager : MonoBehaviour
 {
-    public CustomerManager customerManager; // Assign in Inspector
+    public CustomerManager customerManager;
+    public TMP_Text dayText;
+    public GameObject nextDayButton;
+    public GameObject gameFinishedPanel;
 
     public int currentDay = 1;
     public int maxDays = 7;
-    public TMP_Text dayText;
-
-    public GameObject nextDayButton; // Assign in Inspector
 
     private void Start()
     {
+        nextDayButton.SetActive(false); // Ensure hidden at start
         UpdateDayUI();
-        FindAnyObjectByType<GameClock>().ResetClock();
+        FindAnyObjectByType<GameClock>()?.ResetClock();
     }
 
     public void ShowNextDayButton()
     {
-        nextDayButton.SetActive(true);
+        // Show only if the day isn't finished yet
+        if (currentDay < maxDays)
+            nextDayButton.SetActive(true);
+        else
+            ShowGameFinishedPanel();
     }
 
     public void OnNextDayButtonClicked()
     {
-        nextDayButton.SetActive(false);
+        nextDayButton.SetActive(false); // Hide the button
         AdvanceDay();
     }
 
-    public GameObject gameFinishedPanel; // Assign in Inspector
-
     public void AdvanceDay()
     {
+        nextDayButton.SetActive(false); // Double safety: hide again here
+
         if (currentDay < maxDays)
         {
             currentDay++;
             UpdateDayUI();
-            FindAnyObjectByType<GameClock>().ResetClock();
+
+            // Reset clock
+            var clock = FindAnyObjectByType<GameClock>();
+            if (clock != null)
+            {
+                clock.clockRunning = false;
+                clock.ResetClock();
+            }
+
+            // Reset warnings and customers
+            FindAnyObjectByType<WarningSystem>()?.ResetWarnings();
+            customerManager.ClearCustomers();
+            customerManager.GenerateTodaysCustomers(currentDay);
         }
         else
         {
@@ -51,31 +68,32 @@ public class GameManager : MonoBehaviour
             gameFinishedPanel.SetActive(true);
     }
 
-
     void UpdateDayUI()
     {
         if (dayText != null)
             dayText.text = $"Hari - {currentDay}";
 
         FindAnyObjectByType<GuideBookManager>()?.UpdateGuideBookVisibility(currentDay);
-    }
 
+        // Make sure button is hidden every time day UI updates
+        if (nextDayButton != null)
+            nextDayButton.SetActive(false);
+    }
 
     public void RestartDay()
     {
         Debug.Log("Restarting current day due to 3 warnings.");
         FindAnyObjectByType<WarningSystem>()?.ResetWarnings();
 
-        // Reset the clock
-        FindAnyObjectByType<GameClock>()?.ResetClock();
+        var clock = FindAnyObjectByType<GameClock>();
+        clock?.ResetClock();
 
-        // Clear and respawn customers
         customerManager.ClearCustomers();
         customerManager.GenerateTodaysCustomers(currentDay);
+
+        nextDayButton.SetActive(false); // Hide again
     }
 
-
-    //testing hari
 #if UNITY_EDITOR
     void Update()
     {
@@ -94,28 +112,23 @@ public class GameManager : MonoBehaviour
         {
             currentDay++;
             UpdateDayUI();
-
-            // Reset warnings
             FindAnyObjectByType<WarningSystem>()?.ResetWarnings();
 
-            // Stop and reset the clock
             var clock = FindAnyObjectByType<GameClock>();
             if (clock != null)
             {
-                clock.clockRunning = false; // Make sure it's stopped
+                clock.clockRunning = false;
                 clock.ResetClock();
             }
 
-            // Clear all customers
             customerManager.ClearCustomers();
+            customerManager.GenerateTodaysCustomers(currentDay);
+
+            nextDayButton.SetActive(false); // Hide button again
         }
         else
         {
             Debug.Log("Cannot skip: final day reached.");
         }
     }
-
-
-
-
 }
