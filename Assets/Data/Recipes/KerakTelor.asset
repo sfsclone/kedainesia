@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: KerakTelor
   m_EditorClassIdentifier: 
   recipeName: Kerak Telor
-  foodIcon: {fileID: 6141895471942032067, guid: f8af4ed83c7b3e2429240d1a5bab725a, type: 3}
+  foodIcon: {fileID: -1357678807144816177, guid: 63a229407f834c34f9cef82081fc3d41, type: 3}
   requiredIngredients:
   - Telur
   - Beras Ketan

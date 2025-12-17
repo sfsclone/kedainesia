@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class CraftingPanelManager : MonoBehaviour
 {
@@ -6,7 +7,7 @@ public class CraftingPanelManager : MonoBehaviour
 
     void Update()
     {
-        if (craftingPanel.activeSelf && Input.GetKeyDown(KeyCode.Escape))
+        if (craftingPanel.activeSelf && Keyboard.current != null && Keyboard.current.escapeKey.wasPressedThisFrame)
         {
             CloseCraftingPanel();
         }

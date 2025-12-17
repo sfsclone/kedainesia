@@ -68,7 +68,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8488316724350608867, guid: 33030155f0e560f4a806cf71c9bd78e9, type: 3}
+  m_Sprite: {fileID: 8844207728151305399, guid: 2f600963f48d1b541915881701f6410a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -148,8 +148,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelContent: {fileID: 6127795878715098976}
   buttonImage: {fileID: 1020254211876206462}
-  defaultSprite: {fileID: -7173637394108627218, guid: a5fb34de3de230245acff80a6d52ae07, type: 3}
-  toggledSprite: {fileID: 8488316724350608867, guid: 33030155f0e560f4a806cf71c9bd78e9, type: 3}
+  defaultSprite: {fileID: 1848261029782416750, guid: 138c27da545914f4e9830408b631c081, type: 3}
+  toggledSprite: {fileID: 8844207728151305399, guid: 2f600963f48d1b541915881701f6410a, type: 3}
 --- !u!1 &4663040716758673719
 GameObject:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WanitaBetawi
   m_EditorClassIdentifier: 
   customerName: Wanita Betawi
-  customerSprite: {fileID: -3916790838539179368, guid: 8d26fb689bceb8f47b3b6fded14f6be4, type: 3}
+  customerSprite: {fileID: 3913343687703803790, guid: 1acb2f1129912d44385e5c34fb05910c, type: 3}
   possibleRecipes:
   - {fileID: 11400000, guid: ce9b07077f7bab84295a267ad812b806, type: 2}
   - {fileID: 11400000, guid: 33b7cd9d81f14ee4eaca35653c6850b8, type: 2}

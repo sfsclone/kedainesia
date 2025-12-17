@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: KembangGoyang
   m_EditorClassIdentifier: 
   recipeName: Kembang Goyang
-  foodIcon: {fileID: 7449724838469933353, guid: 16987b3d7c5e01d40a90fac7c9809c60, type: 3}
+  foodIcon: {fileID: -4258698085648274820, guid: 4b01b19ceb685344998342a66914f20c, type: 3}
   requiredIngredients:
   - Tepung Ketan
   - Santan

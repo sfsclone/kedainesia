@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.InputSystem;
+using Unity.VisualScripting;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -15,7 +17,7 @@ public class PauseMenu : MonoBehaviour
     private void Update()
     {
         // Toggle pause if Esc is pressed
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Keyboard.current != null && Keyboard.current.escapeKey.isPressed)
         {
             TooglePause();
         }

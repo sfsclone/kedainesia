@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WanitaBaduy
   m_EditorClassIdentifier: 
   customerName: Wanita Baduy
-  customerSprite: {fileID: -3916790838539179368, guid: 29ed6503dbe433b4da819a3725d3aa20, type: 3}
+  customerSprite: {fileID: -9073713060060779092, guid: ab7c4efd21736264fbd5450326cfd6fb, type: 3}
   possibleRecipes:
   - {fileID: 11400000, guid: 28e7a6c2de63b8d4c93312c183a49665, type: 2}
   - {fileID: 11400000, guid: 92f2045c4cc826c4fadf0e41651cf843, type: 2}

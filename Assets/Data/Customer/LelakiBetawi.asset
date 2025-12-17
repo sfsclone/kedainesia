@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 667cdaf87c1a2c54b8417322e9df5824, type: 3}
   m_Name: LelakiBetawi
   m_EditorClassIdentifier: 
-  customerName: LelakiBetawi
-  customerSprite: {fileID: 8908045514498463199, guid: cab2bd4724d764e4e8bd7bea59fdf5cb, type: 3}
+  customerName: Lelaki Betawi
+  customerSprite: {fileID: -2424480511501180145, guid: a87e4e721d8d5fa43aeecbe97761e8c6, type: 3}
   possibleRecipes:
   - {fileID: 11400000, guid: ce9b07077f7bab84295a267ad812b806, type: 2}
   - {fileID: 11400000, guid: 33b7cd9d81f14ee4eaca35653c6850b8, type: 2}

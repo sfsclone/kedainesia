@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Jojorong
   m_EditorClassIdentifier: 
   recipeName: Jojorong
-  foodIcon: {fileID: 6915046966221817491, guid: cde37018cdcae324fa78601d7e6bb36b, type: 3}
+  foodIcon: {fileID: 8803126524976240101, guid: 5465b99beb9595e49a410ce34ca28a89, type: 3}
   requiredIngredients:
   - Beras
   - Ragi Alami

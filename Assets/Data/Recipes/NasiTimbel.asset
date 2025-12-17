@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NasiTimbel
   m_EditorClassIdentifier: 
   recipeName: Nasi Timbel
-  foodIcon: {fileID: -1531828281054562033, guid: ba64854b02f7352499933eebdac77745, type: 3}
+  foodIcon: {fileID: -2574288549837599722, guid: 03da0cfe5c1b9c64d8db7bc3680f1413, type: 3}
   requiredIngredients:
   - Beras Ketan
   - Daun Pisang

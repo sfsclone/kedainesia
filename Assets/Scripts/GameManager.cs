@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using TMPro;
+using UnityEngine.InputSystem;
 
 public class GameManager : MonoBehaviour
 {
@@ -97,7 +98,7 @@ public class GameManager : MonoBehaviour
 #if UNITY_EDITOR
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.N))
+        if (Keyboard.current != null && Keyboard.current.nKey.wasPressedThisFrame)
         {
             SkipToNextDayForTesting();
         }

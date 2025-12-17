@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pepes
   m_EditorClassIdentifier: 
   recipeName: Pepes
-  foodIcon: {fileID: -6741687628473836099, guid: 0f772337826006b4085f440e8416769c, type: 3}
+  foodIcon: {fileID: 8444212657524039682, guid: 1e9cc7855a5040f40a63621ddd5e3c3e, type: 3}
   requiredIngredients:
   - Ikan Segar
   - Kunyit

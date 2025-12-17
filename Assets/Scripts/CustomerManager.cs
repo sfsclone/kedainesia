@@ -210,7 +210,7 @@ public class CustomerManager : MonoBehaviour
 
     private void UpdateCustomerProgress()
     {
-        customerProgressText.text = $"{customersServed}/{todaysCustomers.Count} Customers";
+        customerProgressText.text = $"{customersServed}/{todaysCustomers.Count} Pelanggan";
     }
 
     public void ClearCustomers()
