@@ -1,16 +1,40 @@
 fileFormatVersion: 2
-guid: b6f87d7345772fb44a04ad005b016eb1
+guid: a4684ef8b7e95ee47857630ced6c7744
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1898238725013921592
-    second: frame hari_0
+      213: 1135112129639667522
+    second: lose_0
   - first:
-      213: 8990418805312886935
-    second: frame hari_1
+      213: 8875718442503512415
+    second: lose_1
   - first:
-      213: -3748927897099788531
-    second: frame hari_2
+      213: -8390199439895473014
+    second: lose_2
+  - first:
+      213: 8923441785786600931
+    second: lose_3
+  - first:
+      213: 4100222492586098704
+    second: lose_4
+  - first:
+      213: 2434553889130296176
+    second: lose_5
+  - first:
+      213: -6979351457777605792
+    second: lose_6
+  - first:
+      213: 7542473160524251783
+    second: lose_7
+  - first:
+      213: -5572762895134492091
+    second: lose_8
+  - first:
+      213: -7620801386827941842
+    second: lose_9
+  - first:
+      213: -4700250858834468698
+    second: lose_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,13 +156,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: frame hari_1
+      name: lose_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1098
-        width: 439
-        height: 618
+        x: 875
+        y: 335
+        width: 1100
+        height: 1100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,8 +171,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7989aa8254264cc70800000000000000
-      internalID: 8990418805312886935
+      spriteID: 247d863c77ab0cf00800000000000000
+      internalID: 1135112129639667522
       vertices: []
       indices: 
       edges: []
@@ -157,7 +181,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 32bbf9d1f3236534bb383e9f47e98f49
+    spriteID: b55bee9162db79c428536a7f4b87787c
     internalID: 0
     vertices: []
     indices: 
@@ -167,9 +191,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      frame hari_0: -1898238725013921592
-      frame hari_1: 8990418805312886935
-      frame hari_2: -3748927897099788531
+      lose_0: 1135112129639667522
+      lose_1: 8875718442503512415
+      lose_10: -4700250858834468698
+      lose_2: -8390199439895473014
+      lose_3: 8923441785786600931
+      lose_4: 4100222492586098704
+      lose_5: 2434553889130296176
+      lose_6: -6979351457777605792
+      lose_7: 7542473160524251783
+      lose_8: -5572762895134492091
+      lose_9: -7620801386827941842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

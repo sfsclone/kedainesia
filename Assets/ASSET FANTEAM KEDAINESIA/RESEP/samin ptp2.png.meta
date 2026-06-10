@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 40aa767ff6124a94ea1f2258935680eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4114870707855976645
+    second: samin ptp2_0
+  - first:
+      213: 8110510390893325856
+    second: samin ptp2_1
+  - first:
+      213: 5387822616375317418
+    second: samin ptp2_2
+  - first:
+      213: 2918637503187380733
+    second: samin ptp2_3
+  - first:
+      213: -7505566168006949358
+    second: samin ptp2_4
+  - first:
+      213: -2173650818686079901
+    second: samin ptp2_5
+  - first:
+      213: 6391816097862331772
+    second: samin ptp2_6
+  - first:
+      213: 6064846691638839859
+    second: samin ptp2_7
+  - first:
+      213: 2536632669641693629
+    second: samin ptp2_8
+  - first:
+      213: -8355641285957471986
+    second: samin ptp2_9
+  - first:
+      213: 2825585188250139156
+    second: samin ptp2_10
+  - first:
+      213: -7400063583215570914
+    second: samin ptp2_11
+  - first:
+      213: 2419790756342663814
+    second: samin ptp2_12
+  - first:
+      213: 6423814104407424239
+    second: samin ptp2_13
+  - first:
+      213: 8564700443769190562
+    second: samin ptp2_14
+  - first:
+      213: 2232941024399336761
+    second: samin ptp2_15
+  - first:
+      213: 1636333240757319389
+    second: samin ptp2_16
+  - first:
+      213: -6697552528588121190
+    second: samin ptp2_17
+  - first:
+      213: 6741706463003116049
+    second: samin ptp2_18
+  - first:
+      213: 8935266215049912826
+    second: samin ptp2_19
+  - first:
+      213: -5089291649199165017
+    second: samin ptp2_20
+  - first:
+      213: 7473343210600418180
+    second: samin ptp2_21
+  - first:
+      213: 3247293524088086210
+    second: samin ptp2_22
+  - first:
+      213: -2871251171393336685
+    second: samin ptp2_23
+  - first:
+      213: -8065299198312345877
+    second: samin ptp2_24
+  - first:
+      213: -8344407645827126728
+    second: samin ptp2_25
+  - first:
+      213: 4039911602560740125
+    second: samin ptp2_26
+  - first:
+      213: -1053454637176366558
+    second: samin ptp2_27
+  - first:
+      213: -2836401113711697505
+    second: samin ptp2_28
+  - first:
+      213: 6021058512972477301
+    second: samin ptp2_29
+  - first:
+      213: -4543997729477183869
+    second: samin ptp2_30
+  - first:
+      213: 4892826575856925092
+    second: samin ptp2_31
+  - first:
+      213: 1033279943230205519
+    second: samin ptp2_32
+  - first:
+      213: -4630678496210780937
+    second: samin ptp2_33
+  - first:
+      213: -6123987340188589960
+    second: samin ptp2_34
+  - first:
+      213: 863271137536441813
+    second: samin ptp2_35
+  - first:
+      213: -2372236564045636636
+    second: samin ptp2_36
+  - first:
+      213: -1088777982659496232
+    second: samin ptp2_37
+  - first:
+      213: 9122121536690847350
+    second: samin ptp2_38
+  - first:
+      213: -7441301536671875786
+    second: samin ptp2_39
+  - first:
+      213: -6684390281920344892
+    second: samin ptp2_40
+  - first:
+      213: 7160633600798402740
+    second: samin ptp2_41
+  - first:
+      213: -3286991876840843487
+    second: samin ptp2_42
+  - first:
+      213: 4123394150650367538
+    second: samin ptp2_43
+  - first:
+      213: -4076196920369267448
+    second: samin ptp2_44
+  - first:
+      213: -1275399939495488989
+    second: samin ptp2_45
+  - first:
+      213: -1775379774092716442
+    second: samin ptp2_46
+  - first:
+      213: -3371194615190149546
+    second: samin ptp2_47
+  - first:
+      213: 6966940813558716211
+    second: samin ptp2_48
+  - first:
+      213: -7463294187348840365
+    second: samin ptp2_49
+  - first:
+      213: 2794488273013427116
+    second: samin ptp2_50
+  - first:
+      213: 3351948945616981415
+    second: samin ptp2_51
+  - first:
+      213: -3215554436745096634
+    second: samin ptp2_52
+  - first:
+      213: -3713968389651319256
+    second: samin ptp2_53
+  - first:
+      213: 2735059440939665057
+    second: samin ptp2_54
+  - first:
+      213: 6971998515058710997
+    second: samin ptp2_55
+  - first:
+      213: -4991738511789706027
+    second: samin ptp2_56
+  - first:
+      213: -5752095016729575979
+    second: samin ptp2_57
+  - first:
+      213: 4764220196488419434
+    second: samin ptp2_58
+  - first:
+      213: 5352263488045818739
+    second: samin ptp2_59
+  - first:
+      213: -7091490178639423608
+    second: samin ptp2_60
+  - first:
+      213: -3094540850976266035
+    second: samin ptp2_61
+  - first:
+      213: 7933708880043283140
+    second: samin ptp2_62
+  - first:
+      213: -1659528614973955201
+    second: samin ptp2_63
+  - first:
+      213: -4155315702568369776
+    second: samin ptp2_64
+  - first:
+      213: -426686332167804980
+    second: samin ptp2_65
+  - first:
+      213: -5411526394156805057
+    second: samin ptp2_66
+  - first:
+      213: 7712788983651225982
+    second: samin ptp2_67
+  - first:
+      213: 4474562631972622713
+    second: samin ptp2_68
+  - first:
+      213: -5878736735724036874
+    second: samin ptp2_69
+  - first:
+      213: -7282822846729169089
+    second: samin ptp2_70
+  - first:
+      213: -8057129281597612002
+    second: samin ptp2_71
+  - first:
+      213: -8140860859048466322
+    second: samin ptp2_72
+  - first:
+      213: -2391386329409305422
+    second: samin ptp2_73
+  - first:
+      213: -1254953231324237513
+    second: samin ptp2_74
+  - first:
+      213: 297573138808673973
+    second: samin ptp2_75
+  - first:
+      213: -5878161219812244224
+    second: samin ptp2_76
+  - first:
+      213: 2272661346490716002
+    second: samin ptp2_77
+  - first:
+      213: -7711533744599372792
+    second: samin ptp2_78
+  - first:
+      213: -5768233384818711883
+    second: samin ptp2_79
+  - first:
+      213: 9004015808074357082
+    second: samin ptp2_80
+  - first:
+      213: -880698244322269906
+    second: samin ptp2_81
+  - first:
+      213: 4739685997783902795
+    second: samin ptp2_82
+  - first:
+      213: -6172675570359351918
+    second: samin ptp2_83
+  - first:
+      213: -6974794832467323947
+    second: samin ptp2_84
+  - first:
+      213: -1567326514633173042
+    second: samin ptp2_85
+  - first:
+      213: 51532137951728604
+    second: samin ptp2_86
+  - first:
+      213: 2471670781601468980
+    second: samin ptp2_87
+  - first:
+      213: -5958331173705996067
+    second: samin ptp2_88
+  - first:
+      213: -371609628635876503
+    second: samin ptp2_89
+  - first:
+      213: -8138324569705186649
+    second: samin ptp2_90
+  - first:
+      213: 1372261724573862633
+    second: samin ptp2_91
+  - first:
+      213: -8374323642906443015
+    second: samin ptp2_92
+  - first:
+      213: -1684494940857736553
+    second: samin ptp2_93
+  - first:
+      213: 6406836871145640057
+    second: samin ptp2_94
+  - first:
+      213: 6104439700714427286
+    second: samin ptp2_95
+  - first:
+      213: -588090214102958071
+    second: samin ptp2_96
+  - first:
+      213: -5064633222853779467
+    second: samin ptp2_97
+  - first:
+      213: 1116714763448764123
+    second: samin ptp2_98
+  - first:
+      213: 4475979220624182608
+    second: samin ptp2_99
+  - first:
+      213: -731999297491800801
+    second: samin ptp2_100
+  - first:
+      213: 5298596144877298923
+    second: samin ptp2_101
+  - first:
+      213: 3105505228513780067
+    second: samin ptp2_102
+  - first:
+      213: 5692560714643224261
+    second: samin ptp2_103
+  - first:
+      213: 7424143134054343974
+    second: samin ptp2_104
+  - first:
+      213: -4664509415734835201
+    second: samin ptp2_105
+  - first:
+      213: 8409933089643123911
+    second: samin ptp2_106
+  - first:
+      213: 456689490684357589
+    second: samin ptp2_107
+  - first:
+      213: -2098987928138832120
+    second: samin ptp2_108
+  - first:
+      213: 7831787263604957477
+    second: samin ptp2_109
+  - first:
+      213: 5967707043249118060
+    second: samin ptp2_110
+  - first:
+      213: -6233204894925525387
+    second: samin ptp2_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samin ptp2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 466
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37959984ea05e6c0800000000000000
+      internalID: -4114870707855976645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1710
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eaf4caa325e8070800000000000000
+      internalID: 8110510390893325856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1710
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ddd9af1465ca40800000000000000
+      internalID: 5387822616375317418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1710
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ed957855118820800000000000000
+      internalID: 2918637503187380733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1710
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21681cd165fd6d790800000000000000
+      internalID: -7505566168006949358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1710
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36caa7ec814a5d1e0800000000000000
+      internalID: -2173650818686079901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1709
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d25be20ea44b850800000000000000
+      internalID: 6391816097862331772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_7
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1761
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0650eee9aa2450800000000000000
+      internalID: 6064846691638839859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1710
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d4af29fde33320800000000000000
+      internalID: 2536632669641693629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1710
+        width: 518
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01baef358cca0c80800000000000000
+      internalID: -8355641285957471986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1232
+        width: 356
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a314412ce763720800000000000000
+      internalID: 2825585188250139156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1470
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10b127d061bd4990800000000000000
+      internalID: -7400063583215570914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1470
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a049e4fd2d49120800000000000000
+      internalID: 2419790756342663814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1458
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3954a4e8f52950800000000000000
+      internalID: 6423814104407424239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_14
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1514
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83e760dadebd670800000000000000
+      internalID: 8564700443769190562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_15
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1470
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93528b3f7000dfe10800000000000000
+      internalID: 2232941024399336761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_16
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1470
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f08da96c65b610800000000000000
+      internalID: 1636333240757319389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1470
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5cfcd5738d03a0800000000000000
+      internalID: -6697552528588121190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1470
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112814b1f4a5f8d50800000000000000
+      internalID: 6741706463003116049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_19
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1470
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af169911841700c70800000000000000
+      internalID: 8935266215049912826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1470
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a13f1395343f59b0800000000000000
+      internalID: -5089291649199165017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_21
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1470
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b4a68fd06a6b760800000000000000
+      internalID: 7473343210600418180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1400
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce52b85144b01d20800000000000000
+      internalID: 3247293524088086210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_23
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1434
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a0d2ca5444728d0800000000000000
+      internalID: -2871251171393336685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_24
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1400
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee89556c1d421090800000000000000
+      internalID: -8065299198312345877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_25
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1400
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aab69e475b23c80800000000000000
+      internalID: -8344407645827126728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1408
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bac9ab236a01830800000000000000
+      internalID: 4039911602560740125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1337
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a5d14c6906161f0800000000000000
+      internalID: -1053454637176366558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_28
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1329
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9121b8073413a8d0800000000000000
+      internalID: -2836401113711697505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1328
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f09d01d81f8350800000000000000
+      internalID: 6021058512972477301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_30
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1329
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b452e32a70f0c0800000000000000
+      internalID: -4543997729477183869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_31
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1328
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9fa81f8dfc6e340800000000000000
+      internalID: 4892826575856925092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_32
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1258
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea5c142a2f65e00800000000000000
+      internalID: 1033279943230205519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_33
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1257
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcf05c21768cbfb0800000000000000
+      internalID: -4630678496210780937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1244
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870e11bd5f9330ba0800000000000000
+      internalID: -6123987340188589960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1292
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf4b99684fafb00800000000000000
+      internalID: 863271137536441813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1258
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebddd4e96f141fd0800000000000000
+      internalID: -2372236564045636636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_37
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1266
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d670508132e3e0f0800000000000000
+      internalID: -1088777982659496232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 700
+        width: 426
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef560e439489e70800000000000000
+      internalID: 9122121536690847350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 980
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dba189daf2bb890800000000000000
+      internalID: -7441301536671875786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_40
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 980
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc801a34764c33a0800000000000000
+      internalID: -6684390281920344892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 980
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a05e325eaf5360800000000000000
+      internalID: 7160633600798402740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_42
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 980
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1279e41ad424262d0800000000000000
+      internalID: -3286991876840843487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_43
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 980
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4072222d393930800000000000000
+      internalID: 4123394150650367538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_44
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 980
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d39de5f707e67c0800000000000000
+      internalID: -4076196920369267448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_45
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 980
+        width: 145
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32211db238edc4ee0800000000000000
+      internalID: -1275399939495488989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_46
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 980
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665ac770859c57e0800000000000000
+      internalID: -1775379774092716442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_47
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 980
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a1ecdb5c1731d0800000000000000
+      internalID: -3371194615190149546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_48
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 909
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337965be1cb8fa060800000000000000
+      internalID: 6966940813558716211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_49
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 908
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350b5d49a7d0d6890800000000000000
+      internalID: -7463294187348840365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_50
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 895
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc5f9474408c620800000000000000
+      internalID: 2794488273013427116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_51
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 943
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adceb08ec3848e20800000000000000
+      internalID: 3351948945616981415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_52
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 909
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64290e9c64e0063d0800000000000000
+      internalID: -3215554436745096634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_53
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 895
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826bdc35d65557cc0800000000000000
+      internalID: -3713968389651319256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_54
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 909
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a689c01212e4f520800000000000000
+      internalID: 2735059440939665057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_55
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 895
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d910a0d5b381c060800000000000000
+      internalID: 6971998515058710997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_56
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 908
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d433295548c9bab0800000000000000
+      internalID: -4991738511789706027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_57
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 909
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf985ee047c20b0800000000000000
+      internalID: -5752095016729575979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_58
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 918
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a681f6bd609ed1240800000000000000
+      internalID: 4764220196488419434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_59
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 909
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a34de84f074a40800000000000000
+      internalID: 5352263488045818739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_60
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 847
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887960e3147f59d90800000000000000
+      internalID: -7091490178639423608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_61
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 838
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ef9add7bfd05d0800000000000000
+      internalID: -3094540850976266035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_62
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 838
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2975a11323a1e60800000000000000
+      internalID: 7933708880043283140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 837
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73a1e9648b28f8e0800000000000000
+      internalID: -1659528614973955201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_64
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 838
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0914fc2626a5556c0800000000000000
+      internalID: -4155315702568369776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_65
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 828
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7af94aa0b141af0800000000000000
+      internalID: -426686332167804980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_66
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 837
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3412af7a6566e4b0800000000000000
+      internalID: -5411526394156805057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_67
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 838
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d31e67b4590b60800000000000000
+      internalID: 7712788983651225982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_68
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 837
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97117fba107d81e30800000000000000
+      internalID: 4474562631972622713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_69
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 838
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc1123f5188a6ea0800000000000000
+      internalID: -5878736735724036874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_70
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 767
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37db9af4373eea90800000000000000
+      internalID: -7282822846729169089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_71
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 767
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e9fc5b935f2090800000000000000
+      internalID: -8057129281597612002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_72
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 767
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e88a4e2ad50f80800000000000000
+      internalID: -8140860859048466322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_73
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 767
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b445d2bdc610ded0800000000000000
+      internalID: -2391386329409305422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_74
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 801
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731b0356fa2859ee0800000000000000
+      internalID: -1254953231324237513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_75
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 767
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b693617131312400800000000000000
+      internalID: 297573138808673973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_76
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 775
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0054d90b3839c6ea0800000000000000
+      internalID: -5878161219812244224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 581
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f075c147d1a8f10800000000000000
+      internalID: 2272661346490716002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_78
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 493
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c67bfaae02bf490800000000000000
+      internalID: -7711533744599372792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_79
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 431
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e4544c4e13ffa0800000000000000
+      internalID: -5768233384818711883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_80
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 360
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5916401ca0b4fc70800000000000000
+      internalID: 9004015808074357082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_81
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e256cd8ec9127c3f0800000000000000
+      internalID: -880698244322269906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_82
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 351
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6dc49d4fb6c140800000000000000
+      internalID: 4739685997783902795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_83
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 280
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295cff2e540465aa0800000000000000
+      internalID: -6172675570359351918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_84
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 422
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d31e8dcd0d843f90800000000000000
+      internalID: -6974794832467323947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_85
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 493
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71d38c6dcbf3ae0800000000000000
+      internalID: -1567326514633173042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_86
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 422
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd31129d43417b000800000000000000
+      internalID: 51532137951728604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_87
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 351
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432511bfa732d4220800000000000000
+      internalID: 2471670781601468980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_88
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 314
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82e19bd51cf4da0800000000000000
+      internalID: -5958331173705996067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_89
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 280
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9633b0af207c7daf0800000000000000
+      internalID: -371609628635876503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_90
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 493
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa73eb2cecde0f80800000000000000
+      internalID: -8138324569705186649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_91
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 280
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea071894c04b0310800000000000000
+      internalID: 1372261724573862633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_92
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 421
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2086e040d68cb80800000000000000
+      internalID: -8374323642906443015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_93
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 351
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7926b30b6c87f98e0800000000000000
+      internalID: -1684494940857736553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_94
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 493
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970d28e7038a9e850800000000000000
+      internalID: 6406836871145640057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_95
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 422
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69310e9a09357b450800000000000000
+      internalID: 6104439700714427286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_96
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 351
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900828ce01fa6d7f0800000000000000
+      internalID: -588090214102958071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 421
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff982adaeec6b9b0800000000000000
+      internalID: -5064633222853779467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_98
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 493
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd64cc6292e5f7f00800000000000000
+      internalID: 1116714763448764123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_99
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 341
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d855be26fdd1e30800000000000000
+      internalID: 4475979220624182608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_100
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 421
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6a29648a67d5f0800000000000000
+      internalID: -731999297491800801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_101
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 350
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be46aafde15688940800000000000000
+      internalID: 5298596144877298923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_102
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 493
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361aea93d88f81b20800000000000000
+      internalID: 3105505228513780067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_103
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 422
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c637aa3fc9000f40800000000000000
+      internalID: 5692560714643224261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_104
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 350
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e6fa78dad70760800000000000000
+      internalID: 7424143134054343974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_105
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 493
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff709a76665544fb0800000000000000
+      internalID: -4664509415734835201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_106
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 408
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c45bf8569516b470800000000000000
+      internalID: 8409933089643123911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_107
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 351
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db25e01cac765600800000000000000
+      internalID: 456689490684357589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_108
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 478
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807a37ba995eed2e0800000000000000
+      internalID: -2098987928138832120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_109
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 493
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5212a9b850910bc60800000000000000
+      internalID: 7831787263604957477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_110
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 493
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bd57400fd81d250800000000000000
+      internalID: 5967707043249118060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin ptp2_111
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 198
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eecb94c253f79a0800000000000000
+      internalID: -6233204894925525387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      samin ptp2_0: -4114870707855976645
+      samin ptp2_1: 8110510390893325856
+      samin ptp2_10: 2825585188250139156
+      samin ptp2_100: -731999297491800801
+      samin ptp2_101: 5298596144877298923
+      samin ptp2_102: 3105505228513780067
+      samin ptp2_103: 5692560714643224261
+      samin ptp2_104: 7424143134054343974
+      samin ptp2_105: -4664509415734835201
+      samin ptp2_106: 8409933089643123911
+      samin ptp2_107: 456689490684357589
+      samin ptp2_108: -2098987928138832120
+      samin ptp2_109: 7831787263604957477
+      samin ptp2_11: -7400063583215570914
+      samin ptp2_110: 5967707043249118060
+      samin ptp2_111: -6233204894925525387
+      samin ptp2_12: 2419790756342663814
+      samin ptp2_13: 6423814104407424239
+      samin ptp2_14: 8564700443769190562
+      samin ptp2_15: 2232941024399336761
+      samin ptp2_16: 1636333240757319389
+      samin ptp2_17: -6697552528588121190
+      samin ptp2_18: 6741706463003116049
+      samin ptp2_19: 8935266215049912826
+      samin ptp2_2: 5387822616375317418
+      samin ptp2_20: -5089291649199165017
+      samin ptp2_21: 7473343210600418180
+      samin ptp2_22: 3247293524088086210
+      samin ptp2_23: -2871251171393336685
+      samin ptp2_24: -8065299198312345877
+      samin ptp2_25: -8344407645827126728
+      samin ptp2_26: 4039911602560740125
+      samin ptp2_27: -1053454637176366558
+      samin ptp2_28: -2836401113711697505
+      samin ptp2_29: 6021058512972477301
+      samin ptp2_3: 2918637503187380733
+      samin ptp2_30: -4543997729477183869
+      samin ptp2_31: 4892826575856925092
+      samin ptp2_32: 1033279943230205519
+      samin ptp2_33: -4630678496210780937
+      samin ptp2_34: -6123987340188589960
+      samin ptp2_35: 863271137536441813
+      samin ptp2_36: -2372236564045636636
+      samin ptp2_37: -1088777982659496232
+      samin ptp2_38: 9122121536690847350
+      samin ptp2_39: -7441301536671875786
+      samin ptp2_4: -7505566168006949358
+      samin ptp2_40: -6684390281920344892
+      samin ptp2_41: 7160633600798402740
+      samin ptp2_42: -3286991876840843487
+      samin ptp2_43: 4123394150650367538
+      samin ptp2_44: -4076196920369267448
+      samin ptp2_45: -1275399939495488989
+      samin ptp2_46: -1775379774092716442
+      samin ptp2_47: -3371194615190149546
+      samin ptp2_48: 6966940813558716211
+      samin ptp2_49: -7463294187348840365
+      samin ptp2_5: -2173650818686079901
+      samin ptp2_50: 2794488273013427116
+      samin ptp2_51: 3351948945616981415
+      samin ptp2_52: -3215554436745096634
+      samin ptp2_53: -3713968389651319256
+      samin ptp2_54: 2735059440939665057
+      samin ptp2_55: 6971998515058710997
+      samin ptp2_56: -4991738511789706027
+      samin ptp2_57: -5752095016729575979
+      samin ptp2_58: 4764220196488419434
+      samin ptp2_59: 5352263488045818739
+      samin ptp2_6: 6391816097862331772
+      samin ptp2_60: -7091490178639423608
+      samin ptp2_61: -3094540850976266035
+      samin ptp2_62: 7933708880043283140
+      samin ptp2_63: -1659528614973955201
+      samin ptp2_64: -4155315702568369776
+      samin ptp2_65: -426686332167804980
+      samin ptp2_66: -5411526394156805057
+      samin ptp2_67: 7712788983651225982
+      samin ptp2_68: 4474562631972622713
+      samin ptp2_69: -5878736735724036874
+      samin ptp2_7: 6064846691638839859
+      samin ptp2_70: -7282822846729169089
+      samin ptp2_71: -8057129281597612002
+      samin ptp2_72: -8140860859048466322
+      samin ptp2_73: -2391386329409305422
+      samin ptp2_74: -1254953231324237513
+      samin ptp2_75: 297573138808673973
+      samin ptp2_76: -5878161219812244224
+      samin ptp2_77: 2272661346490716002
+      samin ptp2_78: -7711533744599372792
+      samin ptp2_79: -5768233384818711883
+      samin ptp2_8: 2536632669641693629
+      samin ptp2_80: 9004015808074357082
+      samin ptp2_81: -880698244322269906
+      samin ptp2_82: 4739685997783902795
+      samin ptp2_83: -6172675570359351918
+      samin ptp2_84: -6974794832467323947
+      samin ptp2_85: -1567326514633173042
+      samin ptp2_86: 51532137951728604
+      samin ptp2_87: 2471670781601468980
+      samin ptp2_88: -5958331173705996067
+      samin ptp2_89: -371609628635876503
+      samin ptp2_9: -8355641285957471986
+      samin ptp2_90: -8138324569705186649
+      samin ptp2_91: 1372261724573862633
+      samin ptp2_92: -8374323642906443015
+      samin ptp2_93: -1684494940857736553
+      samin ptp2_94: 6406836871145640057
+      samin ptp2_95: 6104439700714427286
+      samin ptp2_96: -588090214102958071
+      samin ptp2_97: -5064633222853779467
+      samin ptp2_98: 1116714763448764123
+      samin ptp2_99: 4475979220624182608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

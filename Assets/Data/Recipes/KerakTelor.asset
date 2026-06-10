@@ -15,6 +15,6 @@ MonoBehaviour:
   recipeName: Kerak Telor
   foodIcon: {fileID: 2610234907525638080, guid: 46ba9dc5d3018f94693cf47fd2db782f, type: 3}
   requiredIngredients:
-  - Telur
+  - Telur Bebek
   - Beras Ketan
   - Kelapa Parut

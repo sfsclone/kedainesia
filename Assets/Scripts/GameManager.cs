@@ -1,13 +1,15 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
+using UnityEngine.Serialization;
 
 public class GameManager : MonoBehaviour
 {
     public CustomerManager customerManager;
     public TMP_Text dayText;
     public GameObject nextDayButton;
-    public GameObject gameFinishedPanel;
+    [FormerlySerializedAs("gameFinishedPanel")]
+    public GameObject winPanel;
 
     public int currentDay = 1;
     public int maxDays = 7;
@@ -22,26 +24,46 @@ public class GameManager : MonoBehaviour
 
     public void ShowNextDayButton()
     {
-        // Show only if the day isn't finished yet
+        if (winPanel != null)
+            winPanel.SetActive(true);
+
         if (currentDay < maxDays)
-            nextDayButton.SetActive(true);
+        {
+            if (nextDayButton != null)
+                nextDayButton.SetActive(true);
+        }
         else
-            ShowGameFinishedPanel();
+        {
+            if (nextDayButton != null)
+                nextDayButton.SetActive(false);
+            
+            // Handle final win logic
+            PlayerPrefs.SetInt("HighestUnlockedDay", maxDays);
+            PlayerPrefs.Save();
+        }
     }
 
     public void OnNextDayButtonClicked()
     {
-        nextDayButton.SetActive(false); // Hide the button
+        if (nextDayButton != null)
+            nextDayButton.SetActive(false);
+        if (winPanel != null)
+            winPanel.SetActive(false);
         AdvanceDay();
     }
 
     public void AdvanceDay()
     {
-        nextDayButton.SetActive(false); // Double safety: hide again here
+        if (nextDayButton != null)
+            nextDayButton.SetActive(false);
+        if (winPanel != null)
+            winPanel.SetActive(false);
 
         if (currentDay < maxDays)
         {
             currentDay++;
+            PlayerPrefs.SetInt("HighestUnlockedDay", currentDay);
+            PlayerPrefs.Save();
             UpdateDayUI();
 
             // Reset clock
@@ -60,14 +82,16 @@ public class GameManager : MonoBehaviour
         else
         {
             Debug.Log("Game finished. Final day complete.");
-            ShowGameFinishedPanel();
+            ShowWinPanel();
         }
     }
 
-    void ShowGameFinishedPanel()
+    void ShowWinPanel()
     {
-        if (gameFinishedPanel != null)
-            gameFinishedPanel.SetActive(true);
+        PlayerPrefs.SetInt("HighestUnlockedDay", maxDays);
+        PlayerPrefs.Save();
+        if (winPanel != null)
+            winPanel.SetActive(true);
     }
 
     void UpdateDayUI()
@@ -77,9 +101,11 @@ public class GameManager : MonoBehaviour
 
         FindAnyObjectByType<GuideBookManager>()?.UpdateGuideBookVisibility(currentDay);
 
-        // Make sure button is hidden every time day UI updates
+        // Make sure button and panel are hidden every time day UI updates
         if (nextDayButton != null)
             nextDayButton.SetActive(false);
+        if (winPanel != null)
+            winPanel.SetActive(false);
     }
 
     public void RestartDay()
@@ -93,7 +119,10 @@ public class GameManager : MonoBehaviour
         customerManager.ClearCustomers();
         customerManager.GenerateTodaysCustomers(currentDay);
 
-        nextDayButton.SetActive(false); // Hide again
+        if (nextDayButton != null)
+            nextDayButton.SetActive(false);
+        if (winPanel != null)
+            winPanel.SetActive(false);
     }
 
 #if UNITY_EDITOR

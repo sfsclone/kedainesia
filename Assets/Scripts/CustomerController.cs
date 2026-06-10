@@ -12,13 +12,15 @@ public class CustomerController : MonoBehaviour
     private CustomerManager customerManager;
 
     public GameObject acceptOrderButton;
+    public GameObject komporButton;
     public GameObject patienceSliderUI;
     public Slider patienceSlider;
 
+    private CraftingManager craftingManager;
     private bool isTimerActive = true;
 
     [Header("Emoji")]
-    public Image emojiImage;          // assign the Image component in Inspector
+public Image emojiImage;          // assign the Image component in Inspector
     public Sprite smileEmoji;         // assign smile sprite in Inspector
     public Sprite angryEmoji;         // assign angry sprite in Inspector
     public float emojiDisplayDuration = 1.5f;
@@ -26,11 +28,13 @@ public class CustomerController : MonoBehaviour
     private void Start()
     {
         customerManager = FindAnyObjectByType<CustomerManager>();
+        craftingManager = FindAnyObjectByType<CraftingManager>();
         currentTimer = preAcceptPatienceTime;
         patienceSlider.maxValue = preAcceptPatienceTime;
         patienceSlider.value = currentTimer;
 
         if (emojiImage) emojiImage.enabled = false;  // hide emoji initially
+        if (komporButton) komporButton.SetActive(false);
     }
 
     private void Update()
@@ -66,10 +70,19 @@ public class CustomerController : MonoBehaviour
         patienceSlider.maxValue = postAcceptPatienceTime;
         patienceSlider.value = currentTimer;
         acceptOrderButton.SetActive(false);
+        if (komporButton) komporButton.SetActive(true);
+    }
+
+    public void OpenStove()
+    {
+        if (craftingManager != null)
+        {
+            craftingManager.OpenCraftingPanel();
+        }
     }
 
     public void MarkAsServed()
-    {
+{
         isServed = true;
         isTimerActive = false;
 

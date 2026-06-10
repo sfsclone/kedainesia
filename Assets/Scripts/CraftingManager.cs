@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -50,9 +50,9 @@ public class CraftingManager : MonoBehaviour
 
     private void Start()
     {
-        stoveButton.onClick.AddListener(OpenCraftingPanel);
+        if (stoveButton != null) stoveButton.onClick.AddListener(OpenCraftingPanel);
         clearPlateButton.onClick.AddListener(ClearCookedFood);
-        clearPlateButton.gameObject.SetActive(false);
+clearPlateButton.gameObject.SetActive(false);
 
         foreach (var entry in ingredientSpriteList)
         {

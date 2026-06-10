@@ -17,9 +17,12 @@ public class MainMenuManager : MonoBehaviour
         SceneManager.LoadScene("GameScene1");
     }
 
-    public void LoadTutorialScene()
+    public void ResetProgress()
     {
-        SceneManager.LoadScene("TutorialScene");
+        PlayerPrefs.DeleteKey("HighestUnlockedDay");
+        PlayerPrefs.Save();
+        Debug.Log("Progress reset. Reloading scene...");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void QuitGame()

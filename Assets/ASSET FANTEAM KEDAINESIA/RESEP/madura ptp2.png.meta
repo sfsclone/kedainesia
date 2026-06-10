@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: 9c94f8b6016091b4e968b17e8547f728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6055558603727896450
+    second: madura ptp2_0
+  - first:
+      213: 4660291913336943274
+    second: madura ptp2_1
+  - first:
+      213: 5294380832328129349
+    second: madura ptp2_2
+  - first:
+      213: -3979416403111835583
+    second: madura ptp2_3
+  - first:
+      213: -107009427009848317
+    second: madura ptp2_4
+  - first:
+      213: 8306317355171352979
+    second: madura ptp2_5
+  - first:
+      213: -8610366853465774223
+    second: madura ptp2_6
+  - first:
+      213: 1679273370382801108
+    second: madura ptp2_7
+  - first:
+      213: 6099947948203331023
+    second: madura ptp2_8
+  - first:
+      213: 747311259785419029
+    second: madura ptp2_9
+  - first:
+      213: 4458555707933023401
+    second: madura ptp2_10
+  - first:
+      213: 1936531089895849935
+    second: madura ptp2_11
+  - first:
+      213: -988797608590284855
+    second: madura ptp2_12
+  - first:
+      213: 4463718275975539214
+    second: madura ptp2_13
+  - first:
+      213: 4239232587642538108
+    second: madura ptp2_14
+  - first:
+      213: -7711753967412441560
+    second: madura ptp2_15
+  - first:
+      213: 3315269162704816324
+    second: madura ptp2_16
+  - first:
+      213: 8400305106502955269
+    second: madura ptp2_17
+  - first:
+      213: -1009124321972348146
+    second: madura ptp2_18
+  - first:
+      213: 444326988864655917
+    second: madura ptp2_19
+  - first:
+      213: -4758114498344497675
+    second: madura ptp2_20
+  - first:
+      213: -7375732513050352587
+    second: madura ptp2_21
+  - first:
+      213: -6123140963010752031
+    second: madura ptp2_22
+  - first:
+      213: -8881754976198995048
+    second: madura ptp2_23
+  - first:
+      213: -7711144194869356483
+    second: madura ptp2_24
+  - first:
+      213: -8612077515844362896
+    second: madura ptp2_25
+  - first:
+      213: 957607317102425577
+    second: madura ptp2_26
+  - first:
+      213: 9105386626640054340
+    second: madura ptp2_27
+  - first:
+      213: -7027083215841485292
+    second: madura ptp2_28
+  - first:
+      213: 6837098086178788881
+    second: madura ptp2_29
+  - first:
+      213: 3898489493736231244
+    second: madura ptp2_30
+  - first:
+      213: -1267364681036809967
+    second: madura ptp2_31
+  - first:
+      213: -8418891323498417838
+    second: madura ptp2_32
+  - first:
+      213: -2846064098055541734
+    second: madura ptp2_33
+  - first:
+      213: -2368178888118873839
+    second: madura ptp2_34
+  - first:
+      213: 4862654555231597685
+    second: madura ptp2_35
+  - first:
+      213: -3565692343046411217
+    second: madura ptp2_36
+  - first:
+      213: -233022712230798287
+    second: madura ptp2_37
+  - first:
+      213: 8795054481270401076
+    second: madura ptp2_38
+  - first:
+      213: -5113430304901866819
+    second: madura ptp2_39
+  - first:
+      213: -8415211923067310460
+    second: madura ptp2_40
+  - first:
+      213: 5516130599017586489
+    second: madura ptp2_41
+  - first:
+      213: 8509488839355591180
+    second: madura ptp2_42
+  - first:
+      213: 6844241782016246327
+    second: madura ptp2_43
+  - first:
+      213: 2987817741623360497
+    second: madura ptp2_44
+  - first:
+      213: -8174469037129832994
+    second: madura ptp2_45
+  - first:
+      213: -2983885395761428936
+    second: madura ptp2_46
+  - first:
+      213: 1577118086401235723
+    second: madura ptp2_47
+  - first:
+      213: -9038042833412255871
+    second: madura ptp2_48
+  - first:
+      213: 8298482408228258154
+    second: madura ptp2_49
+  - first:
+      213: -1791988242219257272
+    second: madura ptp2_50
+  - first:
+      213: -5596076317210082636
+    second: madura ptp2_51
+  - first:
+      213: -7892126613986106709
+    second: madura ptp2_52
+  - first:
+      213: -3457444470121398605
+    second: madura ptp2_53
+  - first:
+      213: -8333112363011405749
+    second: madura ptp2_54
+  - first:
+      213: -4628095709168726020
+    second: madura ptp2_55
+  - first:
+      213: -8423181430158393155
+    second: madura ptp2_56
+  - first:
+      213: 5213777970837731591
+    second: madura ptp2_57
+  - first:
+      213: -4734141573189922886
+    second: madura ptp2_58
+  - first:
+      213: 9055040395772133050
+    second: madura ptp2_59
+  - first:
+      213: 1471091045882991888
+    second: madura ptp2_60
+  - first:
+      213: 9050653687726748971
+    second: madura ptp2_61
+  - first:
+      213: 1431735003538591154
+    second: madura ptp2_62
+  - first:
+      213: 5698270698982067719
+    second: madura ptp2_63
+  - first:
+      213: -1924080371439830742
+    second: madura ptp2_64
+  - first:
+      213: -3204164252761725969
+    second: madura ptp2_65
+  - first:
+      213: -7637093432024904216
+    second: madura ptp2_66
+  - first:
+      213: -8003037749032686067
+    second: madura ptp2_67
+  - first:
+      213: 7971248663521272669
+    second: madura ptp2_68
+  - first:
+      213: -1323942593013351212
+    second: madura ptp2_69
+  - first:
+      213: -2102604319665674039
+    second: madura ptp2_70
+  - first:
+      213: -1890225635885344754
+    second: madura ptp2_71
+  - first:
+      213: 2731244892749806970
+    second: madura ptp2_72
+  - first:
+      213: 1518682404318688318
+    second: madura ptp2_73
+  - first:
+      213: 5872063534188806142
+    second: madura ptp2_74
+  - first:
+      213: -5518936746612522840
+    second: madura ptp2_75
+  - first:
+      213: -2853190878685548534
+    second: madura ptp2_76
+  - first:
+      213: 3164764281959303349
+    second: madura ptp2_77
+  - first:
+      213: 4595099496092865235
+    second: madura ptp2_78
+  - first:
+      213: 6061765783449018618
+    second: madura ptp2_79
+  - first:
+      213: 3923139534207210557
+    second: madura ptp2_80
+  - first:
+      213: 5457169273244086986
+    second: madura ptp2_81
+  - first:
+      213: 6875316969103587816
+    second: madura ptp2_82
+  - first:
+      213: -98076338826166970
+    second: madura ptp2_83
+  - first:
+      213: 5793794126682566460
+    second: madura ptp2_84
+  - first:
+      213: -5719648282303679149
+    second: madura ptp2_85
+  - first:
+      213: 3214122031299363351
+    second: madura ptp2_86
+  - first:
+      213: -2876445105324615982
+    second: madura ptp2_87
+  - first:
+      213: 1355112331922963021
+    second: madura ptp2_88
+  - first:
+      213: -3946534940486643990
+    second: madura ptp2_89
+  - first:
+      213: 3403658619911474522
+    second: madura ptp2_90
+  - first:
+      213: 3520064113308312256
+    second: madura ptp2_91
+  - first:
+      213: -6166471407646364462
+    second: madura ptp2_92
+  - first:
+      213: -3655132130964344817
+    second: madura ptp2_93
+  - first:
+      213: 1828150855598574960
+    second: madura ptp2_94
+  - first:
+      213: 6967905731044353289
+    second: madura ptp2_95
+  - first:
+      213: -1847673006588129452
+    second: madura ptp2_96
+  - first:
+      213: -8913119425857139241
+    second: madura ptp2_97
+  - first:
+      213: 8182654905131883389
+    second: madura ptp2_98
+  - first:
+      213: -8851943212518339962
+    second: madura ptp2_99
+  - first:
+      213: -1482659238823564420
+    second: madura ptp2_100
+  - first:
+      213: 2239573126843095844
+    second: madura ptp2_101
+  - first:
+      213: -5528493201354443601
+    second: madura ptp2_102
+  - first:
+      213: -468735693408918982
+    second: madura ptp2_103
+  - first:
+      213: 5310558587383409869
+    second: madura ptp2_104
+  - first:
+      213: -3990208340245064299
+    second: madura ptp2_105
+  - first:
+      213: 334508270250101700
+    second: madura ptp2_106
+  - first:
+      213: 737588604412635588
+    second: madura ptp2_107
+  - first:
+      213: 2451321648050401387
+    second: madura ptp2_108
+  - first:
+      213: 439535642715954986
+    second: madura ptp2_109
+  - first:
+      213: -7692936121998770983
+    second: madura ptp2_110
+  - first:
+      213: 3197807118023248210
+    second: madura ptp2_111
+  - first:
+      213: -3984339492423598653
+    second: madura ptp2_112
+  - first:
+      213: -1889085118626950609
+    second: madura ptp2_113
+  - first:
+      213: 9002660676031252432
+    second: madura ptp2_114
+  - first:
+      213: 4737384639854586674
+    second: madura ptp2_115
+  - first:
+      213: 1945278609913001080
+    second: madura ptp2_116
+  - first:
+      213: 3168940528707429656
+    second: madura ptp2_117
+  - first:
+      213: 8728347897091580107
+    second: madura ptp2_118
+  - first:
+      213: -435116526464686570
+    second: madura ptp2_119
+  - first:
+      213: 2163508377487382333
+    second: madura ptp2_120
+  - first:
+      213: 78837124910407092
+    second: madura ptp2_121
+  - first:
+      213: -5072101438419447309
+    second: madura ptp2_122
+  - first:
+      213: 8433362749809312749
+    second: madura ptp2_123
+  - first:
+      213: -7804641269115501603
+    second: madura ptp2_124
+  - first:
+      213: -1797783402285023131
+    second: madura ptp2_125
+  - first:
+      213: -565600079718925691
+    second: madura ptp2_126
+  - first:
+      213: 3845295025614729538
+    second: madura ptp2_127
+  - first:
+      213: 4755034097271979600
+    second: madura ptp2_128
+  - first:
+      213: -2846429088174482750
+    second: madura ptp2_129
+  - first:
+      213: -2464328558161692493
+    second: madura ptp2_130
+  - first:
+      213: -6142254752792795966
+    second: madura ptp2_131
+  - first:
+      213: -1403696421926873699
+    second: madura ptp2_132
+  - first:
+      213: 3023297723361514343
+    second: madura ptp2_133
+  - first:
+      213: -6587337765177895829
+    second: madura ptp2_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: madura ptp2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 566
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff2c3677aa90450800000000000000
+      internalID: 6055558603727896450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1742
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2f21ccdceaca040800000000000000
+      internalID: 4660291913336943274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1742
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b1e80f05b697940800000000000000
+      internalID: 5294380832328129349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1742
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148082f7dd546c8c0800000000000000
+      internalID: -3979416403111835583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1742
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb57b3e73d38ef0800000000000000
+      internalID: -107009427009848317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1742
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39196a230a7f54370800000000000000
+      internalID: 8306317355171352979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1742
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ef5967f4d18880800000000000000
+      internalID: -8610366853465774223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1742
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d89072bb3afd4710800000000000000
+      internalID: 1679273370382801108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1742
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd4809075e57a450800000000000000
+      internalID: 6099947948203331023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1742
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519d820a1abfe5a00800000000000000
+      internalID: 747311259785419029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1742
+        width: 419
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac53ae3bc8ffdd30800000000000000
+      internalID: 4458555707933023401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1493
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcffdbd14c0ffda10800000000000000
+      internalID: 1936531089895849935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1493
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7683950d51742f0800000000000000
+      internalID: -988797608590284855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_13
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1493
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ae0f84f1052fd30800000000000000
+      internalID: 4463718275975539214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1539
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7881baf397c4da30800000000000000
+      internalID: 4239232587642538108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1493
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0c2110a85af490800000000000000
+      internalID: -7711753967412441560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1493
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c3d90db3320e20800000000000000
+      internalID: 3315269162704816324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_17
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1477
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013206dcf0e39470800000000000000
+      internalID: 8400305106502955269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_18
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1420
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b91a696cedef1f0800000000000000
+      internalID: -1009124321972348146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1420
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22956fca019a2600800000000000000
+      internalID: 444326988864655917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_20
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1419
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd4a85c218c7fdb0800000000000000
+      internalID: -4758114498344497675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_21
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1420
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534a5519b5224a990800000000000000
+      internalID: -7375732513050352587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1405
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1d9166cbb360ba0800000000000000
+      internalID: -6123140963010752031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1454
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893d99d18eaadb480800000000000000
+      internalID: -8881754976198995048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_24
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1418
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d381ffcc5338cf490800000000000000
+      internalID: -7711144194869356483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dd7f9c021cb7880800000000000000
+      internalID: -8612077515844362896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1354
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5743208ca1a4d00800000000000000
+      internalID: 957607317102425577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1345
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448097ff4e4dc5e70800000000000000
+      internalID: 9105386626640054340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_28
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1344
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e98a8db09ca7e90800000000000000
+      internalID: -7027083215841485292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_29
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1345
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11690312c7042ee50800000000000000
+      internalID: 6837098086178788881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_30
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1345
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419dba1a873a1630800000000000000
+      internalID: 3898489493736231244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1344
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119bce1998a696ee0800000000000000
+      internalID: -1267364681036809967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_32
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1345
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251324c42f61a2b80800000000000000
+      internalID: -8418891323498417838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1271
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c286b28cfb088d0800000000000000
+      internalID: -2846064098055541734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_34
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1270
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111581139d9822fd0800000000000000
+      internalID: -2368178888118873839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_35
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1271
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574b306fd8e9b7340800000000000000
+      internalID: 4862654555231597685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_36
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1271
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6362b4bd148ec0800000000000000
+      internalID: -3565692343046411217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_37
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1256
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c92ece31324ccf0800000000000000
+      internalID: -233022712230798287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_38
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1271
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386458d37f4e0a70800000000000000
+      internalID: 8795054481270401076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_39
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1271
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5b94da327909b0800000000000000
+      internalID: -5113430304901866819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_40
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1307
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ee0f77759273b80800000000000000
+      internalID: -8415211923067310460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_41
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1271
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f1b19dd8b3d8c40800000000000000
+      internalID: 5516130599017586489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1280
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ae0f1a307c71670800000000000000
+      internalID: 8509488839355591180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_43
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1270
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73207fd63a1abfe50800000000000000
+      internalID: 6844241782016246327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_44
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1270
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf117e76cd67920800000000000000
+      internalID: 2987817741623360497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_45
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1271
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5627e88b37e8e80800000000000000
+      internalID: -8174469037129832994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 688
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360a27ba0c1796d0800000000000000
+      internalID: -2983885395761428936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 980
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1acc2b8c03e510800000000000000
+      internalID: 1577118086401235723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 980
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f82b9bdeb629280800000000000000
+      internalID: -9038042833412255871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_49
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 980
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61064578c12a2370800000000000000
+      internalID: 8298482408228258154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_50
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 980
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84238d420349127e0800000000000000
+      internalID: -1791988242219257272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_51
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 980
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b287b02d3eb652b0800000000000000
+      internalID: -5596076317210082636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_52
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 980
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a3faa8a8897290800000000000000
+      internalID: -7892126613986106709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_53
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 980
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be76cf9290b400d0800000000000000
+      internalID: -3457444470121398605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_54
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 980
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b480a41e476da5c80800000000000000
+      internalID: -8333112363011405749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_55
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 980
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff0d742973b5cfb0800000000000000
+      internalID: -4628095709168726020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_56
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 980
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db00eb00e19da1b80800000000000000
+      internalID: -8423181430158393155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_57
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 980
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093a81d07f0b5840800000000000000
+      internalID: 5213777970837731591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_58
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 967
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0b9d5253fc4eb0800000000000000
+      internalID: -4734141573189922886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 916
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe7fc8a347f9ad70800000000000000
+      internalID: 9055040395772133050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_60
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 907
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0151d16138d5a6410800000000000000
+      internalID: 1471091045882991888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_61
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 907
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25380a93916a9d70800000000000000
+      internalID: 9050653687726748971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_62
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 907
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd096a666b8ed310800000000000000
+      internalID: 1431735003538591154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_63
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 907
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec7de8203541f40800000000000000
+      internalID: 5698270698982067719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_64
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 907
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f60da81b4c45e0800000000000000
+      internalID: -1924080371439830742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_65
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 907
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e128a6958883d0800000000000000
+      internalID: -3204164252761725969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_66
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 907
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edcfa39cf7930690800000000000000
+      internalID: -7637093432024904216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_67
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 907
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e6dd4b19f7fe090800000000000000
+      internalID: -8003037749032686067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_68
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 907
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532e7d0d609f9e60800000000000000
+      internalID: 7971248663521272669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_69
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 907
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfd68e93960ade0800000000000000
+      internalID: -1323942593013351212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_70
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 841
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82027e28c02d2e0800000000000000
+      internalID: -2102604319665674039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 833
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0897bb8cc194c5e0800000000000000
+      internalID: -1890225635885344754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_72
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 832
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7db3fa52c457e520800000000000000
+      internalID: 2731244892749806970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_73
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 834
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343d04b991731510800000000000000
+      internalID: 1518682404318688318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_74
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 833
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff39dd3ca2cd7150800000000000000
+      internalID: 5872063534188806142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_75
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 834
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08f40054cc863b0800000000000000
+      internalID: -5518936746612522840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_76
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 834
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00309f330e6768d0800000000000000
+      internalID: -2853190878685548534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_77
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 833
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b84708c8508beb20800000000000000
+      internalID: 3164764281959303349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_78
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 834
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2113455a215cf30800000000000000
+      internalID: 4595099496092865235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_79
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 767
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a81a0dd7bf1450800000000000000
+      internalID: 6061765783449018618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_80
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 758
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3456b4ee9ac17630800000000000000
+      internalID: 3923139534207210557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_81
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 758
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f3ea6a82cbbb40800000000000000
+      internalID: 5457169273244086986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_82
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 758
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e972ad3b580a6f50800000000000000
+      internalID: 6875316969103587816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_83
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3567e61093aef0800000000000000
+      internalID: -98076338826166970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_84
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 744
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa8a6bf01b76050800000000000000
+      internalID: 5793794126682566460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_85
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355bd15f03abf90b0800000000000000
+      internalID: -5719648282303679149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_86
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 758
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7120b5455fada9c20800000000000000
+      internalID: 3214122031299363351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_87
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d61731ba60d418d0800000000000000
+      internalID: -2876445105324615982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_88
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 758
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af4077c735ec210800000000000000
+      internalID: 1355112331922963021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_89
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 757
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee40aa91671b39c0800000000000000
+      internalID: -3946534940486643990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_90
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 758
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d05804b793c3f20800000000000000
+      internalID: 3403658619911474522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 576
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a75439a7c9d030800000000000000
+      internalID: 3520064113308312256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_92
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 473
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca2a51dea4c6aa0800000000000000
+      internalID: -6166471407646364462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_93
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 473
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f0ce41bc564dc0800000000000000
+      internalID: -3655132130964344817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_94
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 518
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d87c76485ee5910800000000000000
+      internalID: 1828150855598574960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_95
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 518
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905ae474859f2b060800000000000000
+      internalID: 6967905731044353289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_96
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 473
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f8c3d903fbb56e0800000000000000
+      internalID: -1847673006588129452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_97
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 473
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc62d1b1d3e4480800000000000000
+      internalID: -8913119425857139241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_98
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 473
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b5efb5841ae8170800000000000000
+      internalID: 8182654905131883389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_99
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 473
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a0aed3c84972580800000000000000
+      internalID: -8851943212518339962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_100
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 473
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b68fa17498c6be0800000000000000
+      internalID: -1482659238823564420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_101
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 518
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b5ef1a4ef841f10800000000000000
+      internalID: 2239573126843095844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_102
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 473
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43b1e79b8d643b0800000000000000
+      internalID: -5528493201354443601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_103
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 473
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a0dcce57be79f0800000000000000
+      internalID: -468735693408918982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_104
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 456
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc63ef06e4e2b940800000000000000
+      internalID: 5310558587383409869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_105
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 407
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59554e3d7aeef98c0800000000000000
+      internalID: -3990208340245064299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_106
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 399
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb00bedf7964a400800000000000000
+      internalID: 334508270250101700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_107
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 399
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c924648de07c3a00800000000000000
+      internalID: 737588604412635588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_108
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 399
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f44e1d08d40220800000000000000
+      internalID: 2451321648050401387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_109
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 398
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f153a965b891600800000000000000
+      internalID: 439535642715954986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_110
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 399
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcfd702b533d3590800000000000000
+      internalID: -7692936121998770983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_111
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 324
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259cdf191a4e06c20800000000000000
+      internalID: 3197807118023248210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_112
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 323
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf7817758c4b8c0800000000000000
+      internalID: -3984339492423598653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_113
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 310
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2293c9e71f98c5e0800000000000000
+      internalID: -1889085118626950609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_114
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 360
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7883ccf20efec70800000000000000
+      internalID: 9002660676031252432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_115
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23baceeea329eb140800000000000000
+      internalID: 4737384639854586674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_116
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 310
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874b705d6940ffa10800000000000000
+      internalID: 1945278609913001080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_117
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 324
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e1fffe965afb20800000000000000
+      internalID: 3168940528707429656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_118
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 323
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0eb2aea22512970800000000000000
+      internalID: 8728347897091580107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_119
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 324
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ab2413d726f9f0800000000000000
+      internalID: -435116526464686570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_120
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 334
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3797b41863560e10800000000000000
+      internalID: 2163508377487382333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_121
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 324
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdd56982f5181100800000000000000
+      internalID: 78837124910407092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_122
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 310
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d24a6d964c99b0800000000000000
+      internalID: -5072101438419447309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_123
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 259
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de345643db2590570800000000000000
+      internalID: 8433362749809312749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_124
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 250
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd34403dd1850b390800000000000000
+      internalID: -7804641269115501603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_125
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 250
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56045bb458dfc07e0800000000000000
+      internalID: -1797783402285023131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_126
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 250
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58abb6369b59628f0800000000000000
+      internalID: -565600079718925691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_127
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 250
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b75ad37b3d5530800000000000000
+      internalID: 3845295025614729538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_128
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 250
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e34c671564df140800000000000000
+      internalID: 4755034097271979600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_129
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 236
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca550943d37f78d0800000000000000
+      internalID: -2846429088174482750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_130
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 250
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8fbe0ab32fccdd0800000000000000
+      internalID: -2464328558161692493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_131
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 250
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a4db68d352caa0800000000000000
+      internalID: -6142254752792795966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_132
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 250
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95df869a81158ce0800000000000000
+      internalID: -1403696421926873699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_133
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 250
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d533e249e4f920800000000000000
+      internalID: 3023297723361514343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madura ptp2_134
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 297
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645e0b24331594a0800000000000000
+      internalID: -6587337765177895829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      madura ptp2_0: 6055558603727896450
+      madura ptp2_1: 4660291913336943274
+      madura ptp2_10: 4458555707933023401
+      madura ptp2_100: -1482659238823564420
+      madura ptp2_101: 2239573126843095844
+      madura ptp2_102: -5528493201354443601
+      madura ptp2_103: -468735693408918982
+      madura ptp2_104: 5310558587383409869
+      madura ptp2_105: -3990208340245064299
+      madura ptp2_106: 334508270250101700
+      madura ptp2_107: 737588604412635588
+      madura ptp2_108: 2451321648050401387
+      madura ptp2_109: 439535642715954986
+      madura ptp2_11: 1936531089895849935
+      madura ptp2_110: -7692936121998770983
+      madura ptp2_111: 3197807118023248210
+      madura ptp2_112: -3984339492423598653
+      madura ptp2_113: -1889085118626950609
+      madura ptp2_114: 9002660676031252432
+      madura ptp2_115: 4737384639854586674
+      madura ptp2_116: 1945278609913001080
+      madura ptp2_117: 3168940528707429656
+      madura ptp2_118: 8728347897091580107
+      madura ptp2_119: -435116526464686570
+      madura ptp2_12: -988797608590284855
+      madura ptp2_120: 2163508377487382333
+      madura ptp2_121: 78837124910407092
+      madura ptp2_122: -5072101438419447309
+      madura ptp2_123: 8433362749809312749
+      madura ptp2_124: -7804641269115501603
+      madura ptp2_125: -1797783402285023131
+      madura ptp2_126: -565600079718925691
+      madura ptp2_127: 3845295025614729538
+      madura ptp2_128: 4755034097271979600
+      madura ptp2_129: -2846429088174482750
+      madura ptp2_13: 4463718275975539214
+      madura ptp2_130: -2464328558161692493
+      madura ptp2_131: -6142254752792795966
+      madura ptp2_132: -1403696421926873699
+      madura ptp2_133: 3023297723361514343
+      madura ptp2_134: -6587337765177895829
+      madura ptp2_14: 4239232587642538108
+      madura ptp2_15: -7711753967412441560
+      madura ptp2_16: 3315269162704816324
+      madura ptp2_17: 8400305106502955269
+      madura ptp2_18: -1009124321972348146
+      madura ptp2_19: 444326988864655917
+      madura ptp2_2: 5294380832328129349
+      madura ptp2_20: -4758114498344497675
+      madura ptp2_21: -7375732513050352587
+      madura ptp2_22: -6123140963010752031
+      madura ptp2_23: -8881754976198995048
+      madura ptp2_24: -7711144194869356483
+      madura ptp2_25: -8612077515844362896
+      madura ptp2_26: 957607317102425577
+      madura ptp2_27: 9105386626640054340
+      madura ptp2_28: -7027083215841485292
+      madura ptp2_29: 6837098086178788881
+      madura ptp2_3: -3979416403111835583
+      madura ptp2_30: 3898489493736231244
+      madura ptp2_31: -1267364681036809967
+      madura ptp2_32: -8418891323498417838
+      madura ptp2_33: -2846064098055541734
+      madura ptp2_34: -2368178888118873839
+      madura ptp2_35: 4862654555231597685
+      madura ptp2_36: -3565692343046411217
+      madura ptp2_37: -233022712230798287
+      madura ptp2_38: 8795054481270401076
+      madura ptp2_39: -5113430304901866819
+      madura ptp2_4: -107009427009848317
+      madura ptp2_40: -8415211923067310460
+      madura ptp2_41: 5516130599017586489
+      madura ptp2_42: 8509488839355591180
+      madura ptp2_43: 6844241782016246327
+      madura ptp2_44: 2987817741623360497
+      madura ptp2_45: -8174469037129832994
+      madura ptp2_46: -2983885395761428936
+      madura ptp2_47: 1577118086401235723
+      madura ptp2_48: -9038042833412255871
+      madura ptp2_49: 8298482408228258154
+      madura ptp2_5: 8306317355171352979
+      madura ptp2_50: -1791988242219257272
+      madura ptp2_51: -5596076317210082636
+      madura ptp2_52: -7892126613986106709
+      madura ptp2_53: -3457444470121398605
+      madura ptp2_54: -8333112363011405749
+      madura ptp2_55: -4628095709168726020
+      madura ptp2_56: -8423181430158393155
+      madura ptp2_57: 5213777970837731591
+      madura ptp2_58: -4734141573189922886
+      madura ptp2_59: 9055040395772133050
+      madura ptp2_6: -8610366853465774223
+      madura ptp2_60: 1471091045882991888
+      madura ptp2_61: 9050653687726748971
+      madura ptp2_62: 1431735003538591154
+      madura ptp2_63: 5698270698982067719
+      madura ptp2_64: -1924080371439830742
+      madura ptp2_65: -3204164252761725969
+      madura ptp2_66: -7637093432024904216
+      madura ptp2_67: -8003037749032686067
+      madura ptp2_68: 7971248663521272669
+      madura ptp2_69: -1323942593013351212
+      madura ptp2_7: 1679273370382801108
+      madura ptp2_70: -2102604319665674039
+      madura ptp2_71: -1890225635885344754
+      madura ptp2_72: 2731244892749806970
+      madura ptp2_73: 1518682404318688318
+      madura ptp2_74: 5872063534188806142
+      madura ptp2_75: -5518936746612522840
+      madura ptp2_76: -2853190878685548534
+      madura ptp2_77: 3164764281959303349
+      madura ptp2_78: 4595099496092865235
+      madura ptp2_79: 6061765783449018618
+      madura ptp2_8: 6099947948203331023
+      madura ptp2_80: 3923139534207210557
+      madura ptp2_81: 5457169273244086986
+      madura ptp2_82: 6875316969103587816
+      madura ptp2_83: -98076338826166970
+      madura ptp2_84: 5793794126682566460
+      madura ptp2_85: -5719648282303679149
+      madura ptp2_86: 3214122031299363351
+      madura ptp2_87: -2876445105324615982
+      madura ptp2_88: 1355112331922963021
+      madura ptp2_89: -3946534940486643990
+      madura ptp2_9: 747311259785419029
+      madura ptp2_90: 3403658619911474522
+      madura ptp2_91: 3520064113308312256
+      madura ptp2_92: -6166471407646364462
+      madura ptp2_93: -3655132130964344817
+      madura ptp2_94: 1828150855598574960
+      madura ptp2_95: 6967905731044353289
+      madura ptp2_96: -1847673006588129452
+      madura ptp2_97: -8913119425857139241
+      madura ptp2_98: 8182654905131883389
+      madura ptp2_99: -8851943212518339962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: fd93426fb80834b438bf9a8073b33d31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8941907502062615352
+    second: betawi ptp2_0
+  - first:
+      213: 747828969971798501
+    second: betawi ptp2_1
+  - first:
+      213: 2227149680048098902
+    second: betawi ptp2_2
+  - first:
+      213: -3352118231970055141
+    second: betawi ptp2_3
+  - first:
+      213: -932997961392016991
+    second: betawi ptp2_4
+  - first:
+      213: 1859615577757158003
+    second: betawi ptp2_5
+  - first:
+      213: -6127613161706819778
+    second: betawi ptp2_6
+  - first:
+      213: 2783347697565388970
+    second: betawi ptp2_7
+  - first:
+      213: 8665267813358722901
+    second: betawi ptp2_8
+  - first:
+      213: -2160281607090278932
+    second: betawi ptp2_9
+  - first:
+      213: 6060023122920114749
+    second: betawi ptp2_10
+  - first:
+      213: -6394915905310486379
+    second: betawi ptp2_11
+  - first:
+      213: 3094428175261133242
+    second: betawi ptp2_12
+  - first:
+      213: -862716358147391617
+    second: betawi ptp2_13
+  - first:
+      213: 1101507214233207279
+    second: betawi ptp2_14
+  - first:
+      213: -5142829686482030956
+    second: betawi ptp2_15
+  - first:
+      213: 9059579607708519036
+    second: betawi ptp2_16
+  - first:
+      213: 3410844748495666871
+    second: betawi ptp2_17
+  - first:
+      213: -6813149309305568484
+    second: betawi ptp2_18
+  - first:
+      213: 2760858686780948905
+    second: betawi ptp2_19
+  - first:
+      213: 7395146618527733317
+    second: betawi ptp2_20
+  - first:
+      213: -5961608306485501796
+    second: betawi ptp2_21
+  - first:
+      213: 2249431447162086590
+    second: betawi ptp2_22
+  - first:
+      213: -6465414605202108514
+    second: betawi ptp2_23
+  - first:
+      213: 4118505667576676583
+    second: betawi ptp2_24
+  - first:
+      213: 3451892343856608855
+    second: betawi ptp2_25
+  - first:
+      213: -7370932012981196429
+    second: betawi ptp2_26
+  - first:
+      213: 6953647041658881365
+    second: betawi ptp2_27
+  - first:
+      213: -5873810088344577246
+    second: betawi ptp2_28
+  - first:
+      213: -5364606213996370029
+    second: betawi ptp2_29
+  - first:
+      213: 4922886950714168244
+    second: betawi ptp2_30
+  - first:
+      213: 5604988969656067372
+    second: betawi ptp2_31
+  - first:
+      213: -6562366741567066936
+    second: betawi ptp2_32
+  - first:
+      213: -2181325452564016300
+    second: betawi ptp2_33
+  - first:
+      213: -2630091510553534665
+    second: betawi ptp2_34
+  - first:
+      213: -3887944423621984033
+    second: betawi ptp2_35
+  - first:
+      213: -6200475802570071511
+    second: betawi ptp2_36
+  - first:
+      213: 48011033767568993
+    second: betawi ptp2_37
+  - first:
+      213: -7614890186459938741
+    second: betawi ptp2_38
+  - first:
+      213: 7181747082894407368
+    second: betawi ptp2_39
+  - first:
+      213: 4584379591681057470
+    second: betawi ptp2_40
+  - first:
+      213: 2486362459253608635
+    second: betawi ptp2_41
+  - first:
+      213: 3362031276707374026
+    second: betawi ptp2_42
+  - first:
+      213: -2395923384519199851
+    second: betawi ptp2_43
+  - first:
+      213: -2429918963275556416
+    second: betawi ptp2_44
+  - first:
+      213: 4260833051778938426
+    second: betawi ptp2_45
+  - first:
+      213: -5013981966880726590
+    second: betawi ptp2_46
+  - first:
+      213: -8810945578908909840
+    second: betawi ptp2_47
+  - first:
+      213: -7125778145669211489
+    second: betawi ptp2_48
+  - first:
+      213: 4200198163343810463
+    second: betawi ptp2_49
+  - first:
+      213: -5572015922182719706
+    second: betawi ptp2_50
+  - first:
+      213: 1570208898032414504
+    second: betawi ptp2_51
+  - first:
+      213: 897729797823848672
+    second: betawi ptp2_52
+  - first:
+      213: 4397846173634505239
+    second: betawi ptp2_53
+  - first:
+      213: -6904795810287312688
+    second: betawi ptp2_54
+  - first:
+      213: -3484732868712627172
+    second: betawi ptp2_55
+  - first:
+      213: 1959829503318639423
+    second: betawi ptp2_56
+  - first:
+      213: 4439020399423522314
+    second: betawi ptp2_57
+  - first:
+      213: 1639803170811076965
+    second: betawi ptp2_58
+  - first:
+      213: -5866795281587606007
+    second: betawi ptp2_59
+  - first:
+      213: -8922794233880655096
+    second: betawi ptp2_60
+  - first:
+      213: -7066277631831084073
+    second: betawi ptp2_61
+  - first:
+      213: -387614633183135316
+    second: betawi ptp2_62
+  - first:
+      213: -495850936712526098
+    second: betawi ptp2_63
+  - first:
+      213: -6052702295474872004
+    second: betawi ptp2_64
+  - first:
+      213: -1312119438467966407
+    second: betawi ptp2_65
+  - first:
+      213: 2776717582161279122
+    second: betawi ptp2_66
+  - first:
+      213: -9010946950593496553
+    second: betawi ptp2_67
+  - first:
+      213: -7199240821194086765
+    second: betawi ptp2_68
+  - first:
+      213: -5715857542204930796
+    second: betawi ptp2_69
+  - first:
+      213: -5433253339279022315
+    second: betawi ptp2_70
+  - first:
+      213: 7405586561329605233
+    second: betawi ptp2_71
+  - first:
+      213: -4616059171675020864
+    second: betawi ptp2_72
+  - first:
+      213: 2241509215267033954
+    second: betawi ptp2_73
+  - first:
+      213: 3167006645512785099
+    second: betawi ptp2_74
+  - first:
+      213: -6996523848455625359
+    second: betawi ptp2_75
+  - first:
+      213: 381702599682167316
+    second: betawi ptp2_76
+  - first:
+      213: -4401214347917415789
+    second: betawi ptp2_77
+  - first:
+      213: 6092828940506962154
+    second: betawi ptp2_78
+  - first:
+      213: -3433235997517386025
+    second: betawi ptp2_79
+  - first:
+      213: -3921416841583095476
+    second: betawi ptp2_80
+  - first:
+      213: 5398745500003505249
+    second: betawi ptp2_81
+  - first:
+      213: -6327046334818766282
+    second: betawi ptp2_82
+  - first:
+      213: -4443581725926660373
+    second: betawi ptp2_83
+  - first:
+      213: 4155645143273495985
+    second: betawi ptp2_84
+  - first:
+      213: 3681222358393738966
+    second: betawi ptp2_85
+  - first:
+      213: -879044661420285971
+    second: betawi ptp2_86
+  - first:
+      213: -8703682805460359360
+    second: betawi ptp2_87
+  - first:
+      213: 3259370299330606284
+    second: betawi ptp2_88
+  - first:
+      213: -7411796783327405060
+    second: betawi ptp2_89
+  - first:
+      213: 3043935119035671825
+    second: betawi ptp2_90
+  - first:
+      213: 2302742005590158698
+    second: betawi ptp2_91
+  - first:
+      213: 320823914559282557
+    second: betawi ptp2_92
+  - first:
+      213: -5602158019604468645
+    second: betawi ptp2_93
+  - first:
+      213: -8470180727016650212
+    second: betawi ptp2_94
+  - first:
+      213: -6912066626490382975
+    second: betawi ptp2_95
+  - first:
+      213: -8310622809907810596
+    second: betawi ptp2_96
+  - first:
+      213: -3387095513738018271
+    second: betawi ptp2_97
+  - first:
+      213: -3908544529274357629
+    second: betawi ptp2_98
+  - first:
+      213: -9076786679552344649
+    second: betawi ptp2_99
+  - first:
+      213: -6074114225882493871
+    second: betawi ptp2_100
+  - first:
+      213: -855360697240419692
+    second: betawi ptp2_101
+  - first:
+      213: -6953540091146738086
+    second: betawi ptp2_102
+  - first:
+      213: -2691690568682810299
+    second: betawi ptp2_103
+  - first:
+      213: -6276614112872817327
+    second: betawi ptp2_104
+  - first:
+      213: 5857925450513736776
+    second: betawi ptp2_105
+  - first:
+      213: 1992495842253838330
+    second: betawi ptp2_106
+  - first:
+      213: -1379271456952914824
+    second: betawi ptp2_107
+  - first:
+      213: 6598170347925309766
+    second: betawi ptp2_108
+  - first:
+      213: -7943126483396966649
+    second: betawi ptp2_109
+  - first:
+      213: -6003798653965998321
+    second: betawi ptp2_110
+  - first:
+      213: 8556041209423626478
+    second: betawi ptp2_111
+  - first:
+      213: 153843511034972918
+    second: betawi ptp2_112
+  - first:
+      213: -735914092659037753
+    second: betawi ptp2_113
+  - first:
+      213: -3980498800531931310
+    second: betawi ptp2_114
+  - first:
+      213: -4488166696421173743
+    second: betawi ptp2_115
+  - first:
+      213: -2493773131986754112
+    second: betawi ptp2_116
+  - first:
+      213: -6618938029263038210
+    second: betawi ptp2_117
+  - first:
+      213: 5459685735722714318
+    second: betawi ptp2_118
+  - first:
+      213: -3697411799394505023
+    second: betawi ptp2_119
+  - first:
+      213: 1260387498768291189
+    second: betawi ptp2_120
+  - first:
+      213: -8962918329960971363
+    second: betawi ptp2_121
+  - first:
+      213: -4850952741756227902
+    second: betawi ptp2_122
+  - first:
+      213: -8769274643546976750
+    second: betawi ptp2_123
+  - first:
+      213: -5964432407364946242
+    second: betawi ptp2_124
+  - first:
+      213: -2071020835004928402
+    second: betawi ptp2_125
+  - first:
+      213: -282487752499694320
+    second: betawi ptp2_126
+  - first:
+      213: 7023450981775769981
+    second: betawi ptp2_127
+  - first:
+      213: 2303846835291217769
+    second: betawi ptp2_128
+  - first:
+      213: -6056066011805726513
+    second: betawi ptp2_129
+  - first:
+      213: -5048536275730340053
+    second: betawi ptp2_130
+  - first:
+      213: -7736871544891976987
+    second: betawi ptp2_131
+  - first:
+      213: 6357370610511800006
+    second: betawi ptp2_132
+  - first:
+      213: 2361513352336536142
+    second: betawi ptp2_133
+  - first:
+      213: -336669629488866518
+    second: betawi ptp2_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: betawi ptp2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 552
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb7d23f79081c70800000000000000
+      internalID: 8941907502062615352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1743
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e15aeb6c72d06a00800000000000000
+      internalID: 747828969971798501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1743
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e44e485dc68ee10800000000000000
+      internalID: 2227149680048098902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1743
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c70527a32ea71d0800000000000000
+      internalID: -3352118231970055141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1743
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b01f1c435d03f0800000000000000
+      internalID: -932997961392016991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1743
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a8ffae38eaec910800000000000000
+      internalID: 1859615577757158003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1743
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe47f7b4856faa0800000000000000
+      internalID: -6127613161706819778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1743
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa059cfebff60a620800000000000000
+      internalID: 2783347697565388970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1743
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5fda6a27314870800000000000000
+      internalID: 8665267813358722901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1743
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede292f2532502e0800000000000000
+      internalID: -2160281607090278932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_10
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1797
+        width: 440
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8e444ce6891450800000000000000
+      internalID: 6060023122920114749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1743
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5901977add1b047a0800000000000000
+      internalID: -6394915905310486379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1495
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab96669c70e91fa20800000000000000
+      internalID: 3094428175261133242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1495
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fb4ba0b040704f0800000000000000
+      internalID: -862716358147391617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_14
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1495
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe186eda9f6594f00800000000000000
+      internalID: 1101507214233207279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1495
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea7e4e5aff0a8b0800000000000000
+      internalID: -5142829686482030956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_16
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1495
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac6db47a71abd70800000000000000
+      internalID: 9059579607708519036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_17
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1495
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be37123a31c55f20800000000000000
+      internalID: 3410844748495666871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_18
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1495
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13c4210dc4d271a0800000000000000
+      internalID: -6813149309305568484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_19
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1495
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a141a4195a805620800000000000000
+      internalID: 2760858686780948905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1431
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546d64b1ba6d0a660800000000000000
+      internalID: 7395146618527733317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1422
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90e9e9c4dc144da0800000000000000
+      internalID: -5961608306485501796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1422
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb460b2bbf5973f10800000000000000
+      internalID: 2249431447162086590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1422
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f4e4bfbab3646a0800000000000000
+      internalID: -6465414605202108514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_24
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1422
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e04759751fd72930800000000000000
+      internalID: 4118505667576676583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1422
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b67e3cc597ef20800000000000000
+      internalID: 3451892343856608855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_26
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1422
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37963b6136035b990800000000000000
+      internalID: -7370932012981196429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_27
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1421
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55506837421508060800000000000000
+      internalID: 6953647041658881365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_28
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1422
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b9d1e68d80c7ea0800000000000000
+      internalID: -5873810088344577246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_29
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1421
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a4ee32171d85b0800000000000000
+      internalID: -5364606213996370029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_30
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1422
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b359be599b915440800000000000000
+      internalID: 4922886950714168244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_31
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1357
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25255a75cbe8cd40800000000000000
+      internalID: 5604988969656067372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1348
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccae0ba73acde4a0800000000000000
+      internalID: -6562366741567066936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1348
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453576cde006ab1e0800000000000000
+      internalID: -2181325452564016300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_34
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1349
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9faab4b9008bd0800000000000000
+      internalID: -2630091510553534665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_35
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1348
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00d8b552f3b0ac0800000000000000
+      internalID: -3887944423621984033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1348
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e76deb1c73f9a0800000000000000
+      internalID: -6200475802570071511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_37
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1349
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166e305e7c19aa000800000000000000
+      internalID: 48011033767568993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_38
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1348
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40827888b9725690800000000000000
+      internalID: -7614890186459938741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_39
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1348
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67e9edbe0baa360800000000000000
+      internalID: 7181747082894407368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_40
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1348
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb223b513fcfe9f30800000000000000
+      internalID: 4584379591681057470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_41
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1348
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb09daebb75518220800000000000000
+      internalID: 2486362459253608635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1283
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac365e322a558ae20800000000000000
+      internalID: 3362031276707374026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_43
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1275
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5937eac3068ffbed0800000000000000
+      internalID: -2395923384519199851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1274
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c999f0c391374ed0800000000000000
+      internalID: -2429918963275556416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1275
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36f682f515812b30800000000000000
+      internalID: 4260833051778938426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1274
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c12cd167f1ca6ab0800000000000000
+      internalID: -5013981966880726590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_47
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1261
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef5d9adab39b580800000000000000
+      internalID: -8810945578908909840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_48
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1274
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a152fc7862c1d90800000000000000
+      internalID: -7125778145669211489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_49
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1275
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f1b58d9f91a4a30800000000000000
+      internalID: 4200198163343810463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_50
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1274
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277a736a093ca2b0800000000000000
+      internalID: -5572015922182719706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_51
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1275
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f21666ca08ac510800000000000000
+      internalID: 1570208898032414504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_52
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1273
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0e297ae70657c00800000000000000
+      internalID: 897729797823848672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_53
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1275
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aab4c4bc9480d30800000000000000
+      internalID: 4397846173634505239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 696
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d028313bcc3d20a0800000000000000
+      internalID: -6904795810287312688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_55
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 987
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1481473bedb3afc0800000000000000
+      internalID: -3484732868712627172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 987
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3343a5bc86b23b10800000000000000
+      internalID: 1959829503318639423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_57
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 987
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a060a5ac8819a9d30800000000000000
+      internalID: 4439020399423522314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_58
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 987
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e0c9bb40c1c610800000000000000
+      internalID: 1639803170811076965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_59
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 987
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e680766c4f49ea0800000000000000
+      internalID: -5866795281587606007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_60
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 987
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc3a55beddb2480800000000000000
+      internalID: -8922794233880655096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_61
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 987
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d37b6ebee98fed90800000000000000
+      internalID: -7066277631831084073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_62
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 970
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca930677b8aee9af0800000000000000
+      internalID: -387614633183135316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_63
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 987
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee684bf33326e19f0800000000000000
+      internalID: -495850936712526098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_64
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 987
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c316703b45b700ca0800000000000000
+      internalID: -6052702295474872004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 987
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a5b37925a6acde0800000000000000
+      internalID: -1312119438467966407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_66
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 913
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298fd46ede1e88620800000000000000
+      internalID: 2776717582161279122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_67
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 911
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a3cff8d7fa2f280800000000000000
+      internalID: -9010946950593496553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_68
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 913
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3962c38cd98271c90800000000000000
+      internalID: -7199240821194086765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_69
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 913
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415432a69d13da0b0800000000000000
+      internalID: -5715857542204930796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_70
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 913
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a191efd43994b0800000000000000
+      internalID: -5433253339279022315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 898
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2575bdbde5c660800000000000000
+      internalID: 7405586561329605233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 913
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1602ae3a670ffb0800000000000000
+      internalID: -4616059171675020864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_73
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 912
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26391c851c07b1f10800000000000000
+      internalID: 2241509215267033954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_74
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 899
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc471bb3c773fb20800000000000000
+      internalID: 3167006645512785099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_75
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 948
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175e04601aa57ee90800000000000000
+      internalID: -6996523848455625359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_76
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 913
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41216e7fd741c4500800000000000000
+      internalID: 381702599682167316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_77
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 922
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa7048edebbe2c0800000000000000
+      internalID: -4401214347917415789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_78
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 839
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae81324e3a31e8450800000000000000
+      internalID: 6092828940506962154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_79
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 839
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de64e1ec02ba50d0800000000000000
+      internalID: -3433235997517386025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_80
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 875
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41943db8245499c0800000000000000
+      internalID: -3921416841583095476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_81
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 839
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649270bd623cea40800000000000000
+      internalID: 5398745500003505249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_82
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 848
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b0bf61e0d138a0800000000000000
+      internalID: -6327046334818766282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_83
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 838
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be669bf96f93552c0800000000000000
+      internalID: -4443581725926660373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_84
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 825
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdd4618d31dba930800000000000000
+      internalID: 4155645143273495985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_85
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 839
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6d8432b34561330800000000000000
+      internalID: 3681222358393738966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_86
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 765
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def175ea9810dc3f0800000000000000
+      internalID: -879044661420285971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_87
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 765
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0472cde3a9e463780800000000000000
+      internalID: -8703682805460359360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_88
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 765
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43f03b40c9b3d20800000000000000
+      internalID: 3259370299330606284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_89
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 765
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb136e4812042990800000000000000
+      internalID: -7411796783327405060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_90
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 800
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11525710dda3e3a20800000000000000
+      internalID: 3043935119035671825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_91
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 765
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d629457abf4ff10800000000000000
+      internalID: 2302742005590158698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_92
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 774
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d91c686abc37400800000000000000
+      internalID: 320823914559282557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 559
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5caed176f22142b0800000000000000
+      internalID: -5602158019604468645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_94
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 481
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a00d6718fd37a80800000000000000
+      internalID: -8470180727016650212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_95
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 481
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185453066086310a0800000000000000
+      internalID: -6912066626490382975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_96
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 481
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeaf21069cbaac80800000000000000
+      internalID: -8310622809907810596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_97
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 481
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122835b639e9ef0d0800000000000000
+      internalID: -3387095513738018271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_98
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 481
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3883ecf757f02c9c0800000000000000
+      internalID: -3908544529274357629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_99
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 481
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf8471b96c80280800000000000000
+      internalID: -9076786679552344649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_100
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 465
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c80292b4964bba0800000000000000
+      internalID: -6074114225882493871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_101
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 481
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492872e4af52124f0800000000000000
+      internalID: -855360697240419692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_102
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 481
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56e2c7e020108f90800000000000000
+      internalID: -6953540091146738086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_103
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 467
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544546060b135aad0800000000000000
+      internalID: -2691690568682810299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_104
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 481
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d130228bcf4e8a0800000000000000
+      internalID: -6276614112872817327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_105
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 481
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844679e19288b4150800000000000000
+      internalID: 5857925450513736776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_106
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 138
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af79bfd6964c6ab10800000000000000
+      internalID: 1992495842253838330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_107
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 417
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6c77eae7dbdce0800000000000000
+      internalID: -1379271456952914824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_108
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 408
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498a9b09f8619b50800000000000000
+      internalID: 6598170347925309766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_109
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 407
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707402f3c8854c190800000000000000
+      internalID: -7943126483396966649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_110
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 394
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0763670fe83eaca0800000000000000
+      internalID: -6003798653965998321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_111
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 407
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08c4be52a2db670800000000000000
+      internalID: 8556041209423626478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_112
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 408
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa0d32bbdf822200800000000000000
+      internalID: 153843511034972918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_113
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 394
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9aad1280289c5f0800000000000000
+      internalID: -735914092659037753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_114
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 408
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ffc653e6d62c8c0800000000000000
+      internalID: -3980498800531931310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_115
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 407
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d31f3b24d6b1c0800000000000000
+      internalID: -4488166696421173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_116
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 408
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5248d8c86546dd0800000000000000
+      internalID: -2493773131986754112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_117
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 407
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8d3775eeec424a0800000000000000
+      internalID: -6618938029263038210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_118
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 408
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4050fff33b4cb40800000000000000
+      internalID: 5459685735722714318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_119
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 342
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea0c4ee8720bcc0800000000000000
+      internalID: -3697411799394505023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_120
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 334
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755d6790cbcd7110800000000000000
+      internalID: 1260387498768291189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_121
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 334
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c6d734415d9380800000000000000
+      internalID: -8962918329960971363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_122
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 334
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea96dce24fdacb0800000000000000
+      internalID: -4850952741756227902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_123
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 334
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eca8d5c274d4680800000000000000
+      internalID: -8769274643546976750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_124
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 334
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63f2093541a3da0800000000000000
+      internalID: -5964432407364946242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_125
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 334
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2917f5814243e0800000000000000
+      internalID: -2071020835004928402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_126
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 269
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157bd2c2e6641cf0800000000000000
+      internalID: -282487752499694320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_127
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 261
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d710d12c47f487160800000000000000
+      internalID: 7023450981775769981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_128
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 260
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd07a8d78e8ff10800000000000000
+      internalID: 2303846835291217769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_129
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 261
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c0067c0884fba0800000000000000
+      internalID: -6056066011805726513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_130
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 260
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b276b69610fffe9b0800000000000000
+      internalID: -5048536275730340053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_131
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 261
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d2e5525c11a490800000000000000
+      internalID: -7736871544891976987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_132
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 261
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6601133eae93850800000000000000
+      internalID: 6357370610511800006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_133
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 260
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e427c52d1e7c5c020800000000000000
+      internalID: 2361513352336536142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betawi ptp2_134
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 261
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b57a771c8e35bf0800000000000000
+      internalID: -336669629488866518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      betawi ptp2_0: 8941907502062615352
+      betawi ptp2_1: 747828969971798501
+      betawi ptp2_10: 6060023122920114749
+      betawi ptp2_100: -6074114225882493871
+      betawi ptp2_101: -855360697240419692
+      betawi ptp2_102: -6953540091146738086
+      betawi ptp2_103: -2691690568682810299
+      betawi ptp2_104: -6276614112872817327
+      betawi ptp2_105: 5857925450513736776
+      betawi ptp2_106: 1992495842253838330
+      betawi ptp2_107: -1379271456952914824
+      betawi ptp2_108: 6598170347925309766
+      betawi ptp2_109: -7943126483396966649
+      betawi ptp2_11: -6394915905310486379
+      betawi ptp2_110: -6003798653965998321
+      betawi ptp2_111: 8556041209423626478
+      betawi ptp2_112: 153843511034972918
+      betawi ptp2_113: -735914092659037753
+      betawi ptp2_114: -3980498800531931310
+      betawi ptp2_115: -4488166696421173743
+      betawi ptp2_116: -2493773131986754112
+      betawi ptp2_117: -6618938029263038210
+      betawi ptp2_118: 5459685735722714318
+      betawi ptp2_119: -3697411799394505023
+      betawi ptp2_12: 3094428175261133242
+      betawi ptp2_120: 1260387498768291189
+      betawi ptp2_121: -8962918329960971363
+      betawi ptp2_122: -4850952741756227902
+      betawi ptp2_123: -8769274643546976750
+      betawi ptp2_124: -5964432407364946242
+      betawi ptp2_125: -2071020835004928402
+      betawi ptp2_126: -282487752499694320
+      betawi ptp2_127: 7023450981775769981
+      betawi ptp2_128: 2303846835291217769
+      betawi ptp2_129: -6056066011805726513
+      betawi ptp2_13: -862716358147391617
+      betawi ptp2_130: -5048536275730340053
+      betawi ptp2_131: -7736871544891976987
+      betawi ptp2_132: 6357370610511800006
+      betawi ptp2_133: 2361513352336536142
+      betawi ptp2_134: -336669629488866518
+      betawi ptp2_14: 1101507214233207279
+      betawi ptp2_15: -5142829686482030956
+      betawi ptp2_16: 9059579607708519036
+      betawi ptp2_17: 3410844748495666871
+      betawi ptp2_18: -6813149309305568484
+      betawi ptp2_19: 2760858686780948905
+      betawi ptp2_2: 2227149680048098902
+      betawi ptp2_20: 7395146618527733317
+      betawi ptp2_21: -5961608306485501796
+      betawi ptp2_22: 2249431447162086590
+      betawi ptp2_23: -6465414605202108514
+      betawi ptp2_24: 4118505667576676583
+      betawi ptp2_25: 3451892343856608855
+      betawi ptp2_26: -7370932012981196429
+      betawi ptp2_27: 6953647041658881365
+      betawi ptp2_28: -5873810088344577246
+      betawi ptp2_29: -5364606213996370029
+      betawi ptp2_3: -3352118231970055141
+      betawi ptp2_30: 4922886950714168244
+      betawi ptp2_31: 5604988969656067372
+      betawi ptp2_32: -6562366741567066936
+      betawi ptp2_33: -2181325452564016300
+      betawi ptp2_34: -2630091510553534665
+      betawi ptp2_35: -3887944423621984033
+      betawi ptp2_36: -6200475802570071511
+      betawi ptp2_37: 48011033767568993
+      betawi ptp2_38: -7614890186459938741
+      betawi ptp2_39: 7181747082894407368
+      betawi ptp2_4: -932997961392016991
+      betawi ptp2_40: 4584379591681057470
+      betawi ptp2_41: 2486362459253608635
+      betawi ptp2_42: 3362031276707374026
+      betawi ptp2_43: -2395923384519199851
+      betawi ptp2_44: -2429918963275556416
+      betawi ptp2_45: 4260833051778938426
+      betawi ptp2_46: -5013981966880726590
+      betawi ptp2_47: -8810945578908909840
+      betawi ptp2_48: -7125778145669211489
+      betawi ptp2_49: 4200198163343810463
+      betawi ptp2_5: 1859615577757158003
+      betawi ptp2_50: -5572015922182719706
+      betawi ptp2_51: 1570208898032414504
+      betawi ptp2_52: 897729797823848672
+      betawi ptp2_53: 4397846173634505239
+      betawi ptp2_54: -6904795810287312688
+      betawi ptp2_55: -3484732868712627172
+      betawi ptp2_56: 1959829503318639423
+      betawi ptp2_57: 4439020399423522314
+      betawi ptp2_58: 1639803170811076965
+      betawi ptp2_59: -5866795281587606007
+      betawi ptp2_6: -6127613161706819778
+      betawi ptp2_60: -8922794233880655096
+      betawi ptp2_61: -7066277631831084073
+      betawi ptp2_62: -387614633183135316
+      betawi ptp2_63: -495850936712526098
+      betawi ptp2_64: -6052702295474872004
+      betawi ptp2_65: -1312119438467966407
+      betawi ptp2_66: 2776717582161279122
+      betawi ptp2_67: -9010946950593496553
+      betawi ptp2_68: -7199240821194086765
+      betawi ptp2_69: -5715857542204930796
+      betawi ptp2_7: 2783347697565388970
+      betawi ptp2_70: -5433253339279022315
+      betawi ptp2_71: 7405586561329605233
+      betawi ptp2_72: -4616059171675020864
+      betawi ptp2_73: 2241509215267033954
+      betawi ptp2_74: 3167006645512785099
+      betawi ptp2_75: -6996523848455625359
+      betawi ptp2_76: 381702599682167316
+      betawi ptp2_77: -4401214347917415789
+      betawi ptp2_78: 6092828940506962154
+      betawi ptp2_79: -3433235997517386025
+      betawi ptp2_8: 8665267813358722901
+      betawi ptp2_80: -3921416841583095476
+      betawi ptp2_81: 5398745500003505249
+      betawi ptp2_82: -6327046334818766282
+      betawi ptp2_83: -4443581725926660373
+      betawi ptp2_84: 4155645143273495985
+      betawi ptp2_85: 3681222358393738966
+      betawi ptp2_86: -879044661420285971
+      betawi ptp2_87: -8703682805460359360
+      betawi ptp2_88: 3259370299330606284
+      betawi ptp2_89: -7411796783327405060
+      betawi ptp2_9: -2160281607090278932
+      betawi ptp2_90: 3043935119035671825
+      betawi ptp2_91: 2302742005590158698
+      betawi ptp2_92: 320823914559282557
+      betawi ptp2_93: -5602158019604468645
+      betawi ptp2_94: -8470180727016650212
+      betawi ptp2_95: -6912066626490382975
+      betawi ptp2_96: -8310622809907810596
+      betawi ptp2_97: -3387095513738018271
+      betawi ptp2_98: -3908544529274357629
+      betawi ptp2_99: -9076786679552344649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

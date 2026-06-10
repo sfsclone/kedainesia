@@ -1,16 +1,31 @@
 fileFormatVersion: 2
-guid: b6f87d7345772fb44a04ad005b016eb1
+guid: 9cff742d3b0000b45b92be82e2495c7a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1898238725013921592
-    second: frame hari_0
+      213: 4846896553144377880
+    second: win_0
   - first:
-      213: 8990418805312886935
-    second: frame hari_1
+      213: 8936239711803083862
+    second: win_1
   - first:
-      213: -3748927897099788531
-    second: frame hari_2
+      213: 4145771243988941060
+    second: win_2
+  - first:
+      213: 575629294807332434
+    second: win_3
+  - first:
+      213: -3090363355897019353
+    second: win_4
+  - first:
+      213: 2747648164704402064
+    second: win_5
+  - first:
+      213: -1249347844572775371
+    second: win_6
+  - first:
+      213: -8863056420757193657
+    second: win_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,13 +147,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: frame hari_1
+      name: win_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1098
-        width: 439
-        height: 618
+        x: 878
+        y: 332
+        width: 1100
+        height: 1100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7989aa8254264cc70800000000000000
-      internalID: 8990418805312886935
+      spriteID: 8126c313cb2a34340800000000000000
+      internalID: 4846896553144377880
       vertices: []
       indices: 
       edges: []
@@ -157,7 +172,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 32bbf9d1f3236534bb383e9f47e98f49
+    spriteID: bdddb5f0564d489498b4a7b877952449
     internalID: 0
     vertices: []
     indices: 
@@ -167,9 +182,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      frame hari_0: -1898238725013921592
-      frame hari_1: 8990418805312886935
-      frame hari_2: -3748927897099788531
+      win_0: 4846896553144377880
+      win_1: 8936239711803083862
+      win_2: 4145771243988941060
+      win_3: 575629294807332434
+      win_4: -3090363355897019353
+      win_5: 2747648164704402064
+      win_6: -1249347844572775371
+      win_7: -8863056420757193657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

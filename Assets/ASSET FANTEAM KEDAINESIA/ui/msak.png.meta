@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: b6f87d7345772fb44a04ad005b016eb1
+guid: 79dee3b478a14db4bae3fc0df5320171
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1898238725013921592
-    second: frame hari_0
-  - first:
-      213: 8990418805312886935
-    second: frame hari_1
-  - first:
-      213: -3748927897099788531
-    second: frame hari_2
+      213: 1908721419120063914
+    second: msak_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: frame hari_1
+      name: msak_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1098
-        width: 439
-        height: 618
+        x: 424
+        y: 743
+        width: 1034
+        height: 852
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7989aa8254264cc70800000000000000
-      internalID: 8990418805312886935
+      spriteID: aa5b4d194042d7a10800000000000000
+      internalID: 1908721419120063914
       vertices: []
       indices: 
       edges: []
@@ -157,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 32bbf9d1f3236534bb383e9f47e98f49
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -167,9 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      frame hari_0: -1898238725013921592
-      frame hari_1: 8990418805312886935
-      frame hari_2: -3748927897099788531
+      msak_0: 1908721419120063914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

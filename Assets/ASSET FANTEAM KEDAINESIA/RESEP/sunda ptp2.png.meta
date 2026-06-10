@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: dd360fc0e82fed145a783cb6641cf767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2701473328821306295
+    second: sunda ptp2_0
+  - first:
+      213: -4459891657935343342
+    second: sunda ptp2_1
+  - first:
+      213: -8575736581451749028
+    second: sunda ptp2_2
+  - first:
+      213: 6848957333385239064
+    second: sunda ptp2_3
+  - first:
+      213: 6704298618300730302
+    second: sunda ptp2_4
+  - first:
+      213: -5755266460041430167
+    second: sunda ptp2_5
+  - first:
+      213: -7676764178183742069
+    second: sunda ptp2_6
+  - first:
+      213: -2620752509107719544
+    second: sunda ptp2_7
+  - first:
+      213: -9091120539408223741
+    second: sunda ptp2_8
+  - first:
+      213: -8591468170578453937
+    second: sunda ptp2_9
+  - first:
+      213: -3646341217399444110
+    second: sunda ptp2_10
+  - first:
+      213: 4629300615403440881
+    second: sunda ptp2_11
+  - first:
+      213: -3666726396167960775
+    second: sunda ptp2_12
+  - first:
+      213: 7838099245657845879
+    second: sunda ptp2_13
+  - first:
+      213: -5045941266468482294
+    second: sunda ptp2_14
+  - first:
+      213: -3350862309674037045
+    second: sunda ptp2_15
+  - first:
+      213: 4491543104366770063
+    second: sunda ptp2_16
+  - first:
+      213: -1446706878701909675
+    second: sunda ptp2_17
+  - first:
+      213: -4419366539686048834
+    second: sunda ptp2_18
+  - first:
+      213: -4039689099803463734
+    second: sunda ptp2_19
+  - first:
+      213: 3595282667741652384
+    second: sunda ptp2_20
+  - first:
+      213: 6059666276718647457
+    second: sunda ptp2_21
+  - first:
+      213: 3886153845348825540
+    second: sunda ptp2_22
+  - first:
+      213: 3591089766413548826
+    second: sunda ptp2_23
+  - first:
+      213: -1029912628584653779
+    second: sunda ptp2_24
+  - first:
+      213: 6813879023682645317
+    second: sunda ptp2_25
+  - first:
+      213: 1392934670399821966
+    second: sunda ptp2_26
+  - first:
+      213: 8363501810406847204
+    second: sunda ptp2_27
+  - first:
+      213: 2493291812550052308
+    second: sunda ptp2_28
+  - first:
+      213: 7633471017708153348
+    second: sunda ptp2_29
+  - first:
+      213: 2827977357074649285
+    second: sunda ptp2_30
+  - first:
+      213: -4154638146494955517
+    second: sunda ptp2_31
+  - first:
+      213: -8013744117547400869
+    second: sunda ptp2_32
+  - first:
+      213: 1542366756021921639
+    second: sunda ptp2_33
+  - first:
+      213: -3030725351609930932
+    second: sunda ptp2_34
+  - first:
+      213: -6542756493754933686
+    second: sunda ptp2_35
+  - first:
+      213: 6288727526562989751
+    second: sunda ptp2_36
+  - first:
+      213: -4153979375274743164
+    second: sunda ptp2_37
+  - first:
+      213: -913078239197854298
+    second: sunda ptp2_38
+  - first:
+      213: -4840904685925573558
+    second: sunda ptp2_39
+  - first:
+      213: 1625158568461168894
+    second: sunda ptp2_40
+  - first:
+      213: 8735140269430779869
+    second: sunda ptp2_41
+  - first:
+      213: -3741068382196833134
+    second: sunda ptp2_42
+  - first:
+      213: -1556019711980541055
+    second: sunda ptp2_43
+  - first:
+      213: 6865714445402748686
+    second: sunda ptp2_44
+  - first:
+      213: -4739914689920389402
+    second: sunda ptp2_45
+  - first:
+      213: 5920830071454081834
+    second: sunda ptp2_46
+  - first:
+      213: 4243425551830536073
+    second: sunda ptp2_47
+  - first:
+      213: -6473004100919722591
+    second: sunda ptp2_48
+  - first:
+      213: 2875151304991882801
+    second: sunda ptp2_49
+  - first:
+      213: -7676714474426128223
+    second: sunda ptp2_50
+  - first:
+      213: 7212337798184625655
+    second: sunda ptp2_51
+  - first:
+      213: 7842747277131492681
+    second: sunda ptp2_52
+  - first:
+      213: -1042335686075488883
+    second: sunda ptp2_53
+  - first:
+      213: 7761549892468888065
+    second: sunda ptp2_54
+  - first:
+      213: 990511639348026200
+    second: sunda ptp2_55
+  - first:
+      213: -2773145335117966861
+    second: sunda ptp2_56
+  - first:
+      213: -8076623018502358565
+    second: sunda ptp2_57
+  - first:
+      213: -4457150252673256490
+    second: sunda ptp2_58
+  - first:
+      213: 4442997504804189299
+    second: sunda ptp2_59
+  - first:
+      213: 589439923071359569
+    second: sunda ptp2_60
+  - first:
+      213: 1498828392542016010
+    second: sunda ptp2_61
+  - first:
+      213: 7936770622044193723
+    second: sunda ptp2_62
+  - first:
+      213: 7708952957893715856
+    second: sunda ptp2_63
+  - first:
+      213: 8998960318755148973
+    second: sunda ptp2_64
+  - first:
+      213: 5399833421032358310
+    second: sunda ptp2_65
+  - first:
+      213: 6362793073759458252
+    second: sunda ptp2_66
+  - first:
+      213: 9183321996986596993
+    second: sunda ptp2_67
+  - first:
+      213: 5606086482556731547
+    second: sunda ptp2_68
+  - first:
+      213: -5698830580678803507
+    second: sunda ptp2_69
+  - first:
+      213: 3195771016781710207
+    second: sunda ptp2_70
+  - first:
+      213: 8707016541206815885
+    second: sunda ptp2_71
+  - first:
+      213: -3650404277308917420
+    second: sunda ptp2_72
+  - first:
+      213: -8839439350628084642
+    second: sunda ptp2_73
+  - first:
+      213: 2066094948350907603
+    second: sunda ptp2_74
+  - first:
+      213: 1603849759381934713
+    second: sunda ptp2_75
+  - first:
+      213: -4743080145016312969
+    second: sunda ptp2_76
+  - first:
+      213: -7203629305536423152
+    second: sunda ptp2_77
+  - first:
+      213: -360387565265479365
+    second: sunda ptp2_78
+  - first:
+      213: 313323933361804125
+    second: sunda ptp2_79
+  - first:
+      213: -3129018108761875105
+    second: sunda ptp2_80
+  - first:
+      213: 1523618860463344836
+    second: sunda ptp2_81
+  - first:
+      213: -6697774538157307593
+    second: sunda ptp2_82
+  - first:
+      213: -8410478305472830350
+    second: sunda ptp2_83
+  - first:
+      213: -5126489685782272870
+    second: sunda ptp2_84
+  - first:
+      213: 2507259081644734857
+    second: sunda ptp2_85
+  - first:
+      213: -7865548704767318378
+    second: sunda ptp2_86
+  - first:
+      213: -1460505398628473735
+    second: sunda ptp2_87
+  - first:
+      213: 2126024969723452442
+    second: sunda ptp2_88
+  - first:
+      213: -5784722639484561444
+    second: sunda ptp2_89
+  - first:
+      213: 985028860613398808
+    second: sunda ptp2_90
+  - first:
+      213: 4767897448898656711
+    second: sunda ptp2_91
+  - first:
+      213: -8827201782742460006
+    second: sunda ptp2_92
+  - first:
+      213: 6898124109299691534
+    second: sunda ptp2_93
+  - first:
+      213: -1964146283339155842
+    second: sunda ptp2_94
+  - first:
+      213: -1911557929306163381
+    second: sunda ptp2_95
+  - first:
+      213: -7928369776994194127
+    second: sunda ptp2_96
+  - first:
+      213: 8715055465039666243
+    second: sunda ptp2_97
+  - first:
+      213: -8025065236017848762
+    second: sunda ptp2_98
+  - first:
+      213: -414111506003577731
+    second: sunda ptp2_99
+  - first:
+      213: -5363919175030261027
+    second: sunda ptp2_100
+  - first:
+      213: 1527855791401285116
+    second: sunda ptp2_101
+  - first:
+      213: -5020225665325214609
+    second: sunda ptp2_102
+  - first:
+      213: -8512920368193429964
+    second: sunda ptp2_103
+  - first:
+      213: -7307954230525039513
+    second: sunda ptp2_104
+  - first:
+      213: -8066749189982147151
+    second: sunda ptp2_105
+  - first:
+      213: 7587685400196402948
+    second: sunda ptp2_106
+  - first:
+      213: 5649510148858173732
+    second: sunda ptp2_107
+  - first:
+      213: -1769610465533543844
+    second: sunda ptp2_108
+  - first:
+      213: -3915692435311571310
+    second: sunda ptp2_109
+  - first:
+      213: -962982408090199327
+    second: sunda ptp2_110
+  - first:
+      213: 306817899291719380
+    second: sunda ptp2_111
+  - first:
+      213: -5956098459221276513
+    second: sunda ptp2_112
+  - first:
+      213: 3008796969288118221
+    second: sunda ptp2_113
+  - first:
+      213: 4072416064477653191
+    second: sunda ptp2_114
+  - first:
+      213: 3401808957068060311
+    second: sunda ptp2_115
+  - first:
+      213: -7922996530570181
+    second: sunda ptp2_116
+  - first:
+      213: -1489765990280815021
+    second: sunda ptp2_117
+  - first:
+      213: -5205120286713024306
+    second: sunda ptp2_118
+  - first:
+      213: 5213164669286468435
+    second: sunda ptp2_119
+  - first:
+      213: -2081523713147419968
+    second: sunda ptp2_120
+  - first:
+      213: 2278318510379636873
+    second: sunda ptp2_121
+  - first:
+      213: -8671127154099262900
+    second: sunda ptp2_122
+  - first:
+      213: 8093676272788265095
+    second: sunda ptp2_123
+  - first:
+      213: -7082498756533506917
+    second: sunda ptp2_124
+  - first:
+      213: -7383542566703226107
+    second: sunda ptp2_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sunda ptp2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 573
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf9690250728ad0800000000000000
+      internalID: -2701473328821306295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1742
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2113908aa284b12c0800000000000000
+      internalID: -4459891657935343342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1742
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ee3fe30ddcf880800000000000000
+      internalID: -8575736581451749028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1742
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81adb3a48626c0f50800000000000000
+      internalID: 6848957333385239064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1742
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb05fb82147a0d50800000000000000
+      internalID: 6704298618300730302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1742
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb285b5af2120b0800000000000000
+      internalID: -5755266460041430167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1742
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d1ae637a7a67590800000000000000
+      internalID: -7676764178183742069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1742
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882bb627a7731abd0800000000000000
+      internalID: -2620752509107719544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_8
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1742
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b056490ad5d180800000000000000
+      internalID: -9091120539408223741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_9
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1742
+        width: 491
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9899e739f4c880800000000000000
+      internalID: -8591468170578453937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1493
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d6a0f5bf7956dc0800000000000000
+      internalID: -3646341217399444110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1493
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8e93f1649e3040800000000000000
+      internalID: 4629300615403440881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1480
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9374cd315cb2d1dc0800000000000000
+      internalID: -3666726396167960775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1493
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77071b36cb586cc60800000000000000
+      internalID: 7838099245657845879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1493
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0359a6172739f9b0800000000000000
+      internalID: -5045941266468482294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc052a4ab785f71d0800000000000000
+      internalID: -3350862309674037045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1419
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87f22df7aa255e30800000000000000
+      internalID: 4491543104366770063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1419
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559cbd042c34cebe0800000000000000
+      internalID: -1446706878701909675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1419
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb04c50c814ba2c0800000000000000
+      internalID: -4419366539686048834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_19
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1420
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf623bba2420f7c0800000000000000
+      internalID: -4039689099803463734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1419
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52cd5a98205e130800000000000000
+      internalID: 3595282667741652384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1419
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a89a398f52481450800000000000000
+      internalID: 6059666276718647457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1405
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f88625546ee530800000000000000
+      internalID: 3886153845348825540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_23
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1419
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dbe9bbd1d16d130800000000000000
+      internalID: 3591089766413548826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_24
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1419
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd587cbe305b1f0800000000000000
+      internalID: -1029912628584653779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_25
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1345
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de61dded2cf8e50800000000000000
+      internalID: 6813879023682645317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_26
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1344
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d180e3b2b45310800000000000000
+      internalID: 1392934670399821966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_27
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1345
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2f2a7b590211470800000000000000
+      internalID: 8363501810406847204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1331
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d98f6881b3f99220800000000000000
+      internalID: 2493291812550052308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_29
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1380
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aebbd52798fe960800000000000000
+      internalID: 7633471017708153348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_30
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1345
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c058494c6efe3720800000000000000
+      internalID: 2827977357074649285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_31
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1345
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30081e33e92c756c0800000000000000
+      internalID: -4154638146494955517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1353
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5106b80f2679c090800000000000000
+      internalID: -8013744117547400869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1271
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767ee0e8466976510800000000000000
+      internalID: 1542366756021921639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_34
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1270
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4be485a953b0f5d0800000000000000
+      internalID: -3030725351609930932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_35
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1271
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5bd942a57335a0800000000000000
+      internalID: -6542756493754933686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_36
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1271
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b60206cd5c064750800000000000000
+      internalID: 6288727526562989751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1307
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a237454c91a56c0800000000000000
+      internalID: -4153979375274743164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1271
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5097cdd281453f0800000000000000
+      internalID: -913078239197854298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_39
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1270
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd1eb16d6a1dcb0800000000000000
+      internalID: -4840904685925573558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_40
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1271
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef07fc88b19bd8610800000000000000
+      internalID: 1625158568461168894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_41
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1256
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfa1a65bc3793970800000000000000
+      internalID: 8735140269430779869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1280
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29466be902e051cc0800000000000000
+      internalID: -3741068382196833134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_43
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be4ebe058e76ae0800000000000000
+      internalID: -1556019711980541055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_44
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1271
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07bf7779eae74f50800000000000000
+      internalID: 6865714445402748686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 687
+        width: 445
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea3a1e3b0783eb0800000000000000
+      internalID: -4739914689920389402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 980
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23a87084930b2250800000000000000
+      internalID: 5920830071454081834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_47
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 980
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fcca78e0da3ea30800000000000000
+      internalID: 4243425551830536073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_48
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 980
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad780fc0154b26a0800000000000000
+      internalID: -6473004100919722591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_49
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1025
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eba81f0e696e720800000000000000
+      internalID: 2875151304991882801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_50
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 980
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82bb5cbd4d67590800000000000000
+      internalID: -7676714474426128223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_51
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 980
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5eaecc30f571460800000000000000
+      internalID: 7212337798184625655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_52
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1025
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94da59c881907dc60800000000000000
+      internalID: 7842747277131492681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_53
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 980
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e1ce4731e881f0800000000000000
+      internalID: -1042335686075488883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 980
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1025417318096bb60800000000000000
+      internalID: 7761549892468888065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_55
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 980
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9a3986110fbd00800000000000000
+      internalID: 990511639348026200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_56
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 980
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f113cda20fc389d0800000000000000
+      internalID: -2773145335117966861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_57
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 980
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97c6d08221aef80800000000000000
+      internalID: -8076623018502358565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_58
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 916
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33edec5750522c0800000000000000
+      internalID: -4457150252673256490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_59
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 907
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fccbc0b2b8ad30800000000000000
+      internalID: 4442997504804189299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_60
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 907
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1a1fac7c1e2800800000000000000
+      internalID: 589439923071359569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_61
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 907
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a029cbc5b78ecc410800000000000000
+      internalID: 1498828392542016010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 907
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb343b674d2152e60800000000000000
+      internalID: 7936770622044193723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_63
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 907
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a3751fd3bbfa60800000000000000
+      internalID: 7708952957893715856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_64
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 907
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da49c3b3bbab2ec70800000000000000
+      internalID: 8998960318755148973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_65
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 907
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a18aea03ef00fa40800000000000000
+      internalID: 5399833421032358310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_66
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 907
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc39fbcc69e2d4850800000000000000
+      internalID: 6362793073759458252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_67
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 907
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eba6073b6b17f70800000000000000
+      internalID: 9183321996986596993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_68
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 907
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c9ec14f1dccd40800000000000000
+      internalID: 5606086482556731547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_69
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 834
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfb183d7cfa9e0b0800000000000000
+      internalID: -5698830580678803507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_70
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 833
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7343cecec8a95c20800000000000000
+      internalID: 3195771016781710207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_71
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 832
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d842518996985d870800000000000000
+      internalID: 8707016541206815885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_72
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 834
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597f6486a8275dc0800000000000000
+      internalID: -3650404277308917420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_73
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 834
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5414347eb0045580800000000000000
+      internalID: -8839439350628084642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_74
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 833
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d45faca86e3cac10800000000000000
+      internalID: 2066094948350907603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_75
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 868
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725e0dcbd4024610800000000000000
+      internalID: 1603849759381934713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_76
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 833
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b281fecb13d2eb0800000000000000
+      internalID: -4743080145016312969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_77
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 833
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b58e52051970c90800000000000000
+      internalID: -7203629305536423152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_78
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 834
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3912e63b65affaf0800000000000000
+      internalID: -360387565265479365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_79
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 819
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5398a31576295400800000000000000
+      internalID: 313323933361804125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_80
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 841
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ddb7bbb9e7394d0800000000000000
+      internalID: -3129018108761875105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_81
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 767
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc007f74bf42510800000000000000
+      internalID: 1523618860463344836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_82
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 758
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7394a7b3b89bc03a0800000000000000
+      internalID: -6697774538157307593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_83
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a923ba8af74b80800000000000000
+      internalID: -8410478305472830350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_84
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 758
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a946e36cacc0bd8b0800000000000000
+      internalID: -5126489685782272870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_85
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9897e49c9d29bc220800000000000000
+      internalID: 2507259081644734857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_86
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 758
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966fc06025f7d290800000000000000
+      internalID: -7865548704767318378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 577
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a53af31e3bbbe0800000000000000
+      internalID: -1460505398628473735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_88
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 473
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1aff1278218d10800000000000000
+      internalID: 2126024969723452442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_89
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 473
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7dc5d786988bfa0800000000000000
+      internalID: -5784722639484561444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_90
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 459
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8119e52a7868bad00800000000000000
+      internalID: 985028860613398808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_91
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 473
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c97817e779fa2240800000000000000
+      internalID: 4767897448898656711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_92
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 398
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d0f24fba7f7580800000000000000
+      internalID: -8827201782742460006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_93
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 397
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00bd5f545f0bbf50800000000000000
+      internalID: 6898124109299691534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_94
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 383
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e767aae9c53fdb4e0800000000000000
+      internalID: -1964146283339155842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_95
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47ff10f038c875e0800000000000000
+      internalID: -1911557929306163381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_96
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 398
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d6152b1b5c8f190800000000000000
+      internalID: -7928369776994194127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_97
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 398
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c148765c812f870800000000000000
+      internalID: 8715055465039666243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_98
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 383
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed1dbbfad31a090800000000000000
+      internalID: -8025065236017848762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_99
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 398
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74314387c7c04af0800000000000000
+      internalID: -414111506003577731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_100
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 398
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3a68fde78f85b0800000000000000
+      internalID: -5363919175030261027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_101
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 384
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf53f725fb8043510800000000000000
+      internalID: 1527855791401285116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_102
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 433
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64ddfd0b53945ab0800000000000000
+      internalID: -5020225665325214609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_103
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 398
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e94ac47080cd980800000000000000
+      internalID: -8512920368193429964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_104
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 407
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cedb6b85ee49a90800000000000000
+      internalID: -7307954230525039513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_105
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 334
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda1f6e9562d0090800000000000000
+      internalID: -8066749189982147151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_106
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 324
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fcf129bafdc4960800000000000000
+      internalID: 7587685400196402948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_107
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 323
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d7a94c87176e40800000000000000
+      internalID: 5649510148858173732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_108
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 323
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a3f0b48a41177e0800000000000000
+      internalID: -1769610465533543844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_109
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 323
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ec19fe97aa8a9c0800000000000000
+      internalID: -3915692435311571310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_110
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea55d81a9cc2a2f0800000000000000
+      internalID: -962982408090199327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_111
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 310
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b30af049024400800000000000000
+      internalID: 306817899291719380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_112
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 324
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984dd21200b75da0800000000000000
+      internalID: -5956098459221276513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_113
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 323
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa0bbf6e461c920800000000000000
+      internalID: 3008796969288118221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_114
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 324
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e8c485d0248830800000000000000
+      internalID: 4072416064477653191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_115
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 323
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796a8cf0937a53f20800000000000000
+      internalID: 3401808957068060311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_116
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 291
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c1d3e931ad3eff0800000000000000
+      internalID: -7922996530570181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_117
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 259
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9ad699b9435be0800000000000000
+      internalID: -1489765990280815021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_118
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 250
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec07a495da2b3c7b0800000000000000
+      internalID: -5205120286713024306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_119
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 250
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bcf6c65a1e85840800000000000000
+      internalID: 5213164669286468435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_120
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 250
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2cb461631fc13e0800000000000000
+      internalID: -2081523713147419968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_121
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 249
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98810683d963e9f10800000000000000
+      internalID: 2278318510379636873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_122
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 250
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a6ba18bc7f9a780800000000000000
+      internalID: -8671127154099262900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_123
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 250
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7885d8e10b3825070800000000000000
+      internalID: 8093676272788265095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_124
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 250
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9caca6d7e8e5bd90800000000000000
+      internalID: -7082498756533506917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunda ptp2_125
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 250
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503adafb723688990800000000000000
+      internalID: -7383542566703226107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sunda ptp2_0: -2701473328821306295
+      sunda ptp2_1: -4459891657935343342
+      sunda ptp2_10: -3646341217399444110
+      sunda ptp2_100: -5363919175030261027
+      sunda ptp2_101: 1527855791401285116
+      sunda ptp2_102: -5020225665325214609
+      sunda ptp2_103: -8512920368193429964
+      sunda ptp2_104: -7307954230525039513
+      sunda ptp2_105: -8066749189982147151
+      sunda ptp2_106: 7587685400196402948
+      sunda ptp2_107: 5649510148858173732
+      sunda ptp2_108: -1769610465533543844
+      sunda ptp2_109: -3915692435311571310
+      sunda ptp2_11: 4629300615403440881
+      sunda ptp2_110: -962982408090199327
+      sunda ptp2_111: 306817899291719380
+      sunda ptp2_112: -5956098459221276513
+      sunda ptp2_113: 3008796969288118221
+      sunda ptp2_114: 4072416064477653191
+      sunda ptp2_115: 3401808957068060311
+      sunda ptp2_116: -7922996530570181
+      sunda ptp2_117: -1489765990280815021
+      sunda ptp2_118: -5205120286713024306
+      sunda ptp2_119: 5213164669286468435
+      sunda ptp2_12: -3666726396167960775
+      sunda ptp2_120: -2081523713147419968
+      sunda ptp2_121: 2278318510379636873
+      sunda ptp2_122: -8671127154099262900
+      sunda ptp2_123: 8093676272788265095
+      sunda ptp2_124: -7082498756533506917
+      sunda ptp2_125: -7383542566703226107
+      sunda ptp2_13: 7838099245657845879
+      sunda ptp2_14: -5045941266468482294
+      sunda ptp2_15: -3350862309674037045
+      sunda ptp2_16: 4491543104366770063
+      sunda ptp2_17: -1446706878701909675
+      sunda ptp2_18: -4419366539686048834
+      sunda ptp2_19: -4039689099803463734
+      sunda ptp2_2: -8575736581451749028
+      sunda ptp2_20: 3595282667741652384
+      sunda ptp2_21: 6059666276718647457
+      sunda ptp2_22: 3886153845348825540
+      sunda ptp2_23: 3591089766413548826
+      sunda ptp2_24: -1029912628584653779
+      sunda ptp2_25: 6813879023682645317
+      sunda ptp2_26: 1392934670399821966
+      sunda ptp2_27: 8363501810406847204
+      sunda ptp2_28: 2493291812550052308
+      sunda ptp2_29: 7633471017708153348
+      sunda ptp2_3: 6848957333385239064
+      sunda ptp2_30: 2827977357074649285
+      sunda ptp2_31: -4154638146494955517
+      sunda ptp2_32: -8013744117547400869
+      sunda ptp2_33: 1542366756021921639
+      sunda ptp2_34: -3030725351609930932
+      sunda ptp2_35: -6542756493754933686
+      sunda ptp2_36: 6288727526562989751
+      sunda ptp2_37: -4153979375274743164
+      sunda ptp2_38: -913078239197854298
+      sunda ptp2_39: -4840904685925573558
+      sunda ptp2_4: 6704298618300730302
+      sunda ptp2_40: 1625158568461168894
+      sunda ptp2_41: 8735140269430779869
+      sunda ptp2_42: -3741068382196833134
+      sunda ptp2_43: -1556019711980541055
+      sunda ptp2_44: 6865714445402748686
+      sunda ptp2_45: -4739914689920389402
+      sunda ptp2_46: 5920830071454081834
+      sunda ptp2_47: 4243425551830536073
+      sunda ptp2_48: -6473004100919722591
+      sunda ptp2_49: 2875151304991882801
+      sunda ptp2_5: -5755266460041430167
+      sunda ptp2_50: -7676714474426128223
+      sunda ptp2_51: 7212337798184625655
+      sunda ptp2_52: 7842747277131492681
+      sunda ptp2_53: -1042335686075488883
+      sunda ptp2_54: 7761549892468888065
+      sunda ptp2_55: 990511639348026200
+      sunda ptp2_56: -2773145335117966861
+      sunda ptp2_57: -8076623018502358565
+      sunda ptp2_58: -4457150252673256490
+      sunda ptp2_59: 4442997504804189299
+      sunda ptp2_6: -7676764178183742069
+      sunda ptp2_60: 589439923071359569
+      sunda ptp2_61: 1498828392542016010
+      sunda ptp2_62: 7936770622044193723
+      sunda ptp2_63: 7708952957893715856
+      sunda ptp2_64: 8998960318755148973
+      sunda ptp2_65: 5399833421032358310
+      sunda ptp2_66: 6362793073759458252
+      sunda ptp2_67: 9183321996986596993
+      sunda ptp2_68: 5606086482556731547
+      sunda ptp2_69: -5698830580678803507
+      sunda ptp2_7: -2620752509107719544
+      sunda ptp2_70: 3195771016781710207
+      sunda ptp2_71: 8707016541206815885
+      sunda ptp2_72: -3650404277308917420
+      sunda ptp2_73: -8839439350628084642
+      sunda ptp2_74: 2066094948350907603
+      sunda ptp2_75: 1603849759381934713
+      sunda ptp2_76: -4743080145016312969
+      sunda ptp2_77: -7203629305536423152
+      sunda ptp2_78: -360387565265479365
+      sunda ptp2_79: 313323933361804125
+      sunda ptp2_8: -9091120539408223741
+      sunda ptp2_80: -3129018108761875105
+      sunda ptp2_81: 1523618860463344836
+      sunda ptp2_82: -6697774538157307593
+      sunda ptp2_83: -8410478305472830350
+      sunda ptp2_84: -5126489685782272870
+      sunda ptp2_85: 2507259081644734857
+      sunda ptp2_86: -7865548704767318378
+      sunda ptp2_87: -1460505398628473735
+      sunda ptp2_88: 2126024969723452442
+      sunda ptp2_89: -5784722639484561444
+      sunda ptp2_9: -8591468170578453937
+      sunda ptp2_90: 985028860613398808
+      sunda ptp2_91: 4767897448898656711
+      sunda ptp2_92: -8827201782742460006
+      sunda ptp2_93: 6898124109299691534
+      sunda ptp2_94: -1964146283339155842
+      sunda ptp2_95: -1911557929306163381
+      sunda ptp2_96: -7928369776994194127
+      sunda ptp2_97: 8715055465039666243
+      sunda ptp2_98: -8025065236017848762
+      sunda ptp2_99: -414111506003577731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

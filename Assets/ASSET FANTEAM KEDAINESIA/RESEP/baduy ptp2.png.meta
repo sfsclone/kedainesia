@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: a0c9f691d109f544b92f0adc20f897e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1774500904678943624
+    second: baduy ptp2_0
+  - first:
+      213: 7198138090955613212
+    second: baduy ptp2_1
+  - first:
+      213: 4863802035786793598
+    second: baduy ptp2_2
+  - first:
+      213: -2860958109620689650
+    second: baduy ptp2_3
+  - first:
+      213: 9120301821370085148
+    second: baduy ptp2_4
+  - first:
+      213: -8882346029616590808
+    second: baduy ptp2_5
+  - first:
+      213: -8293324828456816403
+    second: baduy ptp2_6
+  - first:
+      213: -6195793937895618431
+    second: baduy ptp2_7
+  - first:
+      213: -6842648720764921034
+    second: baduy ptp2_8
+  - first:
+      213: -7239471589187978436
+    second: baduy ptp2_9
+  - first:
+      213: -3939808722010251135
+    second: baduy ptp2_10
+  - first:
+      213: 4434004111714521547
+    second: baduy ptp2_11
+  - first:
+      213: -3103378231498962914
+    second: baduy ptp2_12
+  - first:
+      213: -6249608513993909620
+    second: baduy ptp2_13
+  - first:
+      213: 6388666185765021388
+    second: baduy ptp2_14
+  - first:
+      213: -6164207462621074761
+    second: baduy ptp2_15
+  - first:
+      213: 3711295898723767053
+    second: baduy ptp2_16
+  - first:
+      213: -6351397841696874988
+    second: baduy ptp2_17
+  - first:
+      213: 8078147810389705343
+    second: baduy ptp2_18
+  - first:
+      213: -1747203684465652019
+    second: baduy ptp2_19
+  - first:
+      213: -5883353992532831577
+    second: baduy ptp2_20
+  - first:
+      213: 3439227833074238361
+    second: baduy ptp2_21
+  - first:
+      213: -5555677456798468281
+    second: baduy ptp2_22
+  - first:
+      213: 5423610446346752173
+    second: baduy ptp2_23
+  - first:
+      213: 4586944985941812819
+    second: baduy ptp2_24
+  - first:
+      213: 4889349148090634088
+    second: baduy ptp2_25
+  - first:
+      213: -4736459530649092033
+    second: baduy ptp2_26
+  - first:
+      213: 5112132740669130264
+    second: baduy ptp2_27
+  - first:
+      213: -8194413620269254141
+    second: baduy ptp2_28
+  - first:
+      213: 718509945030800540
+    second: baduy ptp2_29
+  - first:
+      213: -590186579708819415
+    second: baduy ptp2_30
+  - first:
+      213: -885167430514130365
+    second: baduy ptp2_31
+  - first:
+      213: -6500853657536580485
+    second: baduy ptp2_32
+  - first:
+      213: 4793102335484984453
+    second: baduy ptp2_33
+  - first:
+      213: -4485534143237442592
+    second: baduy ptp2_34
+  - first:
+      213: -3941769746028299042
+    second: baduy ptp2_35
+  - first:
+      213: -7180260129783097773
+    second: baduy ptp2_36
+  - first:
+      213: -4709080231585805207
+    second: baduy ptp2_37
+  - first:
+      213: -106651722942138580
+    second: baduy ptp2_38
+  - first:
+      213: 8804930557164915302
+    second: baduy ptp2_39
+  - first:
+      213: 3730754802562595176
+    second: baduy ptp2_40
+  - first:
+      213: -3514345809595110637
+    second: baduy ptp2_41
+  - first:
+      213: 1006276748838872411
+    second: baduy ptp2_42
+  - first:
+      213: 2006653949223558841
+    second: baduy ptp2_43
+  - first:
+      213: 2709545608444048819
+    second: baduy ptp2_44
+  - first:
+      213: 3364216806078218324
+    second: baduy ptp2_45
+  - first:
+      213: -8508731757120590146
+    second: baduy ptp2_46
+  - first:
+      213: 833224916359594580
+    second: baduy ptp2_47
+  - first:
+      213: 2505391036769647873
+    second: baduy ptp2_48
+  - first:
+      213: 8255458965743214067
+    second: baduy ptp2_49
+  - first:
+      213: 2900789013020634075
+    second: baduy ptp2_50
+  - first:
+      213: 258810466368356954
+    second: baduy ptp2_51
+  - first:
+      213: 4638554577255719158
+    second: baduy ptp2_52
+  - first:
+      213: -71821502694652877
+    second: baduy ptp2_53
+  - first:
+      213: -6623116740388706668
+    second: baduy ptp2_54
+  - first:
+      213: -1244678960687002877
+    second: baduy ptp2_55
+  - first:
+      213: -6868155117814235731
+    second: baduy ptp2_56
+  - first:
+      213: 6740569247553608371
+    second: baduy ptp2_57
+  - first:
+      213: 2620179665728847893
+    second: baduy ptp2_58
+  - first:
+      213: -3090558508166702620
+    second: baduy ptp2_59
+  - first:
+      213: -1658502081899297475
+    second: baduy ptp2_60
+  - first:
+      213: 9074329601231002328
+    second: baduy ptp2_61
+  - first:
+      213: -6553333456367628474
+    second: baduy ptp2_62
+  - first:
+      213: -600416062734755520
+    second: baduy ptp2_63
+  - first:
+      213: -5295240748860510644
+    second: baduy ptp2_64
+  - first:
+      213: 1538346200775806016
+    second: baduy ptp2_65
+  - first:
+      213: 1914798551120501528
+    second: baduy ptp2_66
+  - first:
+      213: 7706182717552926485
+    second: baduy ptp2_67
+  - first:
+      213: -1921972588862537014
+    second: baduy ptp2_68
+  - first:
+      213: -8954460463571497550
+    second: baduy ptp2_69
+  - first:
+      213: 6417234581736219948
+    second: baduy ptp2_70
+  - first:
+      213: 1621937017619079869
+    second: baduy ptp2_71
+  - first:
+      213: 3326242761481055680
+    second: baduy ptp2_72
+  - first:
+      213: 5198030231904391442
+    second: baduy ptp2_73
+  - first:
+      213: -1442596069823061940
+    second: baduy ptp2_74
+  - first:
+      213: 5295666229746153574
+    second: baduy ptp2_75
+  - first:
+      213: -3892266889090851632
+    second: baduy ptp2_76
+  - first:
+      213: 3769519590683908966
+    second: baduy ptp2_77
+  - first:
+      213: 4328970138590651737
+    second: baduy ptp2_78
+  - first:
+      213: 21208861584693885
+    second: baduy ptp2_79
+  - first:
+      213: -8365963511513410618
+    second: baduy ptp2_80
+  - first:
+      213: -5801322904298605820
+    second: baduy ptp2_81
+  - first:
+      213: 8439668137038693300
+    second: baduy ptp2_82
+  - first:
+      213: 7838970424941760380
+    second: baduy ptp2_83
+  - first:
+      213: 5188690345062752468
+    second: baduy ptp2_84
+  - first:
+      213: 3823276672376127898
+    second: baduy ptp2_85
+  - first:
+      213: -4455013648858870468
+    second: baduy ptp2_86
+  - first:
+      213: 8559958651857484414
+    second: baduy ptp2_87
+  - first:
+      213: -6516439098509607816
+    second: baduy ptp2_88
+  - first:
+      213: 4787376741416849575
+    second: baduy ptp2_89
+  - first:
+      213: 7911916596465235883
+    second: baduy ptp2_90
+  - first:
+      213: -493217658557947833
+    second: baduy ptp2_91
+  - first:
+      213: 7831966037533319861
+    second: baduy ptp2_92
+  - first:
+      213: -5030110355502290759
+    second: baduy ptp2_93
+  - first:
+      213: -9146368160169562360
+    second: baduy ptp2_94
+  - first:
+      213: -7891377935821710502
+    second: baduy ptp2_95
+  - first:
+      213: 52457403009393575
+    second: baduy ptp2_96
+  - first:
+      213: -2759066438911543888
+    second: baduy ptp2_97
+  - first:
+      213: 4909796463968762912
+    second: baduy ptp2_98
+  - first:
+      213: 1158419776476180126
+    second: baduy ptp2_99
+  - first:
+      213: 6529320552525247919
+    second: baduy ptp2_100
+  - first:
+      213: -7855866912539737713
+    second: baduy ptp2_101
+  - first:
+      213: 2717199172207265662
+    second: baduy ptp2_102
+  - first:
+      213: -629297507223500030
+    second: baduy ptp2_103
+  - first:
+      213: 5501109126237255764
+    second: baduy ptp2_104
+  - first:
+      213: -3726098922920041618
+    second: baduy ptp2_105
+  - first:
+      213: 3337499208712340757
+    second: baduy ptp2_106
+  - first:
+      213: 2807287500316738393
+    second: baduy ptp2_107
+  - first:
+      213: -6752604127996708508
+    second: baduy ptp2_108
+  - first:
+      213: -7347708894060713384
+    second: baduy ptp2_109
+  - first:
+      213: -2095876560629935961
+    second: baduy ptp2_110
+  - first:
+      213: -5323177968672787807
+    second: baduy ptp2_111
+  - first:
+      213: -8487342889350482997
+    second: baduy ptp2_112
+  - first:
+      213: -4543443676700135612
+    second: baduy ptp2_113
+  - first:
+      213: 2639867600983618150
+    second: baduy ptp2_114
+  - first:
+      213: 6670169113861825760
+    second: baduy ptp2_115
+  - first:
+      213: 7290777494602039358
+    second: baduy ptp2_116
+  - first:
+      213: 1675971723572921969
+    second: baduy ptp2_117
+  - first:
+      213: -6292549393644076454
+    second: baduy ptp2_118
+  - first:
+      213: 11301503726007539
+    second: baduy ptp2_119
+  - first:
+      213: 4193342196732366872
+    second: baduy ptp2_120
+  - first:
+      213: 1549698567159886413
+    second: baduy ptp2_121
+  - first:
+      213: -212250364919446960
+    second: baduy ptp2_122
+  - first:
+      213: -3345698737330191833
+    second: baduy ptp2_123
+  - first:
+      213: 3740193580412114375
+    second: baduy ptp2_124
+  - first:
+      213: -3162125957696326557
+    second: baduy ptp2_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baduy ptp2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 543
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874900334d4bf57e0800000000000000
+      internalID: -1774500904678943624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1742
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c142e93d47ce4e360800000000000000
+      internalID: 7198138090955613212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1742
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c4e89e22bf7340800000000000000
+      internalID: 4863802035786793598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1742
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0529ced1c5db48d0800000000000000
+      internalID: -2860958109620689650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1742
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fac136f22d19e70800000000000000
+      internalID: 9120301821370085148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1742
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8201a94c8519bb480800000000000000
+      internalID: -8882346029616590808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1742
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de077e8220138ec80800000000000000
+      internalID: -8293324828456816403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1742
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188863e7d3e140aa0800000000000000
+      internalID: -6195793937895618431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1742
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b960c0e370a01a0800000000000000
+      internalID: -6842648720764921034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1726
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bfaec22fa388b90800000000000000
+      internalID: -7239471589187978436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_10
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1493
+        width: 142
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180e79167dcf259c0800000000000000
+      internalID: -3939808722010251135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1493
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc19d5b4f3fb88d30800000000000000
+      internalID: 4434004111714521547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1493
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1803dbd0f59ee4d0800000000000000
+      internalID: -3103378231498962914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1493
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad22a1b2ee449a0800000000000000
+      internalID: -6249608513993909620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1493
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e21f1c0a19a850800000000000000
+      internalID: 6388666185765021388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1493
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa8acd8f5547aa0800000000000000
+      internalID: -6164207462621074761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_16
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1493
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d035bc3e4fb218330800000000000000
+      internalID: 3711295898723767053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_17
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1493
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e997a605d4bd7a0800000000000000
+      internalID: -6351397841696874988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_18
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1493
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72c06932a85b1070800000000000000
+      internalID: 8078147810389705343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_19
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1493
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcecb2d818fa0c7e0800000000000000
+      internalID: -1747203684465652019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_20
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1493
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2543317b02a5ea0800000000000000
+      internalID: -5883353992532831577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_21
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1493
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993c60c0e779abf20800000000000000
+      internalID: 3439227833074238361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_22
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1493
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b1ecc9c446e2b0800000000000000
+      internalID: -5555677456798468281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1428
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0989627f8844b40800000000000000
+      internalID: 5423610446346752173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1419
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356225b792a18af30800000000000000
+      internalID: 4586944985941812819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1419
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f0dc235257ad340800000000000000
+      internalID: 4889349148090634088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1419
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c5a6d627b44eb0800000000000000
+      internalID: -4736459530649092033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1419
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164a3474a1f1f640800000000000000
+      internalID: 5112132740669130264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1419
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a7a3d6a38974e80800000000000000
+      internalID: -8194413620269254141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_29
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1419
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c947529fcf8a8f900800000000000000
+      internalID: 718509945030800540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_30
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1419
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c045ce6c3fc7f0800000000000000
+      internalID: -590186579708819415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_31
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1419
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342c57969e047b3f0800000000000000
+      internalID: -885167430514130365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_32
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1419
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74bbbd9a0458c5a0800000000000000
+      internalID: -6500853657536580485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_33
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1419
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c7daedd25848240800000000000000
+      internalID: 4793102335484984453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_34
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1353
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3327c467e20c1c0800000000000000
+      internalID: -4485534143237442592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_35
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1345
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf995ec450c49c0800000000000000
+      internalID: -3941769746028299042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_36
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1344
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356d06164779a5c90800000000000000
+      internalID: -7180260129783097773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_37
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1345
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8389aa7cf5aeb0800000000000000
+      internalID: -4709080231585805207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_38
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1344
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27b953b2d8158ef0800000000000000
+      internalID: -106651722942138580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_39
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1345
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a0cc3f0b5613a70800000000000000
+      internalID: 8804930557164915302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_40
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1345
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86973def9bd46c330800000000000000
+      internalID: 3730754802562595176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_41
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1344
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b63312b198a3fc0800000000000000
+      internalID: -3514345809595110637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_42
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1345
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a6402f5307fd00800000000000000
+      internalID: 1006276748838872411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1280
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beda96922119db10800000000000000
+      internalID: 2006653949223558841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1271
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5f606006d3a9520800000000000000
+      internalID: 2709545608444048819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1270
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45001b95c5910be20800000000000000
+      internalID: 3364216806078218324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1270
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeedbf4c89eae980800000000000000
+      internalID: -8508731757120590146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_47
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1271
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4524e9595a5309b00800000000000000
+      internalID: 833224916359594580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_48
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1271
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d3a12bfdfe4c220800000000000000
+      internalID: 2505391036769647873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_49
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1270
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd10f6a038419270800000000000000
+      internalID: 8255458965743214067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_50
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1271
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb63710d3ca14820800000000000000
+      internalID: 2900789013020634075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_51
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1270
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a520a087fba779300800000000000000
+      internalID: 258810466368356954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_52
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1270
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e698dfc47f5040800000000000000
+      internalID: 4638554577255719158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_53
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1271
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33486ac49b6d00ff0800000000000000
+      internalID: -71821502694652877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 687
+        width: 443
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49620375a66f514a0800000000000000
+      internalID: -6623116740388706668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 980
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b49d074130abee0800000000000000
+      internalID: -1244678960687002877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 980
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadb6643f496fa0a0800000000000000
+      internalID: -6868155117814235731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_57
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 964
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bada5084005b8d50800000000000000
+      internalID: 6740569247553608371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 980
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510487f068fbc5420800000000000000
+      internalID: 2620179665728847893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_59
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 980
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9992b49612c15d0800000000000000
+      internalID: -3090558508166702620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_60
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 980
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358525c421dbf8e0800000000000000
+      internalID: -1658502081899297475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_61
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 980
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9f28c1be7eed70800000000000000
+      internalID: 9074329601231002328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_62
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 980
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f468641f1ed05a0800000000000000
+      internalID: -6553333456367628474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_63
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 980
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0499147a5c4eaa7f0800000000000000
+      internalID: -600416062734755520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_64
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 980
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eeef328968386b0800000000000000
+      internalID: -5295240748860510644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_65
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 916
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c40d618bd495510800000000000000
+      internalID: 1538346200775806016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 907
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b58ff132bb29a10800000000000000
+      internalID: 1914798551120501528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_67
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 907
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f1ffd3a5cd1fa60800000000000000
+      internalID: 7706182717552926485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_68
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 893
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac28fcc0d18c355e0800000000000000
+      internalID: -1921972588862537014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_69
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 906
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8a81b6ad5bb380800000000000000
+      internalID: -8954460463571497550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_70
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 907
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c256db42ad89e0950800000000000000
+      internalID: 6417234581736219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 892
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ed37cf17428610800000000000000
+      internalID: 1621937017619079869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_72
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 907
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdeaca1b20392e20800000000000000
+      internalID: 3326242761481055680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_73
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 907
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2111760a4fc132840800000000000000
+      internalID: 5198030231904391442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_74
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 907
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4062d7848edafbe0800000000000000
+      internalID: -1442596069823061940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_75
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 907
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6683d09d06cfd7940800000000000000
+      internalID: 5295666229746153574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_76
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 907
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc99b0f2e3ebf9c0800000000000000
+      internalID: -3892266889090851632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_77
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 841
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b17909816005430800000000000000
+      internalID: 3769519590683908966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_78
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 833
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95528f9b767931c30800000000000000
+      internalID: 4328970138590651737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_79
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 832
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a98d4e8595b4000800000000000000
+      internalID: 21208861584693885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_80
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 834
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c31d54d28026eb80800000000000000
+      internalID: -8365963511513410618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_81
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 833
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403b1f52e8f8d7fa0800000000000000
+      internalID: -5801322904298605820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_82
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 834
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3cf529479bf1570800000000000000
+      internalID: 8439668137038693300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_83
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 834
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f427f911e99cc60800000000000000
+      internalID: 7838970424941760380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_84
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 833
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0e6f2c06ee10840800000000000000
+      internalID: 5188690345062752468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_85
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 834
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91440f70e10f0530800000000000000
+      internalID: 3823276672376127898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_86
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 767
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d0046a0bc9c22c0800000000000000
+      internalID: -4455013648858870468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_87
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 758
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a3fff8a051bc670800000000000000
+      internalID: 8559958651857484414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_88
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c3edc5a25f095a0800000000000000
+      internalID: -6516439098509607816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_89
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 758
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a05e1e18cd207240800000000000000
+      internalID: 4787376741416849575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_90
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 758
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f3d0b936cccd60800000000000000
+      internalID: 7911916596465235883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_91
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 757
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74024b8172db729f0800000000000000
+      internalID: -493217658557947833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_92
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 758
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e8189d9bb0bc60800000000000000
+      internalID: 7831966037533319861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 558
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a5474845713ab0800000000000000
+      internalID: -5030110355502290759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_94
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 473
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f662c2e92911180800000000000000
+      internalID: -9146368160169562360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_95
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 473
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bddf2e3913c7290800000000000000
+      internalID: -7891377935821710502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_96
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 517
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e638eabd5ab000800000000000000
+      internalID: 52457403009393575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_97
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 473
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5b9f421b3d5b9d0800000000000000
+      internalID: -2759066438911543888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_98
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 473
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cb35aeed9132440800000000000000
+      internalID: 4909796463968762912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_99
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 473
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e66ad26a8831010800000000000000
+      internalID: 1158419776476180126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_100
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 473
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5bcedd27ecc9a50800000000000000
+      internalID: 6529320552525247919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_101
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 456
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81035b4aaa5af290800000000000000
+      internalID: -7855866912539737713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_102
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 456
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774663304e65b520800000000000000
+      internalID: 2717199172207265662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_103
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 407
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b87e750494447f0800000000000000
+      internalID: -629297507223500030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_104
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 398
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f70caa9dd75c40800000000000000
+      internalID: 5501109126237255764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_105
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 398
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a26575cc3a4cc0800000000000000
+      internalID: -3726098922920041618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_106
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 398
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154275f8dd215e20800000000000000
+      internalID: 3337499208712340757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_107
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 397
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95306ce9b1d75f620800000000000000
+      internalID: 2807287500316738393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_108
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 398
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4697be9825ee942a0800000000000000
+      internalID: -6752604127996708508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_109
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 324
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a6880d0b1b70a90800000000000000
+      internalID: -7347708894060713384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_110
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 323
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d59e5f53f9e2e0800000000000000
+      internalID: -2095876560629935961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_111
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 310
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2b21547d54026b0800000000000000
+      internalID: -5323177968672787807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_112
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 359
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3b3592c96e63a80800000000000000
+      internalID: -8487342889350482997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_113
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 324
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2b495c0272f0c0800000000000000
+      internalID: -4543443676700135612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_114
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 324
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662f0b2b891b2a420800000000000000
+      internalID: 2639867600983618150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_115
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 324
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4248f0873319c50800000000000000
+      internalID: 6670169113861825760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_116
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 323
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ca2ec08b0e2560800000000000000
+      internalID: 7290777494602039358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_117
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 324
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176c925276f324710800000000000000
+      internalID: 1675971723572921969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_118
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 359
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ce347aaf5ca8a0800000000000000
+      internalID: -6292549393644076454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_119
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 427
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4340368a6282000800000000000000
+      internalID: 11301503726007539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_120
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 333
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81093e9b28eb13a30800000000000000
+      internalID: 4193342196732366872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_121
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 250
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d423f7cd2a2a18510800000000000000
+      internalID: 1549698567159886413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_122
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 250
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052878bea6fed0df0800000000000000
+      internalID: -212250364919446960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_123
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 285
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72206f389b0b191d0800000000000000
+      internalID: -3345698737330191833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_124
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 250
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c519a7be36d7e330800000000000000
+      internalID: 3740193580412114375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baduy ptp2_125
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 259
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f774f13fdd14d0800000000000000
+      internalID: -3162125957696326557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      baduy ptp2_0: -1774500904678943624
+      baduy ptp2_1: 7198138090955613212
+      baduy ptp2_10: -3939808722010251135
+      baduy ptp2_100: 6529320552525247919
+      baduy ptp2_101: -7855866912539737713
+      baduy ptp2_102: 2717199172207265662
+      baduy ptp2_103: -629297507223500030
+      baduy ptp2_104: 5501109126237255764
+      baduy ptp2_105: -3726098922920041618
+      baduy ptp2_106: 3337499208712340757
+      baduy ptp2_107: 2807287500316738393
+      baduy ptp2_108: -6752604127996708508
+      baduy ptp2_109: -7347708894060713384
+      baduy ptp2_11: 4434004111714521547
+      baduy ptp2_110: -2095876560629935961
+      baduy ptp2_111: -5323177968672787807
+      baduy ptp2_112: -8487342889350482997
+      baduy ptp2_113: -4543443676700135612
+      baduy ptp2_114: 2639867600983618150
+      baduy ptp2_115: 6670169113861825760
+      baduy ptp2_116: 7290777494602039358
+      baduy ptp2_117: 1675971723572921969
+      baduy ptp2_118: -6292549393644076454
+      baduy ptp2_119: 11301503726007539
+      baduy ptp2_12: -3103378231498962914
+      baduy ptp2_120: 4193342196732366872
+      baduy ptp2_121: 1549698567159886413
+      baduy ptp2_122: -212250364919446960
+      baduy ptp2_123: -3345698737330191833
+      baduy ptp2_124: 3740193580412114375
+      baduy ptp2_125: -3162125957696326557
+      baduy ptp2_13: -6249608513993909620
+      baduy ptp2_14: 6388666185765021388
+      baduy ptp2_15: -6164207462621074761
+      baduy ptp2_16: 3711295898723767053
+      baduy ptp2_17: -6351397841696874988
+      baduy ptp2_18: 8078147810389705343
+      baduy ptp2_19: -1747203684465652019
+      baduy ptp2_2: 4863802035786793598
+      baduy ptp2_20: -5883353992532831577
+      baduy ptp2_21: 3439227833074238361
+      baduy ptp2_22: -5555677456798468281
+      baduy ptp2_23: 5423610446346752173
+      baduy ptp2_24: 4586944985941812819
+      baduy ptp2_25: 4889349148090634088
+      baduy ptp2_26: -4736459530649092033
+      baduy ptp2_27: 5112132740669130264
+      baduy ptp2_28: -8194413620269254141
+      baduy ptp2_29: 718509945030800540
+      baduy ptp2_3: -2860958109620689650
+      baduy ptp2_30: -590186579708819415
+      baduy ptp2_31: -885167430514130365
+      baduy ptp2_32: -6500853657536580485
+      baduy ptp2_33: 4793102335484984453
+      baduy ptp2_34: -4485534143237442592
+      baduy ptp2_35: -3941769746028299042
+      baduy ptp2_36: -7180260129783097773
+      baduy ptp2_37: -4709080231585805207
+      baduy ptp2_38: -106651722942138580
+      baduy ptp2_39: 8804930557164915302
+      baduy ptp2_4: 9120301821370085148
+      baduy ptp2_40: 3730754802562595176
+      baduy ptp2_41: -3514345809595110637
+      baduy ptp2_42: 1006276748838872411
+      baduy ptp2_43: 2006653949223558841
+      baduy ptp2_44: 2709545608444048819
+      baduy ptp2_45: 3364216806078218324
+      baduy ptp2_46: -8508731757120590146
+      baduy ptp2_47: 833224916359594580
+      baduy ptp2_48: 2505391036769647873
+      baduy ptp2_49: 8255458965743214067
+      baduy ptp2_5: -8882346029616590808
+      baduy ptp2_50: 2900789013020634075
+      baduy ptp2_51: 258810466368356954
+      baduy ptp2_52: 4638554577255719158
+      baduy ptp2_53: -71821502694652877
+      baduy ptp2_54: -6623116740388706668
+      baduy ptp2_55: -1244678960687002877
+      baduy ptp2_56: -6868155117814235731
+      baduy ptp2_57: 6740569247553608371
+      baduy ptp2_58: 2620179665728847893
+      baduy ptp2_59: -3090558508166702620
+      baduy ptp2_6: -8293324828456816403
+      baduy ptp2_60: -1658502081899297475
+      baduy ptp2_61: 9074329601231002328
+      baduy ptp2_62: -6553333456367628474
+      baduy ptp2_63: -600416062734755520
+      baduy ptp2_64: -5295240748860510644
+      baduy ptp2_65: 1538346200775806016
+      baduy ptp2_66: 1914798551120501528
+      baduy ptp2_67: 7706182717552926485
+      baduy ptp2_68: -1921972588862537014
+      baduy ptp2_69: -8954460463571497550
+      baduy ptp2_7: -6195793937895618431
+      baduy ptp2_70: 6417234581736219948
+      baduy ptp2_71: 1621937017619079869
+      baduy ptp2_72: 3326242761481055680
+      baduy ptp2_73: 5198030231904391442
+      baduy ptp2_74: -1442596069823061940
+      baduy ptp2_75: 5295666229746153574
+      baduy ptp2_76: -3892266889090851632
+      baduy ptp2_77: 3769519590683908966
+      baduy ptp2_78: 4328970138590651737
+      baduy ptp2_79: 21208861584693885
+      baduy ptp2_8: -6842648720764921034
+      baduy ptp2_80: -8365963511513410618
+      baduy ptp2_81: -5801322904298605820
+      baduy ptp2_82: 8439668137038693300
+      baduy ptp2_83: 7838970424941760380
+      baduy ptp2_84: 5188690345062752468
+      baduy ptp2_85: 3823276672376127898
+      baduy ptp2_86: -4455013648858870468
+      baduy ptp2_87: 8559958651857484414
+      baduy ptp2_88: -6516439098509607816
+      baduy ptp2_89: 4787376741416849575
+      baduy ptp2_9: -7239471589187978436
+      baduy ptp2_90: 7911916596465235883
+      baduy ptp2_91: -493217658557947833
+      baduy ptp2_92: 7831966037533319861
+      baduy ptp2_93: -5030110355502290759
+      baduy ptp2_94: -9146368160169562360
+      baduy ptp2_95: -7891377935821710502
+      baduy ptp2_96: 52457403009393575
+      baduy ptp2_97: -2759066438911543888
+      baduy ptp2_98: 4909796463968762912
+      baduy ptp2_99: 1158419776476180126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
