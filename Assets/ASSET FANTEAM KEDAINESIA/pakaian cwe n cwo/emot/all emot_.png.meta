@@ -141,10 +141,10 @@ TextureImporter:
       name: all emot__0
       rect:
         serializedVersion: 2
-        x: 416
-        y: 732
-        width: 494
-        height: 163
+        x: 0
+        y: 0
+        width: 1286
+        height: 1565
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -631,7 +631,7 @@ MonoBehaviour:
   patienceSlider: {fileID: 9044918512755771277}
   emojiImage: {fileID: 3993235596181792520}
   smileEmoji: {fileID: 3560935761571398095, guid: b104fcff69d31cf40b93740e89212a75, type: 3}
-  angryEmoji: {fileID: 4684057861738530012, guid: 54a1e6021690bba4a930d683fc8aced4, type: 3}
+  angryEmoji: {fileID: 8379811097228679920, guid: a070306a0ef3d574198716d587477d42, type: 3}
   emojiDisplayDuration: 1.5
 --- !u!1 &5485078644175253718
 GameObject:

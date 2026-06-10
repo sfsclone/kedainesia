@@ -140,7 +140,7 @@ public class CustomerManager : MonoBehaviour
             nameText.text = customer.customerName;
 
         if (orderText && customer.selectedRecipe != null)
-            orderText.text = $"Pesan: {customer.selectedRecipe.recipeName}";
+            orderText.text = $"{customer.selectedRecipe.recipeName}"; //pesanan customer
         else if (orderText)
             orderText.text = "Pesan: ???";
 

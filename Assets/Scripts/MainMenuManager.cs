@@ -8,6 +8,11 @@ public class MainMenuManager : MonoBehaviour
         SceneManager.LoadScene("GameScene1"); // Make sure the game scene is added in Build Settings
     }
 
+    public void LoadTutorialScene()
+    {
+        SceneManager.LoadScene("TutorialScene");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
