@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Lorjuk
   m_EditorClassIdentifier: 
   recipeName: Lorjuk
-  foodIcon: {fileID: -3683565074687734449, guid: 0cd8c4e34a307864b910f538e30ccaec, type: 3}
+  foodIcon: {fileID: -448809772505766280, guid: 698dd2a10ebdbf649bd487d25a407fcc, type: 3}
   requiredIngredients:
   - Lorjuk
   - Santan

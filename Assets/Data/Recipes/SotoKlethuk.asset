@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SotoKlethuk
   m_EditorClassIdentifier: 
   recipeName: Soto Klethuk
-  foodIcon: {fileID: 5640582430240150305, guid: a7e23272d8e9aaf4daba9d580962bdd7, type: 3}
+  foodIcon: {fileID: -4892711265714319492, guid: 067e4c051883524439b7bccc8b2cd649, type: 3}
   requiredIngredients:
   - Daging Ayam
   - Serai

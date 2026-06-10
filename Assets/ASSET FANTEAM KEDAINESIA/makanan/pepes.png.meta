@@ -49,13 +49,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 322, y: 839, z: 328, w: 824}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -132,10 +132,10 @@ TextureImporter:
       name: HiPaint_1765530152123_0
       rect:
         serializedVersion: 2
-        x: 125
-        y: 342
-        width: 807
-        height: 285
+        x: 313
+        y: 846
+        width: 1835
+        height: 1828
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,7 +169,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 795d195e77d27044ea66db0b0d48defe
-    internalID: 0
+    internalID: 226279882
     vertices: []
     indices: 
     edges: []

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TajinSobih
   m_EditorClassIdentifier: 
   recipeName: Tajin Sobih
-  foodIcon: {fileID: 21300000, guid: 53751c59ca41da64db57be0d3dd3f15a, type: 3}
+  foodIcon: {fileID: 2825250428921637645, guid: c1b02dd6ee3ea5d408fabff0fe32bacb, type: 3}
   requiredIngredients:
   - Beras
   - Daging Ayam

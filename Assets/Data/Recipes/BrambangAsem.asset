@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BrambangAsem
   m_EditorClassIdentifier: 
   recipeName: Brambang Asem
-  foodIcon: {fileID: 6039811581268464254, guid: e3a355a126cddc24cbf376c80cd09e82, type: 3}
+  foodIcon: {fileID: -6749607048367883921, guid: 25dbe2c212cb4a44292315f8f6cc761f, type: 3}
   requiredIngredients:
   - Brambang
   - Asam Jawa

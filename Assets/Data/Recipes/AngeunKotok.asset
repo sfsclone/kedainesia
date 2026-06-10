@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AngeunKotok
   m_EditorClassIdentifier: 
   recipeName: Angeun Kotok
-  foodIcon: {fileID: 4207860956235778389, guid: dfee91e355635aa4ba956528f2863945, type: 3}
+  foodIcon: {fileID: 61271012281804473, guid: 5834d86ae9208004caf597b4ba792f76, type: 3}
   requiredIngredients:
   - Beras Ketan
   - Gula Aren

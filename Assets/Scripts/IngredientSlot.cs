@@ -20,10 +20,6 @@ public class IngredientSlot : MonoBehaviour, IDropHandler
             dragged.transform.SetParent(transform);
             dragged.transform.localPosition = Vector3.zero;
 
-            // Show label when dropped into slot
-            if (dragged.label != null)
-                dragged.label.gameObject.SetActive(true);
-
             // Update crafting manager
             CraftingManager crafting = FindAnyObjectByType<CraftingManager>();
             if (crafting != null)

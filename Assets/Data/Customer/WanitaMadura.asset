@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WanitaMadura
   m_EditorClassIdentifier: 
   customerName: Wanita Madura
-  customerSprite: {fileID: -5960376501507752673, guid: f23ecb9a971084f40855c03f68c59685, type: 3}
+  customerSprite: {fileID: -1166855656581969921, guid: 03e0ac0082fe1a84f8547b5988daff44, type: 3}
   possibleRecipes:
   - {fileID: 11400000, guid: 219e560bc0e5dbe43be77c96776f9f3a, type: 2}
   - {fileID: 11400000, guid: d9f8b6b4f8d51e848b2c591907f0b244, type: 2}

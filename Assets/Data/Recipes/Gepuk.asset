@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Gepuk
   m_EditorClassIdentifier: 
   recipeName: Gepuk
-  foodIcon: {fileID: 5798426269118409978, guid: fca9bb11b6970a543a46de63e3a22e5a, type: 3}
+  foodIcon: {fileID: -855651659380049943, guid: 18047ecd51adee14b9076640ec0cff60, type: 3}
   requiredIngredients:
   - Daging Sapi
   - Bawang Merah

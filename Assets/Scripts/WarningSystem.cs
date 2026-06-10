@@ -59,6 +59,6 @@ public class WarningSystem : MonoBehaviour
     private void UpdateWarningUI()
     {
         if (warningText != null)
-            warningText.text = $"Peringatan : {currentWarnings} / {maxWarnings}";
+            warningText.text = $"Peringatan : {currentWarnings}/{maxWarnings}";
     }
 }

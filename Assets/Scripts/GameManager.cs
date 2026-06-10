@@ -72,7 +72,7 @@ public class GameManager : MonoBehaviour
     void UpdateDayUI()
     {
         if (dayText != null)
-            dayText.text = $"Hari - {currentDay}";
+            dayText.text = $"Hari {currentDay}";
 
         FindAnyObjectByType<GuideBookManager>()?.UpdateGuideBookVisibility(currentDay);
 

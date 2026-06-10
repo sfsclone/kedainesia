@@ -13,14 +13,33 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
 
     private Transform ingredientListParent; // Reference to scroll list
 
+    private Transform dragLayerTransform;
+
     private void Awake()
     {
         canvasGroup = GetComponent<CanvasGroup>();
-        ingredientListParent = GameObject.Find("IngredientIconContainer").transform; // Adjust name if needed
+        if (canvasGroup == null) canvasGroup = gameObject.AddComponent<CanvasGroup>();
+    }
+
+    private void EnsureReferences()
+    {
+        if (ingredientListParent == null)
+        {
+            GameObject container = GameObject.Find("IngredientIconContainer");
+            if (container != null) ingredientListParent = container.transform;
+        }
+
+        if (dragLayerTransform == null)
+        {
+            GameObject dragLayerObj = GameObject.Find("DragLayer");
+            if (dragLayerObj != null) dragLayerTransform = dragLayerObj.transform;
+            else dragLayerTransform = transform.root;
+        }
     }
 
     public void OnBeginDrag(PointerEventData eventData)
     {
+        EnsureReferences();
         originalParent = transform.parent;
 
         IngredientSlot slot = originalParent.GetComponent<IngredientSlot>();
@@ -30,12 +49,7 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
         }
 
         // Move to DragLayer
-        Transform dragLayer = GameObject.Find("DragLayer").transform;
-        transform.SetParent(dragLayer);
-
-        // Hide label during drag
-        if (label != null)
-            label.gameObject.SetActive(false);
+        transform.SetParent(dragLayerTransform);
 
         canvasGroup.blocksRaycasts = false;
     }
@@ -47,25 +61,14 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        bool droppedOnSlot = eventData.pointerEnter != null &&
-                             eventData.pointerEnter.GetComponent<IngredientSlot>() != null;
+        canvasGroup.blocksRaycasts = true;
 
-        if (droppedOnSlot)
-        {
-            // Let OnDrop in IngredientSlot handle parenting
-            //don't touch the label here.it will stay visible
-        }
-        else
+        // If the parent is still the DragLayer, it means it wasn't dropped into a valid slot
+        if (transform.parent == dragLayerTransform)
         {
             // Return to scroll list
             transform.SetParent(ingredientListParent);
             transform.localPosition = Vector3.zero;
-
-            // Show label again
-            if (label != null)
-                label.gameObject.SetActive(true);
         }
-
-        canvasGroup.blocksRaycasts = true;
     }
 }

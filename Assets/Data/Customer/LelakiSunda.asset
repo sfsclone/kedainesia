@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: LelakiSunda
   m_EditorClassIdentifier: 
   customerName: Lelaki Sunda
-  customerSprite: {fileID: 6670723695883653892, guid: 1413f02ac75fb9d4e818cfe857f48be0, type: 3}
+  customerSprite: {fileID: 4775354020364068352, guid: 864e638a54bff00499033776c89ff7ed, type: 3}
   possibleRecipes:
   - {fileID: 11400000, guid: 57d0b30c32960e340b95b5cf3e520864, type: 2}
   - {fileID: 11400000, guid: 04ad018b9dfc8ba4998aaaad9de61ee1, type: 2}

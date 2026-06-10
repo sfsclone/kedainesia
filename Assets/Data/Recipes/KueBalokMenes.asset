@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: KueBalokMenes
   m_EditorClassIdentifier: 
   recipeName: Kue Balok Menes
-  foodIcon: {fileID: 21300000, guid: 70653910030ef0b4293dd58df276e081, type: 3}
+  foodIcon: {fileID: 3948084990655779060, guid: b712e55d5725a90458646063ba2fe0ec, type: 3}
   requiredIngredients:
   - Tepung Beras
   - Gula Aren

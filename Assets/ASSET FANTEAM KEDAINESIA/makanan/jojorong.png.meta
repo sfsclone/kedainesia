@@ -132,10 +132,10 @@ TextureImporter:
       name: HiPaint_1765445878088_1
       rect:
         serializedVersion: 2
-        x: 7
-        y: 119
-        width: 1073
-        height: 868
+        x: 316
+        y: 836
+        width: 1836
+        height: 1833
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

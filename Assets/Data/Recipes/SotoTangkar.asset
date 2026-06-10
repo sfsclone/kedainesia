@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SotoTangkar
   m_EditorClassIdentifier: 
   recipeName: Soto Tangkar
-  foodIcon: {fileID: 21300000, guid: d1550b6a82e4eaa4586ef52c65c5f5cb, type: 3}
+  foodIcon: {fileID: 190743075804242242, guid: d292736a4a3d4ca42b3eef6279d17799, type: 3}
   requiredIngredients:
   - Tulang Sapi
   - Kunyit
