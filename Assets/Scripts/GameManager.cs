@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
 
@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        currentDay = MainMenuManager.selectedDay;
         nextDayButton.SetActive(false); // Ensure hidden at start
         UpdateDayUI();
         FindAnyObjectByType<GameClock>()?.ResetClock();
