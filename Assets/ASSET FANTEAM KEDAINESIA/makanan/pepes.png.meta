@@ -49,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -129,37 +129,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HiPaint_1765530152123_0
+      name: pepes_0
       rect:
         serializedVersion: 2
-        x: 313
-        y: 846
-        width: 1835
-        height: 1828
+        x: 318
+        y: 841
+        width: 1833
+        height: 1831
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline:
-      - - {x: 403.5, y: -114.5}
-        - {x: 403.5, y: 117.5}
-        - {x: 70.396545, y: 132.5}
-        - {x: 224.5, y: 132.5}
-        - {x: 231.5, y: 143.5}
-        - {x: 231.5, y: 146.5}
-        - {x: -176.5, y: 146.5}
-        - {x: -176.5, y: 143.61801}
-        - {x: -240.5, y: 146.5}
-        - {x: -368.5, y: 146.5}
-        - {x: -403.5, y: 46.5}
-        - {x: -403.5, y: -45.5}
-        - {x: -336.5, y: -146.5}
-        - {x: 366.5, y: -146.5}
+      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 200e3933caedf2570800000000000000
-      internalID: 8444212657524039682
+      spriteID: 962af800be657ea49b378c3cd737576e
+      internalID: -521723666
       vertices: []
       indices: 
       edges: []
@@ -176,10 +162,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      HiPaint_1765530152123_0: 8444212657524039682
-      HiPaint_1765530152123_1: 8719399347172886347
+      pepes_0: -521723666
+      pepes_1: -1194688095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

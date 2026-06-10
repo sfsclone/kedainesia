@@ -1379,7 +1379,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SUKU
+  m_text: sunda
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
   m_sharedMaterial: {fileID: 76309151770206777, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
@@ -1493,8 +1493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214.90471, y: 216.62224}
-  m_SizeDelta: {x: 490.3408, y: 169.834}
+  m_AnchoredPosition: {x: 214.90471, y: 52.19}
+  m_SizeDelta: {x: 370, y: 490}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &301217371
 MonoBehaviour:
@@ -1522,7 +1522,7 @@ MonoBehaviour:
     Madura.\r\n-\tTajin Sobih: Hidangan dengan kombinasi rasa pedas, asam, dan manis,
     mencerminkan kekhasan bumbu khas Madura.\r\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a041084bfd7417f428df51fb97cbdd3d, type: 2}
   m_sharedMaterial: {fileID: -5380267261275324760, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1530,7 +1530,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4287679979
-  m_fontColor: {r: 0.9215687, g: 0.80392164, b: 0.5647059, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1547,13 +1547,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 19.45
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -1589,7 +1589,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &301217372
@@ -1737,6 +1737,81 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!1 &313892067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 313892068}
+  - component: {fileID: 313892070}
+  - component: {fileID: 313892069}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &313892068
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313892067}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1600193887}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 11.026, y: 383.75607}
+  m_SizeDelta: {x: 577.95, y: 118.46}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &313892069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313892067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 405036563983281058, guid: 815d56ca126ab40409ff92ba4bffa245, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &313892070
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313892067}
+  m_CullTransparentMesh: 1
 --- !u!1 &315470240
 GameObject:
   m_ObjectHideFlags: 0
@@ -1885,7 +1960,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SUKU
+  m_text: BETAWI
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
   m_sharedMaterial: {fileID: 76309151770206777, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
@@ -1918,7 +1993,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 9
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -2260,8 +2335,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214.90471, y: 216.62224}
-  m_SizeDelta: {x: 490.3408, y: 169.834}
+  m_AnchoredPosition: {x: 214.90471, y: 52.19}
+  m_SizeDelta: {x: 370, y: 490}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &375228493
 MonoBehaviour:
@@ -2289,7 +2364,7 @@ MonoBehaviour:
     Sunda.\r\n-\tGepuk: Daging sapi empuk yang diolah dengan rempah khas, seimbang
     antara rasa gurih dan pedas khas Sunda.\r\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a041084bfd7417f428df51fb97cbdd3d, type: 2}
   m_sharedMaterial: {fileID: -5380267261275324760, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2297,7 +2372,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4287679979
-  m_fontColor: {r: 0.9215687, g: 0.80392164, b: 0.5647059, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2314,13 +2389,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 19.45
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -2356,7 +2431,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &375228494
@@ -2727,8 +2802,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000045924946, y: -0.000030517578}
-  m_SizeDelta: {x: 800, y: 100}
+  m_AnchoredPosition: {x: 15.7611, y: 5.2537}
+  m_SizeDelta: {x: 647.6427, y: 73.7316}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &419687929
 MonoBehaviour:
@@ -2779,7 +2854,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 87.45
+  m_fontSize: 64.5
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4567,8 +4642,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214.90471, y: 216.62224}
-  m_SizeDelta: {x: 490.3408, y: 169.834}
+  m_AnchoredPosition: {x: 214.90471, y: 52.19}
+  m_SizeDelta: {x: 370, y: 490}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &677173613
 MonoBehaviour:
@@ -4596,7 +4671,7 @@ MonoBehaviour:
     Samin.\r\n-\tBrambang Asem: Sup asam dengan bahan utama brambang, memberikan
     kesegaran rasa khas Samin.\r\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a041084bfd7417f428df51fb97cbdd3d, type: 2}
   m_sharedMaterial: {fileID: -5380267261275324760, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4604,7 +4679,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4287679979
-  m_fontColor: {r: 0.9215687, g: 0.80392164, b: 0.5647059, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4621,13 +4696,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 19.45
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -4663,7 +4738,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &677173614
@@ -5059,8 +5134,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 436, y: -343.02}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 423.6, y: -337.2}
+  m_SizeDelta: {x: 163.8016, y: 165.2518}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &719438913
 MonoBehaviour:
@@ -5087,7 +5162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6803,7 +6878,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 638.54, y: -154.45}
+  m_AnchoredPosition: {x: 624, y: -154.45}
   m_SizeDelta: {x: 298.2758, y: 61.0915}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1160311433
@@ -7333,7 +7408,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SUKU
+  m_text: MADURA
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
   m_sharedMaterial: {fileID: 76309151770206777, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
@@ -7366,7 +7441,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 9
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -8164,8 +8239,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214.90471, y: 216.62224}
-  m_SizeDelta: {x: 490.3408, y: 169.834}
+  m_AnchoredPosition: {x: 214.90471, y: 52.19}
+  m_SizeDelta: {x: 370, y: 490}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1374532363
 MonoBehaviour:
@@ -8193,7 +8268,7 @@ MonoBehaviour:
     khas Betawi.\r\n-\tSoto Tangkar: Soto berkuah kental dengan potongan tulang rawan
     dan bumbu rempah khas Betawi.\r\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a041084bfd7417f428df51fb97cbdd3d, type: 2}
   m_sharedMaterial: {fileID: -5380267261275324760, guid: 0fce51e78176a8a43a4129b46daa22f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -8201,7 +8276,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4287679979
-  m_fontColor: {r: 0.9215687, g: 0.80392164, b: 0.5647059, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -8218,13 +8293,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 19.45
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -8260,7 +8335,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1374532364
@@ -8328,7 +8403,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SUKU
+  m_text: samin
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
   m_sharedMaterial: {fileID: 76309151770206777, guid: a6e246d05de07ac429ee0129883ccb18, type: 2}
@@ -8683,11 +8758,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 524243694161660315, guid: 0a1a8a0c109241e45baad6da237d317d, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 129.4034
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 524243694161660315, guid: 0a1a8a0c109241e45baad6da237d317d, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 129.4034
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 524243694161660315, guid: 0a1a8a0c109241e45baad6da237d317d, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8720,6 +8795,10 @@ PrefabInstance:
     - target: {fileID: 2678690634878040708, guid: 0a1a8a0c109241e45baad6da237d317d, type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186890228627895107, guid: 0a1a8a0c109241e45baad6da237d317d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 3825723939255727751, guid: 0a1a8a0c109241e45baad6da237d317d, type: 3}
       propertyPath: m_AnchorMax.y
@@ -9195,7 +9274,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1600193887
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9212,6 +9291,7 @@ RectTransform:
   - {fileID: 122459539}
   - {fileID: 944534561}
   - {fileID: 236768295}
+  - {fileID: 313892068}
   - {fileID: 2060304829}
   m_Father: {fileID: 415897446}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11096,7 +11176,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1874060215
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12104,8 +12184,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 359.23}
-  m_SizeDelta: {x: 555.8952, y: 118.46}
+  m_AnchoredPosition: {x: 22.2432, y: 387}
+  m_SizeDelta: {x: 516.9697, y: 95.2901}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2060304830
 MonoBehaviour:
@@ -12136,8 +12216,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4287823357
-  m_fontColor: {r: 0.9921569, g: 0.9921569, b: 0.57254905, a: 1}
+    rgba: 4279772261
+  m_fontColor: {r: 0.39607847, g: 0.14117648, b: 0.09411766, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12154,7 +12234,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 65.8
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
