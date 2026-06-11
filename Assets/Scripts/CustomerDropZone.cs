@@ -70,7 +70,6 @@ public class CustomerDropZone : MonoBehaviour, IDropHandler
             // Serve the food
             draggedFood.ServeToCustomer(transform);
             customerManager.OnFoodServed(draggedFood.foodName);
-            StartCoroutine(FlashFeedback(successColor));
 
             // Clear plate so player can cook again
             if (craftingManager != null)

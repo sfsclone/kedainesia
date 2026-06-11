@@ -625,14 +625,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06b4c80eb6b3bdd41b3d7d53b26d4eff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  preAcceptPatienceTime: 15
+  preAcceptPatienceTime: 20
   postAcceptPatienceTime: 60
   acceptOrderButton: {fileID: 1044492253825262204}
   komporButton: {fileID: 4837138946727139723}
   patienceSliderUI: {fileID: 8907621430312383502}
   patienceSlider: {fileID: 9044918512755771277}
   emojiImage: {fileID: 3993235596181792520}
-  smileEmoji: {fileID: 3560935761571398095, guid: b104fcff69d31cf40b93740e89212a75, type: 3}
+  smileEmoji: {fileID: 4684057861738530012, guid: 54a1e6021690bba4a930d683fc8aced4, type: 3}
   angryEmoji: {fileID: 8379811097228679920, guid: a070306a0ef3d574198716d587477d42, type: 3}
   emojiDisplayDuration: 1.5
 --- !u!1 &4837138946727139723
@@ -1269,7 +1269,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8379811097228679920, guid: a070306a0ef3d574198716d587477d42, type: 3}
+  m_Sprite: {fileID: 4684057861738530012, guid: 54a1e6021690bba4a930d683fc8aced4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

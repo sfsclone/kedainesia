@@ -1,0 +1,8047 @@
+fileFormatVersion: 2
+guid: 675d87736f6175747ac8b6c3e59ae890
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -827042105014741657
+    second: samin_0
+  - first:
+      213: -8224743865317687612
+    second: samin_1
+  - first:
+      213: -7757931307451030185
+    second: samin_2
+  - first:
+      213: 2980766795204652714
+    second: samin_3
+  - first:
+      213: 1360276969965925069
+    second: samin_4
+  - first:
+      213: 1787767102638972505
+    second: samin_5
+  - first:
+      213: 8337169329323986257
+    second: samin_6
+  - first:
+      213: 6785043323070650183
+    second: samin_7
+  - first:
+      213: 9196250100560021920
+    second: samin_8
+  - first:
+      213: 1758581347118199264
+    second: samin_9
+  - first:
+      213: -3062904525250759510
+    second: samin_10
+  - first:
+      213: 499080926446326047
+    second: samin_11
+  - first:
+      213: 7058437640606529528
+    second: samin_12
+  - first:
+      213: 7934429590064235310
+    second: samin_13
+  - first:
+      213: 6349934526684720226
+    second: samin_14
+  - first:
+      213: -2147551477559781422
+    second: samin_15
+  - first:
+      213: -7122051645204878753
+    second: samin_16
+  - first:
+      213: 5881384497588638264
+    second: samin_17
+  - first:
+      213: -1969215902170478251
+    second: samin_18
+  - first:
+      213: 4743707195797877123
+    second: samin_19
+  - first:
+      213: 1011580326657188564
+    second: samin_20
+  - first:
+      213: 324895656457971871
+    second: samin_21
+  - first:
+      213: 33937327681983754
+    second: samin_22
+  - first:
+      213: 444568395201542019
+    second: samin_23
+  - first:
+      213: 2282675934081805618
+    second: samin_24
+  - first:
+      213: 1331587247327655226
+    second: samin_25
+  - first:
+      213: -5787624871523141617
+    second: samin_26
+  - first:
+      213: 2315241821829847008
+    second: samin_27
+  - first:
+      213: 3637440440807171997
+    second: samin_28
+  - first:
+      213: -4046113659232382900
+    second: samin_29
+  - first:
+      213: -3479989839408044523
+    second: samin_30
+  - first:
+      213: 818130480451398572
+    second: samin_31
+  - first:
+      213: 5598145549196453165
+    second: samin_32
+  - first:
+      213: -199404285522963327
+    second: samin_33
+  - first:
+      213: 4386173536747181538
+    second: samin_34
+  - first:
+      213: 3201017220519306926
+    second: samin_35
+  - first:
+      213: -664505691189545114
+    second: samin_36
+  - first:
+      213: -6994129257506154423
+    second: samin_37
+  - first:
+      213: -151950327857267045
+    second: samin_38
+  - first:
+      213: -9092742121521072421
+    second: samin_39
+  - first:
+      213: -1052068143948969005
+    second: samin_40
+  - first:
+      213: -6810448554298914162
+    second: samin_41
+  - first:
+      213: -7213798144035521417
+    second: samin_42
+  - first:
+      213: -6633136332760837426
+    second: samin_43
+  - first:
+      213: 8993004251872298385
+    second: samin_44
+  - first:
+      213: -8128699810061490159
+    second: samin_45
+  - first:
+      213: -7791433682536080621
+    second: samin_46
+  - first:
+      213: -4108704623602315451
+    second: samin_47
+  - first:
+      213: -3477801121140429172
+    second: samin_48
+  - first:
+      213: 1858014541604333166
+    second: samin_49
+  - first:
+      213: 353057196467557469
+    second: samin_50
+  - first:
+      213: -4761884989069405386
+    second: samin_51
+  - first:
+      213: -7481757002163521874
+    second: samin_52
+  - first:
+      213: 7502786811627032829
+    second: samin_53
+  - first:
+      213: 701823508725875762
+    second: samin_54
+  - first:
+      213: 3927774851596392810
+    second: samin_55
+  - first:
+      213: 4119775620440094104
+    second: samin_56
+  - first:
+      213: 2128426409890192205
+    second: samin_57
+  - first:
+      213: -1951062427784188873
+    second: samin_58
+  - first:
+      213: 7568428757664705887
+    second: samin_59
+  - first:
+      213: 3063655859109754561
+    second: samin_60
+  - first:
+      213: -5927506827032250540
+    second: samin_61
+  - first:
+      213: -2033130320434095693
+    second: samin_62
+  - first:
+      213: -2751037470587366338
+    second: samin_63
+  - first:
+      213: 6735825425406015922
+    second: samin_64
+  - first:
+      213: -57951526044628330
+    second: samin_65
+  - first:
+      213: -3686442081955193221
+    second: samin_66
+  - first:
+      213: -3714716982220212304
+    second: samin_67
+  - first:
+      213: -5296085582375799753
+    second: samin_68
+  - first:
+      213: -2669610892124907623
+    second: samin_69
+  - first:
+      213: -1775777661123372860
+    second: samin_70
+  - first:
+      213: 5554058978663164082
+    second: samin_71
+  - first:
+      213: 3721573651773818029
+    second: samin_72
+  - first:
+      213: 4129244088017351168
+    second: samin_73
+  - first:
+      213: -8940892651845374533
+    second: samin_74
+  - first:
+      213: 5001184854308197775
+    second: samin_75
+  - first:
+      213: 6714836760495676948
+    second: samin_76
+  - first:
+      213: 5448872346726195495
+    second: samin_77
+  - first:
+      213: -3373115275355936067
+    second: samin_78
+  - first:
+      213: 7266884179676793179
+    second: samin_79
+  - first:
+      213: 8636251392835316386
+    second: samin_80
+  - first:
+      213: -4343535751668316170
+    second: samin_81
+  - first:
+      213: -5480555200979561383
+    second: samin_82
+  - first:
+      213: 2299083871338847889
+    second: samin_83
+  - first:
+      213: 3299980073821422170
+    second: samin_84
+  - first:
+      213: -4852553026971524159
+    second: samin_85
+  - first:
+      213: 8665759246512728337
+    second: samin_86
+  - first:
+      213: -504766880177207051
+    second: samin_87
+  - first:
+      213: 692430021855975117
+    second: samin_88
+  - first:
+      213: -1689788135829383987
+    second: samin_89
+  - first:
+      213: -7215226307445807557
+    second: samin_90
+  - first:
+      213: -4054399377928036415
+    second: samin_91
+  - first:
+      213: -7595091941597395742
+    second: samin_92
+  - first:
+      213: 43295431799159737
+    second: samin_93
+  - first:
+      213: 2453647228983141715
+    second: samin_94
+  - first:
+      213: -2735388948545471870
+    second: samin_95
+  - first:
+      213: -3940944528722820920
+    second: samin_96
+  - first:
+      213: 4082215284549070891
+    second: samin_97
+  - first:
+      213: 9043718363910412969
+    second: samin_98
+  - first:
+      213: -1447495011369033633
+    second: samin_99
+  - first:
+      213: -6910223614465117387
+    second: samin_100
+  - first:
+      213: 2205402157066048173
+    second: samin_101
+  - first:
+      213: -1731108645892158437
+    second: samin_102
+  - first:
+      213: -5434938779980891525
+    second: samin_103
+  - first:
+      213: -7830503544488317816
+    second: samin_104
+  - first:
+      213: 6681668266825428181
+    second: samin_105
+  - first:
+      213: 689902531689008768
+    second: samin_106
+  - first:
+      213: -931659506450494512
+    second: samin_107
+  - first:
+      213: -2609656911695440292
+    second: samin_108
+  - first:
+      213: -6017317399933609527
+    second: samin_109
+  - first:
+      213: -398034932397379407
+    second: samin_110
+  - first:
+      213: 4425903991790732551
+    second: samin_111
+  - first:
+      213: 461132208922312295
+    second: samin_112
+  - first:
+      213: 7481024473020596052
+    second: samin_113
+  - first:
+      213: -4687838721468091489
+    second: samin_114
+  - first:
+      213: -8864982508003840863
+    second: samin_115
+  - first:
+      213: -2270964125956224498
+    second: samin_116
+  - first:
+      213: -2776243521628326462
+    second: samin_117
+  - first:
+      213: 1409239346415078673
+    second: samin_118
+  - first:
+      213: -5611602176299647065
+    second: samin_119
+  - first:
+      213: 5903939684374677704
+    second: samin_120
+  - first:
+      213: 8538634968152704864
+    second: samin_121
+  - first:
+      213: 8410906271852593255
+    second: samin_122
+  - first:
+      213: 390755278204406337
+    second: samin_123
+  - first:
+      213: 5214971436205624887
+    second: samin_124
+  - first:
+      213: 7595302579911921385
+    second: samin_125
+  - first:
+      213: -7422714041891985068
+    second: samin_126
+  - first:
+      213: -3677390415475456597
+    second: samin_127
+  - first:
+      213: -498739936097860339
+    second: samin_128
+  - first:
+      213: -475490001229223264
+    second: samin_129
+  - first:
+      213: 4905527285518031512
+    second: samin_130
+  - first:
+      213: 223582470819892701
+    second: samin_131
+  - first:
+      213: -401503119315747496
+    second: samin_132
+  - first:
+      213: -911558744508981697
+    second: samin_133
+  - first:
+      213: -1132834657698511005
+    second: samin_134
+  - first:
+      213: 4675757552258602993
+    second: samin_135
+  - first:
+      213: -7642291667596745028
+    second: samin_136
+  - first:
+      213: -4135930263656148750
+    second: samin_137
+  - first:
+      213: 8046356347045997446
+    second: samin_138
+  - first:
+      213: -1998585721900586763
+    second: samin_139
+  - first:
+      213: 131402404435499246
+    second: samin_140
+  - first:
+      213: 8994986037788043468
+    second: samin_141
+  - first:
+      213: -7120718473767224565
+    second: samin_142
+  - first:
+      213: 2277040652911646445
+    second: samin_143
+  - first:
+      213: 8281703358037042795
+    second: samin_144
+  - first:
+      213: -2641516732763937783
+    second: samin_145
+  - first:
+      213: 5940351377213788190
+    second: samin_146
+  - first:
+      213: -8584994784747202946
+    second: samin_147
+  - first:
+      213: 5752916260035016034
+    second: samin_148
+  - first:
+      213: -72929217673445503
+    second: samin_149
+  - first:
+      213: -5818862181108342098
+    second: samin_150
+  - first:
+      213: 3407043622899715734
+    second: samin_151
+  - first:
+      213: 7071470973497792126
+    second: samin_152
+  - first:
+      213: 2896223996483466256
+    second: samin_153
+  - first:
+      213: 3039363873311223034
+    second: samin_154
+  - first:
+      213: 871862910001425853
+    second: samin_155
+  - first:
+      213: 2479504330152867016
+    second: samin_156
+  - first:
+      213: -4607790495393035108
+    second: samin_157
+  - first:
+      213: -5050820681205977445
+    second: samin_158
+  - first:
+      213: 3673399611611073717
+    second: samin_159
+  - first:
+      213: 2700273548313557655
+    second: samin_160
+  - first:
+      213: -1444518596983920705
+    second: samin_161
+  - first:
+      213: 2471616185265920697
+    second: samin_162
+  - first:
+      213: -4562943846047793633
+    second: samin_163
+  - first:
+      213: 5224024993739153467
+    second: samin_164
+  - first:
+      213: -1200272233509630877
+    second: samin_165
+  - first:
+      213: -9081853001366289789
+    second: samin_166
+  - first:
+      213: -2313389935276546974
+    second: samin_167
+  - first:
+      213: -8734237689252576482
+    second: samin_168
+  - first:
+      213: 334490682849679048
+    second: samin_169
+  - first:
+      213: -5697814341125670665
+    second: samin_170
+  - first:
+      213: 3737561218687324080
+    second: samin_171
+  - first:
+      213: 1214226199522839254
+    second: samin_172
+  - first:
+      213: -9134146852655635201
+    second: samin_173
+  - first:
+      213: 873607225560949954
+    second: samin_174
+  - first:
+      213: -2046499694420089247
+    second: samin_175
+  - first:
+      213: -7095603503633968264
+    second: samin_176
+  - first:
+      213: -4765288578026404189
+    second: samin_177
+  - first:
+      213: -2083865751408642095
+    second: samin_178
+  - first:
+      213: -1658443171445728666
+    second: samin_179
+  - first:
+      213: -3838235264269756358
+    second: samin_180
+  - first:
+      213: 8594375226477603563
+    second: samin_181
+  - first:
+      213: 1395952754635785033
+    second: samin_182
+  - first:
+      213: -2968703064501293819
+    second: samin_183
+  - first:
+      213: 2380857586940897127
+    second: samin_184
+  - first:
+      213: -5105858355654463634
+    second: samin_185
+  - first:
+      213: -5229833864829361123
+    second: samin_186
+  - first:
+      213: -1271719495895678405
+    second: samin_187
+  - first:
+      213: -3877332308940103208
+    second: samin_188
+  - first:
+      213: -1537882775161437592
+    second: samin_189
+  - first:
+      213: -6283546530344723231
+    second: samin_190
+  - first:
+      213: 3107029138459169320
+    second: samin_191
+  - first:
+      213: -6105069466080159866
+    second: samin_192
+  - first:
+      213: 5375930724552078875
+    second: samin_193
+  - first:
+      213: -7210837036744576275
+    second: samin_194
+  - first:
+      213: -186483565791482244
+    second: samin_195
+  - first:
+      213: -1293757974956865706
+    second: samin_196
+  - first:
+      213: -8768906534123514044
+    second: samin_197
+  - first:
+      213: 3746277864499608223
+    second: samin_198
+  - first:
+      213: -352686928924285737
+    second: samin_199
+  - first:
+      213: -4938066957452854994
+    second: samin_200
+  - first:
+      213: -1928237138157407652
+    second: samin_201
+  - first:
+      213: -5945026042694759735
+    second: samin_202
+  - first:
+      213: 6964534338573352369
+    second: samin_203
+  - first:
+      213: -589453914066525631
+    second: samin_204
+  - first:
+      213: 3275745343583220106
+    second: samin_205
+  - first:
+      213: 3310262821400010267
+    second: samin_206
+  - first:
+      213: 5964393389162461913
+    second: samin_207
+  - first:
+      213: -1768135082468601065
+    second: samin_208
+  - first:
+      213: 448840041825513689
+    second: samin_209
+  - first:
+      213: -4612730388112196661
+    second: samin_210
+  - first:
+      213: -737623179884214220
+    second: samin_211
+  - first:
+      213: 8958256234253789965
+    second: samin_212
+  - first:
+      213: -1990453865775919962
+    second: samin_213
+  - first:
+      213: -5220496902262027556
+    second: samin_214
+  - first:
+      213: 8337033190226532446
+    second: samin_215
+  - first:
+      213: -6248349707462305620
+    second: samin_216
+  - first:
+      213: 6933163783421105386
+    second: samin_217
+  - first:
+      213: -6388097897088739668
+    second: samin_218
+  - first:
+      213: -1794572606015070847
+    second: samin_219
+  - first:
+      213: -4281116559419671776
+    second: samin_220
+  - first:
+      213: 1107540918483835743
+    second: samin_221
+  - first:
+      213: -8474062663441512048
+    second: samin_222
+  - first:
+      213: 5721211628371746547
+    second: samin_223
+  - first:
+      213: 6441455691991184268
+    second: samin_224
+  - first:
+      213: 2870953179261464879
+    second: samin_225
+  - first:
+      213: 4040925005448756253
+    second: samin_226
+  - first:
+      213: 8901638907212350703
+    second: samin_227
+  - first:
+      213: 6323752015813897022
+    second: samin_228
+  - first:
+      213: 1533513514729665731
+    second: samin_229
+  - first:
+      213: -4695841254585911481
+    second: samin_230
+  - first:
+      213: 6491839899067855063
+    second: samin_231
+  - first:
+      213: 8311251419405932662
+    second: samin_232
+  - first:
+      213: 6530909453963077427
+    second: samin_233
+  - first:
+      213: 2278291541752521291
+    second: samin_234
+  - first:
+      213: 8455888656292747193
+    second: samin_235
+  - first:
+      213: 7990882053036198513
+    second: samin_236
+  - first:
+      213: 4061386111073750569
+    second: samin_237
+  - first:
+      213: -4789118247156460541
+    second: samin_238
+  - first:
+      213: 2161846999415813192
+    second: samin_239
+  - first:
+      213: -7535988140316088956
+    second: samin_240
+  - first:
+      213: 4070953228131096015
+    second: samin_241
+  - first:
+      213: 8327897514421234542
+    second: samin_242
+  - first:
+      213: 4228906757926064103
+    second: samin_243
+  - first:
+      213: 2373746884875755181
+    second: samin_244
+  - first:
+      213: 3136077506192921538
+    second: samin_245
+  - first:
+      213: -1951391641516892654
+    second: samin_246
+  - first:
+      213: -7357358590929719660
+    second: samin_247
+  - first:
+      213: 7329413876165418395
+    second: samin_248
+  - first:
+      213: 6765894931414183415
+    second: samin_249
+  - first:
+      213: 2551364033539572925
+    second: samin_250
+  - first:
+      213: -662558082147030704
+    second: samin_251
+  - first:
+      213: -799788443837488018
+    second: samin_252
+  - first:
+      213: 4217636061626059495
+    second: samin_253
+  - first:
+      213: 7717860489648155363
+    second: samin_254
+  - first:
+      213: -6333898595967809956
+    second: samin_255
+  - first:
+      213: -78777356624264771
+    second: samin_256
+  - first:
+      213: -3777553434500376788
+    second: samin_257
+  - first:
+      213: 4776315654605036859
+    second: samin_258
+  - first:
+      213: -4709801932966008687
+    second: samin_259
+  - first:
+      213: -9181301118381746383
+    second: samin_260
+  - first:
+      213: -2965442889710987060
+    second: samin_261
+  - first:
+      213: 6625770342965160959
+    second: samin_262
+  - first:
+      213: 8316288592853385481
+    second: samin_263
+  - first:
+      213: 635994494033486488
+    second: samin_264
+  - first:
+      213: -8466167140614835641
+    second: samin_265
+  - first:
+      213: 3256503374858061553
+    second: samin_266
+  - first:
+      213: 2127374968194623879
+    second: samin_267
+  - first:
+      213: 3650499451815217513
+    second: samin_268
+  - first:
+      213: 5025143090827922242
+    second: samin_269
+  - first:
+      213: -4270143154821788146
+    second: samin_270
+  - first:
+      213: -1713947355058365424
+    second: samin_271
+  - first:
+      213: 2350829853367932582
+    second: samin_272
+  - first:
+      213: 8246792805659558513
+    second: samin_273
+  - first:
+      213: 6207732988902323158
+    second: samin_274
+  - first:
+      213: 6674211337637013081
+    second: samin_275
+  - first:
+      213: -127838660396537742
+    second: samin_276
+  - first:
+      213: 8794759860308588006
+    second: samin_277
+  - first:
+      213: 7569994659903608999
+    second: samin_278
+  - first:
+      213: 8187355596274827354
+    second: samin_279
+  - first:
+      213: 2409963222930860323
+    second: samin_280
+  - first:
+      213: -8779489721192665414
+    second: samin_281
+  - first:
+      213: 1807309001812209726
+    second: samin_282
+  - first:
+      213: 3164751142921601600
+    second: samin_283
+  - first:
+      213: 2188732964617313335
+    second: samin_284
+  - first:
+      213: 3177621731185980496
+    second: samin_285
+  - first:
+      213: 813159810020671778
+    second: samin_286
+  - first:
+      213: -6935010651181962869
+    second: samin_287
+  - first:
+      213: 2519491385822274354
+    second: samin_288
+  - first:
+      213: 763469756440887743
+    second: samin_289
+  - first:
+      213: -5070595035523609119
+    second: samin_290
+  - first:
+      213: 1461217904042525182
+    second: samin_291
+  - first:
+      213: 355947033280463850
+    second: samin_292
+  - first:
+      213: 1779011374125805107
+    second: samin_293
+  - first:
+      213: -7546842794856782469
+    second: samin_294
+  - first:
+      213: -5195746953373522867
+    second: samin_295
+  - first:
+      213: -2988071528816852188
+    second: samin_296
+  - first:
+      213: 2515655300993978436
+    second: samin_297
+  - first:
+      213: 5375709007289835293
+    second: samin_298
+  - first:
+      213: 2062485451129380595
+    second: samin_299
+  - first:
+      213: -8834005207142496664
+    second: samin_300
+  - first:
+      213: -3466988338348652733
+    second: samin_301
+  - first:
+      213: 1044225040817028362
+    second: samin_302
+  - first:
+      213: 5771933482089923338
+    second: samin_303
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samin_0
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1249
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651e4c5691c584f0800000000000000
+      internalID: -827042105014741657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_1
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1249
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7a23f707dbdd80800000000000000
+      internalID: -8224743865317687612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1249
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ef73449a465490800000000000000
+      internalID: -7757931307451030185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_3
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1249
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee3728b9fcd5920800000000000000
+      internalID: 2980766795204652714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_4
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1249
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b6f672bca0e210800000000000000
+      internalID: 1360276969965925069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_5
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1249
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95edce535bc6fc810800000000000000
+      internalID: 1787767102638972505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_6
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1249
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d43a2355393b370800000000000000
+      internalID: 8337169329323986257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1239
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747134124f0592e50800000000000000
+      internalID: 6785043323070650183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_8
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1249
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c78d1eb4af9f70800000000000000
+      internalID: 9196250100560021920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_9
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1249
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1bb97fa6cb76810800000000000000
+      internalID: 1758581347118199264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_10
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1270
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4fd7fef806e75d0800000000000000
+      internalID: -3062904525250759510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_11
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1249
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11910755771de600800000000000000
+      internalID: 499080926446326047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1249
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7399d03ab94f160800000000000000
+      internalID: 7058437640606529528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_13
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1249
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23802b7ca1cc1e60800000000000000
+      internalID: 7934429590064235310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_14
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1249
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ce7020fcf7f1850800000000000000
+      internalID: 6349934526684720226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_15
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1249
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71f233f4d5232e0800000000000000
+      internalID: -2147551477559781422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_16
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1249
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa39f43c3692d90800000000000000
+      internalID: -7122051645204878753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_17
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1249
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83292462a00ee9150800000000000000
+      internalID: 5881384497588638264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_18
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1280
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55904110290fba4e0800000000000000
+      internalID: -1969215902170478251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_19
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1249
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813ff3bf8805d140800000000000000
+      internalID: 4743707195797877123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_20
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1249
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2ec2092fad90e00800000000000000
+      internalID: 1011580326657188564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1215
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ae30d0e2428400800000000000000
+      internalID: 324895656457971871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_22
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1216
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a055c19d1d1987000800000000000000
+      internalID: 33937327681983754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_23
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1216
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3877a5a999c6b2600800000000000000
+      internalID: 444568395201542019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1215
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d674cfaa1bdaf10800000000000000
+      internalID: 2282675934081805618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_25
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1217
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35b760eb8fba7210800000000000000
+      internalID: 1331587247327655226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_26
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1216
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b5afe7d93eafa0800000000000000
+      internalID: -5787624871523141617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_27
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1217
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7db479b24612020800000000000000
+      internalID: 2315241821829847008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_28
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1249
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97a3f51fc8ca7230800000000000000
+      internalID: 3637440440807171997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_29
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1149
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40199c601159d7c0800000000000000
+      internalID: -4046113659232382900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_30
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5166d18cda794bfc0800000000000000
+      internalID: -3479989839408044523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_31
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1149
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba93b56559a5b00800000000000000
+      internalID: 818130480451398572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_32
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1149
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e9cc77bb90bd40800000000000000
+      internalID: 5598145549196453165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_33
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1149
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18496badbd29b3df0800000000000000
+      internalID: -199404285522963327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_34
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1141
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5d80db791dedc30800000000000000
+      internalID: 4386173536747181538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_35
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1149
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea626fcc33c4c6c20800000000000000
+      internalID: 3201017220519306926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_36
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1149
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667fb65389337c6f0800000000000000
+      internalID: -664505691189545114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_37
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1149
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948dd2d2f7cdfee90800000000000000
+      internalID: -6994129257506154423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_38
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1149
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e309c5bf924edf0800000000000000
+      internalID: -151950327857267045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_39
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1149
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd63184473710d180800000000000000
+      internalID: -9092742121521072421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_40
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbca60e89d4661f0800000000000000
+      internalID: -1052068143948969005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_41
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1149
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac0f78f1d6c71a0800000000000000
+      internalID: -6810448554298914162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 507
+        width: 373
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cf36feec073eb90800000000000000
+      internalID: -7213798144035521417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_43
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 507
+        width: 388
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec29d0336ad52f3a0800000000000000
+      internalID: -6633136332760837426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_44
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1095
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1950d6858b19dcc70800000000000000
+      internalID: 8993004251872298385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_45
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ef77279e013f80800000000000000
+      internalID: -8128699810061490159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_46
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1095
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b5c65b8544fd390800000000000000
+      internalID: -7791433682536080621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_47
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1095
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fcd27e9e2faf6c0800000000000000
+      internalID: -4108704623602315451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_48
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1094
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e28f67e4e5cbfc0800000000000000
+      internalID: -3477801121140429172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_49
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6626d3a16ef8c910800000000000000
+      internalID: 1858014541604333166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_50
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1094
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5418dc46af46e400800000000000000
+      internalID: 353057196467557469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_51
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1095
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d04df4d26aedb0800000000000000
+      internalID: -4761884989069405386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_52
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1094
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6704685a57b2890800000000000000
+      internalID: -7481757002163521874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_53
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0d38c8ad04f1860800000000000000
+      internalID: 7502786811627032829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_54
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1095
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234cf9443c06db900800000000000000
+      internalID: 701823508725875762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_55
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1095
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699d13da62428630800000000000000
+      internalID: 3927774851596392810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_56
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1094
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89575aa69126c2930800000000000000
+      internalID: 4119775620440094104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_57
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1087
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b901cfa80b98d10800000000000000
+      internalID: 2128426409890192205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_58
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1095
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cef412f0f6ce4e0800000000000000
+      internalID: -1951062427784188873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_59
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1094
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da4781bd5780960800000000000000
+      internalID: 7568428757664705887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_60
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1095
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f74c95ca448a20800000000000000
+      internalID: 3063655859109754561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_61
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1087
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573a0332f34dbda0800000000000000
+      internalID: -5927506827032250540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_62
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1094
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9137cdebed8c3e0800000000000000
+      internalID: -2033130320434095693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_63
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1087
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34d9d10ff952d9d0800000000000000
+      internalID: -2751037470587366338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_64
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1094
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9be5659857a7d50800000000000000
+      internalID: 6735825425406015922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_65
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1095
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0be3e46d123ff0800000000000000
+      internalID: -57951526044628330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_66
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1087
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5204457027dcc0800000000000000
+      internalID: -3686442081955193221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_67
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1095
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b737a9069ca27cc0800000000000000
+      internalID: -3714716982220212304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_68
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1094
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343c6209368086b0800000000000000
+      internalID: -5296085582375799753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_69
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1094
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997916ea903a3fad0800000000000000
+      internalID: -2669610892124907623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_70
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1094
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8daac20ab2b57e0800000000000000
+      internalID: -1775777661123372860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_71
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1094
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b869c4e63bf31d40800000000000000
+      internalID: 5554058978663164082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_72
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1095
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da48e6fb48fa5a330800000000000000
+      internalID: 3721573651773818029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_73
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1087
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f721de950e4930800000000000000
+      internalID: 4129244088017351168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_74
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1094
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd2bd701819be380800000000000000
+      internalID: -8940892651845374533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_75
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1095
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f859a19a027c76540800000000000000
+      internalID: 5001184854308197775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_76
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1094
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e541af474ef2d50800000000000000
+      internalID: 6714836760495676948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_77
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1095
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721601da7884e9b40800000000000000
+      internalID: 5448872346726195495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_78
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1095
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba27f157894031d0800000000000000
+      internalID: -3373115275355936067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_79
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1094
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b598a89e8a829d460800000000000000
+      internalID: 7266884179676793179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_80
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1095
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaebec82e02ad770800000000000000
+      internalID: 8636251392835316386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_81
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1087
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7c9943f39a8b3c0800000000000000
+      internalID: -4343535751668316170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_82
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1094
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95491b9f41821f3b0800000000000000
+      internalID: -5480555200979561383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_83
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1042
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5bf3999cf7ef10800000000000000
+      internalID: 2299083871338847889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_84
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1042
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a524ef1a462ebcd20800000000000000
+      internalID: 3299980073821422170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_85
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1042
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ad9d5bb448acb0800000000000000
+      internalID: -4852553026971524159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_86
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1042
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a27d1f16f24870800000000000000
+      internalID: 8665759246512728337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_87
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c7a46235bef8f0800000000000000
+      internalID: -504766880177207051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_88
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1041
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc69a8caf610c9900800000000000000
+      internalID: 692430021855975117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_89
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1041
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc45832b4aaac88e0800000000000000
+      internalID: -1689788135829383987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_90
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a3aab6ed5edb90800000000000000
+      internalID: -7215226307445807557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_91
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1042
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd8053f31ebb7c0800000000000000
+      internalID: -4054399377928036415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_92
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c7a0ae10d89690800000000000000
+      internalID: -7595091941597395742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_93
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1042
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb39c047f0d99000800000000000000
+      internalID: 43295431799159737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_94
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1034
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35569af972b1d0220800000000000000
+      internalID: 2453647228983141715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_95
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1042
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28afa677e32f90ad0800000000000000
+      internalID: -2735388948545471870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_96
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1042
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c005f5c4d3fe49c0800000000000000
+      internalID: -3940944528722820920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_97
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1034
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20b73c3c21f6a830800000000000000
+      internalID: 4082215284549070891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_98
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1042
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa9e81bfedb18d70800000000000000
+      internalID: 9043718363910412969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_99
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1042
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e231d4f679ebe0800000000000000
+      internalID: -1447495011369033633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_100
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1042
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5337a4d0c34f910a0800000000000000
+      internalID: -6910223614465117387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_101
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1042
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da25dceb3992b9e10800000000000000
+      internalID: 2205402157066048173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_102
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8dfdbbddd9f7e0800000000000000
+      internalID: -1731108645892158437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_103
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1042
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a7e33a9f73394b0800000000000000
+      internalID: -5434938779980891525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_104
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1042
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c265a9386745390800000000000000
+      internalID: -7830503544488317816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_105
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1042
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc212f33ed0abc50800000000000000
+      internalID: 6681668266825428181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_106
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e47f282b6039900800000000000000
+      internalID: 689902531689008768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_107
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1042
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db07627d941213f0800000000000000
+      internalID: -931659506450494512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_108
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1042
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5610c88dd2a8cbd0800000000000000
+      internalID: -2609656911695440292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_109
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1042
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91e24b4b13e7ca0800000000000000
+      internalID: -6017317399933609527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_110
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1034
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0f14e7655e97af0800000000000000
+      internalID: -398034932397379407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_111
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058ba82b38fb6d30800000000000000
+      internalID: 4425903991790732551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_112
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1042
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3e430d45466600800000000000000
+      internalID: 461132208922312295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_113
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f756e3f10f1d760800000000000000
+      internalID: 7481024473020596052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_114
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1042
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b292258371feb0800000000000000
+      internalID: -4687838721468091489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_115
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1042
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac216ea06149f480800000000000000
+      internalID: -8864982508003840863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_116
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1042
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a49b6d82aeb70e0800000000000000
+      internalID: -2270964125956224498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_117
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1042
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c53d5be93dc879d0800000000000000
+      internalID: -2776243521628326462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_118
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1042
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d039618bf9e8310800000000000000
+      internalID: 1409239346415078673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_119
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 987
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afb9dc5d859f12b0800000000000000
+      internalID: -5611602176299647065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_120
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1010
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c80c7eccd10fe150800000000000000
+      internalID: 5903939684374677704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_121
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 988
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067887f83435f7670800000000000000
+      internalID: 8538634968152704864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_122
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1010
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76001ecf0ba89b470800000000000000
+      internalID: 8410906271852593255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_123
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 987
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a8b7feadd3c6500800000000000000
+      internalID: 390755278204406337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_124
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 988
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e48d024ec4f5840800000000000000
+      internalID: 5214971436205624887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_125
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 988
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee024d647fe76960800000000000000
+      internalID: 7595302579911921385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_126
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 980
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45969b7f7e83df890800000000000000
+      internalID: -7422714041891985068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_127
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 987
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c82996e847fcc0800000000000000
+      internalID: -3677390415475456597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_128
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 988
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d050699abae1419f0800000000000000
+      internalID: -498739936097860339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_129
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 980
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa6b76fc58b669f0800000000000000
+      internalID: -475490001229223264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_130
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 987
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ad949531fe31440800000000000000
+      internalID: 4905527285518031512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_131
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 988
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd493792135a1300800000000000000
+      internalID: 223582470819892701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_132
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 988
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d39fc4a039d6af0800000000000000
+      internalID: -401503119315747496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_133
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 988
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e14a9c62e7953f0800000000000000
+      internalID: -911558744508981697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_134
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 881
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36701ae71ec5740f0800000000000000
+      internalID: -1132834657698511005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_135
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 881
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7593678b0a3e040800000000000000
+      internalID: 4675757552258602993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_136
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 881
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e7fa083021f590800000000000000
+      internalID: -7642291667596745028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_137
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 881
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0dcfa96593a96c0800000000000000
+      internalID: -4135930263656148750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_138
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 881
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68be2e957766aaf60800000000000000
+      internalID: 8046356347045997446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_139
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 881
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a2f8ffd89344e0800000000000000
+      internalID: -1998585721900586763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_140
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 881
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee892076ac5d2d100800000000000000
+      internalID: 131402404435499246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_141
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 881
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc864f5d42c94dc70800000000000000
+      internalID: 8994986037788043468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_142
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 881
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfa8976402e2d90800000000000000
+      internalID: -7120718473767224565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_143
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 881
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de61ce7d86ca99f10800000000000000
+      internalID: 2277040652911646445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_144
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 881
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6625f663558ee270800000000000000
+      internalID: 8281703358037042795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_145
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 892
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904ea53e682775bd0800000000000000
+      internalID: -2641516732763937783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_146
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 881
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1094dfaa1e507250800000000000000
+      internalID: 5940351377213788190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_147
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 863
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76df808ab8fbd880800000000000000
+      internalID: -8584994784747202946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 851
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b4f5bbd676df40800000000000000
+      internalID: 5752916260035016034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_149
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 827
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb3de4347ecfef0800000000000000
+      internalID: -72929217673445503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_150
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 827
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2251a0daf3f3fa0800000000000000
+      internalID: -5818862181108342098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_151
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 826
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e823daf10484f20800000000000000
+      internalID: 3407043622899715734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_152
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 848
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7652d65269e22260800000000000000
+      internalID: 7071470973497792126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_153
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 826
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014fb544164713820800000000000000
+      internalID: 2896223996483466256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_154
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 826
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afceedbe65dfd2a20800000000000000
+      internalID: 3039363873311223034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_155
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 849
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd297382ba791c00800000000000000
+      internalID: 871862910001425853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_156
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 827
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4fdc12d08f86220800000000000000
+      internalID: 2479504330152867016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_157
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 826
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c4da225f6dd00c0800000000000000
+      internalID: -4607790495393035108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_158
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 827
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e6580d951e7e9b0800000000000000
+      internalID: -5050820681205977445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_159
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 826
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcc228fb798af230800000000000000
+      internalID: 3673399611611073717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_160
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 827
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79afc9b4c7c497520800000000000000
+      internalID: 2700273548313557655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_161
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 827
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e35b4df904fbe0800000000000000
+      internalID: -1444518596983920705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_162
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 827
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba91e743d1fc4220800000000000000
+      internalID: 2471616185265920697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_163
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 819
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e344e5fba2da0c0800000000000000
+      internalID: -4562943846047793633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_164
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 826
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a591cd077f7840800000000000000
+      internalID: 5224024993739153467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_165
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 827
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc4ef43c6c75fe0800000000000000
+      internalID: -1200272233509630877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_166
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 819
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3824f3f10d6c6f180800000000000000
+      internalID: -9081853001366289789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_167
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 827
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a0e85c1035efd0800000000000000
+      internalID: -2313389935276546974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_168
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 827
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13854cf811c9c680800000000000000
+      internalID: -8734237689252576482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_169
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 826
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6deebf08954a400800000000000000
+      internalID: 334490682849679048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_170
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 819
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8f3198b0c4de0b0800000000000000
+      internalID: -5697814341125670665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_171
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 827
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf422e302c7ed330800000000000000
+      internalID: 3737561218687324080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_172
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 827
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da08839b4cc9d010800000000000000
+      internalID: 1214226199522839254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_173
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 819
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4653115ddfc3180800000000000000
+      internalID: -9134146852655635201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_174
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 827
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c466c0a42daf1c00800000000000000
+      internalID: 873607225560949954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_175
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 827
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1662529ee5f5993e0800000000000000
+      internalID: -2046499694420089247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_176
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 827
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87351e2253a578d90800000000000000
+      internalID: -7095603503633968264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_177
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 827
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6828e294b4eddb0800000000000000
+      internalID: -4765288578026404189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_178
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 819
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d77fafc32f9413e0800000000000000
+      internalID: -2083865751408642095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_179
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 827
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a1ecde8b60cf8e0800000000000000
+      internalID: -1658443171445728666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_180
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 827
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38d2dcec59dbbac0800000000000000
+      internalID: -3838235264269756358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_181
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 827
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea6d98cbba554770800000000000000
+      internalID: 8594375226477603563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_182
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 827
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9434b4f52ab6f5310800000000000000
+      internalID: 1395952754635785033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_183
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 823
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d69ccaa4c0dc6d0800000000000000
+      internalID: -2968703064501293819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_184
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 795
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e76a6c518a0120800000000000000
+      internalID: 2380857586940897127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_185
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 774
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f61c5a0e85429b0800000000000000
+      internalID: -5105858355654463634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_186
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 774
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a98c0fc5eb67b0800000000000000
+      internalID: -5229833864829361123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_187
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 774
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3203393bd1f95ee0800000000000000
+      internalID: -1271719495895678405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_188
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 774
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ea79dec2f03ac0800000000000000
+      internalID: -3877332308940103208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_189
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 795
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8628f4893c758aae0800000000000000
+      internalID: -1537882775161437592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_190
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 774
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec1a29e8bb5cc8a0800000000000000
+      internalID: -6283546530344723231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_191
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 774
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82295a82a826e1b20800000000000000
+      internalID: 3107029138459169320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_192
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 774
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6875539aaaf664ba0800000000000000
+      internalID: -6105069466080159866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_193
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 774
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f806d2842b9a40800000000000000
+      internalID: 5375930724552078875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_194
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 796
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2fb937be5fdeb90800000000000000
+      internalID: -7210837036744576275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_195
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 774
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eec885f2a796df0800000000000000
+      internalID: -186483565791482244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_196
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 773
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6570e55f9f5ab0ee0800000000000000
+      internalID: -1293757974956865706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_197
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44757f487f59e4680800000000000000
+      internalID: -8768906534123514044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_198
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 774
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a786f7ed37df330800000000000000
+      internalID: 3746277864499608223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_199
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46b845b110b1bf0800000000000000
+      internalID: -352686928924285737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_200
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 766
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29bde3e346787bb0800000000000000
+      internalID: -4938066957452854994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_201
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5279610a868d35e0800000000000000
+      internalID: -1928237138157407652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_202
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 774
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca8bb0ff460f7da0800000000000000
+      internalID: -5945026042694759735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_203
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdbcacc41ff6a060800000000000000
+      internalID: 6964534338573352369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_204
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e998c9c6d1d7f0800000000000000
+      internalID: -589453914066525631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_205
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 774
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81faeac809c57d20800000000000000
+      internalID: 3275745343583220106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_206
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 774
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1edabe5f7a60fd20800000000000000
+      internalID: 3310262821400010267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_207
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 774
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da77bdcf28c5c250800000000000000
+      internalID: 5964393389162461913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_208
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 774
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139d8ea2825677e0800000000000000
+      internalID: -1768135082468601065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_209
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 774
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03bf5d3a99a3600800000000000000
+      internalID: 448840041825513689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_210
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 774
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb3cebb62a4cffb0800000000000000
+      internalID: -4612730388112196661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_211
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43848e040af63c5f0800000000000000
+      internalID: -737623179884214220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_212
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 774
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b20a9059e125c70800000000000000
+      internalID: 8958256234253789965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_213
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 766
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac8f9441cc7064e0800000000000000
+      internalID: -1990453865775919962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_214
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 774
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda05ad0ab11d87b0800000000000000
+      internalID: -5220496902262027556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_215
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 774
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e581818d38713b370800000000000000
+      internalID: 8337033190226532446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_216
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 774
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81b46db076949a0800000000000000
+      internalID: -6248349707462305620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_217
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 774
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41b604abb873060800000000000000
+      internalID: 6933163783421105386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_218
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 774
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca61b95eecae857a0800000000000000
+      internalID: -6388097897088739668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_219
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 774
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d13de09b56817e0800000000000000
+      internalID: -1794572606015070847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_220
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 774
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b7fb9eb2b6694c0800000000000000
+      internalID: -4281116559419671776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_221
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 774
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b507ce896ce5f00800000000000000
+      internalID: 1107540918483835743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_222
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 667
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990b25b7e4166a80800000000000000
+      internalID: -8474062663441512048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_223
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 667
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe9ee9e9a3d56f40800000000000000
+      internalID: 5721211628371746547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_224
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 667
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837d85d2d5a46950800000000000000
+      internalID: 6441455691991184268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_225
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 667
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2178a0a4bca7d720800000000000000
+      internalID: 2870953179261464879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_226
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 667
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c34c9f1ef341830800000000000000
+      internalID: 4040925005448756253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_227
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 667
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe440375c69f88b70800000000000000
+      internalID: 8901638907212350703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_228
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 667
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b6f3624fa72c750800000000000000
+      internalID: 6323752015813897022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_229
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 659
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f8bfaa62284510800000000000000
+      internalID: 1533513514729665731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_230
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 667
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74738c2324505deb0800000000000000
+      internalID: -4695841254585911481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_231
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 667
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b5a23ef5a71a50800000000000000
+      internalID: 6491839899067855063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_232
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 667
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678d6ac812f775370800000000000000
+      internalID: 8311251419405932662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_233
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 667
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a5bfcb8372aa50800000000000000
+      internalID: 6530909453963077427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_234
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 679
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42afe8161e1e9f10800000000000000
+      internalID: 2278291541752521291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_235
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 667
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b795928ee9595570800000000000000
+      internalID: 8455888656292747193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_236
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 613
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a4445c3e055ee60800000000000000
+      internalID: 7990882053036198513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_237
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e814e5621fc5830800000000000000
+      internalID: 4061386111073750569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_238
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 605
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d5eaf352a98db0800000000000000
+      internalID: -4789118247156460541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_239
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 613
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8447cea546c600e10800000000000000
+      internalID: 2161846999415813192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_240
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 613
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48527e8b6baca6790800000000000000
+      internalID: -7535988140316088956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_241
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 613
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5dbf3646eee7830800000000000000
+      internalID: 4070953228131096015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_242
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 613
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bafe09aa2a29370800000000000000
+      internalID: 8327897514421234542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_243
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 613
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8e666a4810ba30800000000000000
+      internalID: 4228906757926064103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_244
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae95b3173e31f020800000000000000
+      internalID: 2373746884875755181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_245
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3d8b050e5958b20800000000000000
+      internalID: 3136077506192921538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_246
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 605
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e18b514a34be4e0800000000000000
+      internalID: -1951391641516892654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_247
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 613
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e277ea75965e990800000000000000
+      internalID: -7357358590929719660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_248
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d98a4661f47b560800000000000000
+      internalID: 7329413876165418395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_249
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 613
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdee86c79945ed50800000000000000
+      internalID: 6765894931414183415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_250
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 613
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db485df1214486320800000000000000
+      internalID: 2551364033539572925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_251
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 613
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059ef864fee1ec6f0800000000000000
+      internalID: -662558082147030704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_252
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 613
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64aa95d5a496e4f0800000000000000
+      internalID: -799788443837488018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_253
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea491de6ad088a30800000000000000
+      internalID: 4217636061626059495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_254
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea208f69395b1b60800000000000000
+      internalID: 7717860489648155363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_255
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 613
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564eff09c87918a0800000000000000
+      internalID: -6333898595967809956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_256
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 613
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1011a596028eef0800000000000000
+      internalID: -78777356624264771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_257
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 613
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c275c886a2f639bc0800000000000000
+      internalID: -3777553434500376788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_258
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 613
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dded728c1e84240800000000000000
+      internalID: 4776315654605036859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_259
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 613
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ec17781c63aeb0800000000000000
+      internalID: -4709801932966008687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_260
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 613
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13795f60747759080800000000000000
+      internalID: -9181301118381746383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_261
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 613
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc891154761a8d6d0800000000000000
+      internalID: -2965442889710987060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_262
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 613
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffba1c7a50773fb50800000000000000
+      internalID: 6625770342965160959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_263
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 613
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901c8a2e964696370800000000000000
+      internalID: 8316288592853385481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_264
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 613
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89268f76f9183d800800000000000000
+      internalID: 635994494033486488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_265
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 613
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742719e57d1228a80800000000000000
+      internalID: -8466167140614835641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_266
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 605
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f68644d09c613d20800000000000000
+      internalID: 3256503374858061553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_267
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 609
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7896c432344f58d10800000000000000
+      internalID: 2127374968194623879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_268
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 602
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969443609ed29a230800000000000000
+      internalID: 3650499451815217513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_269
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 559
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b8e4a4405ecb540800000000000000
+      internalID: 5025143090827922242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_270
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 581
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e08c4cc676db4c0800000000000000
+      internalID: -4270143154821788146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_271
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 559
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c960226f5d638e0800000000000000
+      internalID: -1713947355058365424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_272
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 559
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a61161eb43df9020800000000000000
+      internalID: 2350829853367932582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_273
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 559
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c5950d5e727270800000000000000
+      internalID: 8246792805659558513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_274
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 559
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33fff634c462650800000000000000
+      internalID: 6207732988902323158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_275
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 559
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9562dbf99df8f9c50800000000000000
+      internalID: 6674211337637013081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_276
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 581
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a08a6a63d93ef0800000000000000
+      internalID: -127838660396537742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_277
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 559
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5be8e0f734d0a70800000000000000
+      internalID: 8794759860308588006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_278
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 559
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8982f19060e0960800000000000000
+      internalID: 7569994659903608999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_279
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 559
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5084cd49845f9170800000000000000
+      internalID: 8187355596274827354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_280
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 559
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ac8068c8e17120800000000000000
+      internalID: 2409963222930860323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_281
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 559
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2e134d9cf82680800000000000000
+      internalID: -8779489721192665414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_282
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 559
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30f16c26f9d41910800000000000000
+      internalID: 1807309001812209726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_283
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 559
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428a5c95647beb20800000000000000
+      internalID: 3164751142921601600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_284
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 559
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd330f801ff5e10800000000000000
+      internalID: 2188732964617313335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_285
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 559
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054f6e5f02e291c20800000000000000
+      internalID: 3177621731185980496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_286
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 559
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22108e5f98ce84b00800000000000000
+      internalID: 813159810020671778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_287
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 559
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89afb65e84e1cf90800000000000000
+      internalID: -6935010651181962869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_288
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 551
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233e79a011807f220800000000000000
+      internalID: 2519491385822274354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_289
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 559
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c96dc2b3689a00800000000000000
+      internalID: 763469756440887743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_290
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 559
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed81cb2ea0a1a9b0800000000000000
+      internalID: -5070595035523609119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_291
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 559
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef145ed11f9474410800000000000000
+      internalID: 1461217904042525182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_292
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 559
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3498dd0f390f400800000000000000
+      internalID: 355947033280463850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_293
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 559
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee52e4b6150b810800000000000000
+      internalID: 1779011374125805107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_294
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 559
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7568d4867a344790800000000000000
+      internalID: -7546842794856782469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_295
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 559
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d446a559caff4e7b0800000000000000
+      internalID: -5195746953373522867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_296
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 559
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423c969a6cc3886d0800000000000000
+      internalID: -2988071528816852188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_297
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 559
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4401311fa2769e220800000000000000
+      internalID: 2515655300993978436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_298
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 559
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fd0634cda5a9a40800000000000000
+      internalID: 5375709007289835293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_299
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 559
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe5afc179b6f9c10800000000000000
+      internalID: 2062485451129380595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_300
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 559
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660254911f476580800000000000000
+      internalID: -8834005207142496664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_301
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 559
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478e44a978c2efc0800000000000000
+      internalID: -3466988338348652733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_302
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 559
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d777f5425dd7e00800000000000000
+      internalID: 1044225040817028362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samin_303
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 559
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a034723cbe60a1050800000000000000
+      internalID: 5771933482089923338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      samin_0: -827042105014741657
+      samin_1: -8224743865317687612
+      samin_10: -3062904525250759510
+      samin_100: -6910223614465117387
+      samin_101: 2205402157066048173
+      samin_102: -1731108645892158437
+      samin_103: -5434938779980891525
+      samin_104: -7830503544488317816
+      samin_105: 6681668266825428181
+      samin_106: 689902531689008768
+      samin_107: -931659506450494512
+      samin_108: -2609656911695440292
+      samin_109: -6017317399933609527
+      samin_11: 499080926446326047
+      samin_110: -398034932397379407
+      samin_111: 4425903991790732551
+      samin_112: 461132208922312295
+      samin_113: 7481024473020596052
+      samin_114: -4687838721468091489
+      samin_115: -8864982508003840863
+      samin_116: -2270964125956224498
+      samin_117: -2776243521628326462
+      samin_118: 1409239346415078673
+      samin_119: -5611602176299647065
+      samin_12: 7058437640606529528
+      samin_120: 5903939684374677704
+      samin_121: 8538634968152704864
+      samin_122: 8410906271852593255
+      samin_123: 390755278204406337
+      samin_124: 5214971436205624887
+      samin_125: 7595302579911921385
+      samin_126: -7422714041891985068
+      samin_127: -3677390415475456597
+      samin_128: -498739936097860339
+      samin_129: -475490001229223264
+      samin_13: 7934429590064235310
+      samin_130: 4905527285518031512
+      samin_131: 223582470819892701
+      samin_132: -401503119315747496
+      samin_133: -911558744508981697
+      samin_134: -1132834657698511005
+      samin_135: 4675757552258602993
+      samin_136: -7642291667596745028
+      samin_137: -4135930263656148750
+      samin_138: 8046356347045997446
+      samin_139: -1998585721900586763
+      samin_14: 6349934526684720226
+      samin_140: 131402404435499246
+      samin_141: 8994986037788043468
+      samin_142: -7120718473767224565
+      samin_143: 2277040652911646445
+      samin_144: 8281703358037042795
+      samin_145: -2641516732763937783
+      samin_146: 5940351377213788190
+      samin_147: -8584994784747202946
+      samin_148: 5752916260035016034
+      samin_149: -72929217673445503
+      samin_15: -2147551477559781422
+      samin_150: -5818862181108342098
+      samin_151: 3407043622899715734
+      samin_152: 7071470973497792126
+      samin_153: 2896223996483466256
+      samin_154: 3039363873311223034
+      samin_155: 871862910001425853
+      samin_156: 2479504330152867016
+      samin_157: -4607790495393035108
+      samin_158: -5050820681205977445
+      samin_159: 3673399611611073717
+      samin_16: -7122051645204878753
+      samin_160: 2700273548313557655
+      samin_161: -1444518596983920705
+      samin_162: 2471616185265920697
+      samin_163: -4562943846047793633
+      samin_164: 5224024993739153467
+      samin_165: -1200272233509630877
+      samin_166: -9081853001366289789
+      samin_167: -2313389935276546974
+      samin_168: -8734237689252576482
+      samin_169: 334490682849679048
+      samin_17: 5881384497588638264
+      samin_170: -5697814341125670665
+      samin_171: 3737561218687324080
+      samin_172: 1214226199522839254
+      samin_173: -9134146852655635201
+      samin_174: 873607225560949954
+      samin_175: -2046499694420089247
+      samin_176: -7095603503633968264
+      samin_177: -4765288578026404189
+      samin_178: -2083865751408642095
+      samin_179: -1658443171445728666
+      samin_18: -1969215902170478251
+      samin_180: -3838235264269756358
+      samin_181: 8594375226477603563
+      samin_182: 1395952754635785033
+      samin_183: -2968703064501293819
+      samin_184: 2380857586940897127
+      samin_185: -5105858355654463634
+      samin_186: -5229833864829361123
+      samin_187: -1271719495895678405
+      samin_188: -3877332308940103208
+      samin_189: -1537882775161437592
+      samin_19: 4743707195797877123
+      samin_190: -6283546530344723231
+      samin_191: 3107029138459169320
+      samin_192: -6105069466080159866
+      samin_193: 5375930724552078875
+      samin_194: -7210837036744576275
+      samin_195: -186483565791482244
+      samin_196: -1293757974956865706
+      samin_197: -8768906534123514044
+      samin_198: 3746277864499608223
+      samin_199: -352686928924285737
+      samin_2: -7757931307451030185
+      samin_20: 1011580326657188564
+      samin_200: -4938066957452854994
+      samin_201: -1928237138157407652
+      samin_202: -5945026042694759735
+      samin_203: 6964534338573352369
+      samin_204: -589453914066525631
+      samin_205: 3275745343583220106
+      samin_206: 3310262821400010267
+      samin_207: 5964393389162461913
+      samin_208: -1768135082468601065
+      samin_209: 448840041825513689
+      samin_21: 324895656457971871
+      samin_210: -4612730388112196661
+      samin_211: -737623179884214220
+      samin_212: 8958256234253789965
+      samin_213: -1990453865775919962
+      samin_214: -5220496902262027556
+      samin_215: 8337033190226532446
+      samin_216: -6248349707462305620
+      samin_217: 6933163783421105386
+      samin_218: -6388097897088739668
+      samin_219: -1794572606015070847
+      samin_22: 33937327681983754
+      samin_220: -4281116559419671776
+      samin_221: 1107540918483835743
+      samin_222: -8474062663441512048
+      samin_223: 5721211628371746547
+      samin_224: 6441455691991184268
+      samin_225: 2870953179261464879
+      samin_226: 4040925005448756253
+      samin_227: 8901638907212350703
+      samin_228: 6323752015813897022
+      samin_229: 1533513514729665731
+      samin_23: 444568395201542019
+      samin_230: -4695841254585911481
+      samin_231: 6491839899067855063
+      samin_232: 8311251419405932662
+      samin_233: 6530909453963077427
+      samin_234: 2278291541752521291
+      samin_235: 8455888656292747193
+      samin_236: 7990882053036198513
+      samin_237: 4061386111073750569
+      samin_238: -4789118247156460541
+      samin_239: 2161846999415813192
+      samin_24: 2282675934081805618
+      samin_240: -7535988140316088956
+      samin_241: 4070953228131096015
+      samin_242: 8327897514421234542
+      samin_243: 4228906757926064103
+      samin_244: 2373746884875755181
+      samin_245: 3136077506192921538
+      samin_246: -1951391641516892654
+      samin_247: -7357358590929719660
+      samin_248: 7329413876165418395
+      samin_249: 6765894931414183415
+      samin_25: 1331587247327655226
+      samin_250: 2551364033539572925
+      samin_251: -662558082147030704
+      samin_252: -799788443837488018
+      samin_253: 4217636061626059495
+      samin_254: 7717860489648155363
+      samin_255: -6333898595967809956
+      samin_256: -78777356624264771
+      samin_257: -3777553434500376788
+      samin_258: 4776315654605036859
+      samin_259: -4709801932966008687
+      samin_26: -5787624871523141617
+      samin_260: -9181301118381746383
+      samin_261: -2965442889710987060
+      samin_262: 6625770342965160959
+      samin_263: 8316288592853385481
+      samin_264: 635994494033486488
+      samin_265: -8466167140614835641
+      samin_266: 3256503374858061553
+      samin_267: 2127374968194623879
+      samin_268: 3650499451815217513
+      samin_269: 5025143090827922242
+      samin_27: 2315241821829847008
+      samin_270: -4270143154821788146
+      samin_271: -1713947355058365424
+      samin_272: 2350829853367932582
+      samin_273: 8246792805659558513
+      samin_274: 6207732988902323158
+      samin_275: 6674211337637013081
+      samin_276: -127838660396537742
+      samin_277: 8794759860308588006
+      samin_278: 7569994659903608999
+      samin_279: 8187355596274827354
+      samin_28: 3637440440807171997
+      samin_280: 2409963222930860323
+      samin_281: -8779489721192665414
+      samin_282: 1807309001812209726
+      samin_283: 3164751142921601600
+      samin_284: 2188732964617313335
+      samin_285: 3177621731185980496
+      samin_286: 813159810020671778
+      samin_287: -6935010651181962869
+      samin_288: 2519491385822274354
+      samin_289: 763469756440887743
+      samin_29: -4046113659232382900
+      samin_290: -5070595035523609119
+      samin_291: 1461217904042525182
+      samin_292: 355947033280463850
+      samin_293: 1779011374125805107
+      samin_294: -7546842794856782469
+      samin_295: -5195746953373522867
+      samin_296: -2988071528816852188
+      samin_297: 2515655300993978436
+      samin_298: 5375709007289835293
+      samin_299: 2062485451129380595
+      samin_3: 2980766795204652714
+      samin_30: -3479989839408044523
+      samin_300: -8834005207142496664
+      samin_301: -3466988338348652733
+      samin_302: 1044225040817028362
+      samin_303: 5771933482089923338
+      samin_31: 818130480451398572
+      samin_32: 5598145549196453165
+      samin_33: -199404285522963327
+      samin_34: 4386173536747181538
+      samin_35: 3201017220519306926
+      samin_36: -664505691189545114
+      samin_37: -6994129257506154423
+      samin_38: -151950327857267045
+      samin_39: -9092742121521072421
+      samin_4: 1360276969965925069
+      samin_40: -1052068143948969005
+      samin_41: -6810448554298914162
+      samin_42: -7213798144035521417
+      samin_43: -6633136332760837426
+      samin_44: 8993004251872298385
+      samin_45: -8128699810061490159
+      samin_46: -7791433682536080621
+      samin_47: -4108704623602315451
+      samin_48: -3477801121140429172
+      samin_49: 1858014541604333166
+      samin_5: 1787767102638972505
+      samin_50: 353057196467557469
+      samin_51: -4761884989069405386
+      samin_52: -7481757002163521874
+      samin_53: 7502786811627032829
+      samin_54: 701823508725875762
+      samin_55: 3927774851596392810
+      samin_56: 4119775620440094104
+      samin_57: 2128426409890192205
+      samin_58: -1951062427784188873
+      samin_59: 7568428757664705887
+      samin_6: 8337169329323986257
+      samin_60: 3063655859109754561
+      samin_61: -5927506827032250540
+      samin_62: -2033130320434095693
+      samin_63: -2751037470587366338
+      samin_64: 6735825425406015922
+      samin_65: -57951526044628330
+      samin_66: -3686442081955193221
+      samin_67: -3714716982220212304
+      samin_68: -5296085582375799753
+      samin_69: -2669610892124907623
+      samin_7: 6785043323070650183
+      samin_70: -1775777661123372860
+      samin_71: 5554058978663164082
+      samin_72: 3721573651773818029
+      samin_73: 4129244088017351168
+      samin_74: -8940892651845374533
+      samin_75: 5001184854308197775
+      samin_76: 6714836760495676948
+      samin_77: 5448872346726195495
+      samin_78: -3373115275355936067
+      samin_79: 7266884179676793179
+      samin_8: 9196250100560021920
+      samin_80: 8636251392835316386
+      samin_81: -4343535751668316170
+      samin_82: -5480555200979561383
+      samin_83: 2299083871338847889
+      samin_84: 3299980073821422170
+      samin_85: -4852553026971524159
+      samin_86: 8665759246512728337
+      samin_87: -504766880177207051
+      samin_88: 692430021855975117
+      samin_89: -1689788135829383987
+      samin_9: 1758581347118199264
+      samin_90: -7215226307445807557
+      samin_91: -4054399377928036415
+      samin_92: -7595091941597395742
+      samin_93: 43295431799159737
+      samin_94: 2453647228983141715
+      samin_95: -2735388948545471870
+      samin_96: -3940944528722820920
+      samin_97: 4082215284549070891
+      samin_98: 9043718363910412969
+      samin_99: -1447495011369033633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

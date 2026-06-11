@@ -1,22 +1,16 @@
 fileFormatVersion: 2
-guid: acacff04cf1da34469cdbc5af04330db
+guid: 2fcb11d7bd3be5940a68d2aebbe49e5e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2971425530985324259
-    second: java emote_0
+      213: 8027142317203663177
+    second: 3._0
   - first:
-      213: -343742947200614513
-    second: java emote_1
+      213: -370219686852906297
+    second: 3._1
   - first:
-      213: -3265731501758875844
-    second: java emote_2
-  - first:
-      213: 9148110488704048905
-    second: java emote_3
-  - first:
-      213: -3077435131492112003
-    second: java emote_4
+      213: 2390312301085526321
+    second: 3._2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,14 +52,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -138,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: java emote_0
+      name: 3._2
       rect:
         serializedVersion: 2
-        x: 416
-        y: 733
-        width: 490
-        height: 163
+        x: 0
+        y: 0
+        width: 142
+        height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +147,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ee18e2f6cf9c3920800000000000000
-      internalID: 2971425530985324259
+      spriteID: 13903789f581c2120800000000000000
+      internalID: 2390312301085526321
       vertices: []
       indices: 
       edges: []
@@ -163,7 +157,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e7f3984cabbf92e4995b119111a8167c
+    spriteID: dc72bf1e864805b40afcbd60eae77561
     internalID: 0
     vertices: []
     indices: 
@@ -173,12 +167,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      java emote_0: 2971425530985324259
-      java emote_1: -343742947200614513
-      java emote_2: -3265731501758875844
-      java emote_3: 9148110488704048905
-      java emote_4: -3077435131492112003
-      java emote_5: 1988354530
+      3._0: 8027142317203663177
+      3._1: -370219686852906297
+      3._2: 2390312301085526321
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

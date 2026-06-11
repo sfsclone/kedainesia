@@ -107,6 +107,8 @@ public class DragCookedFood : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
         canvasGroup.blocksRaycasts = false;
         image.raycastTarget = false;
 
-        // Optional: Add any serve effects here
+        // Hide and destroy the food GameObject so it doesn't stay with the customer/hide their face
+        gameObject.SetActive(false);
+        Destroy(gameObject);
     }
 }
