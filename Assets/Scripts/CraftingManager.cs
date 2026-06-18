@@ -38,6 +38,8 @@ public class CraftingManager : MonoBehaviour
     public Dictionary<string, Sprite> ingredientSprites = new Dictionary<string, Sprite>();
 
     [Header("Cooked Food UI")]
+    public AudioClip cookSFX;
+    public AudioClip foodAppearSFX;
     public Transform cookedFoodParent;
     public GameObject cookedFoodPrefab;
     public Canvas canvas;
@@ -52,7 +54,7 @@ public class CraftingManager : MonoBehaviour
     {
         if (stoveButton != null) stoveButton.onClick.AddListener(OpenCraftingPanel);
         clearPlateButton.onClick.AddListener(ClearCookedFood);
-clearPlateButton.gameObject.SetActive(false);
+        clearPlateButton.gameObject.SetActive(false);
 
         foreach (var entry in ingredientSpriteList)
         {
@@ -231,6 +233,11 @@ clearPlateButton.gameObject.SetActive(false);
             return;
         }
 
+        if (AudioManager.Instance != null && cookSFX != null)
+        {
+            AudioManager.Instance.PlaySFX(cookSFX, true); // Added duckMusic: true
+        }
+
         if (cookingRoutine != null)
             StopCoroutine(cookingRoutine);
         cookingRoutine = StartCoroutine(CookingProcess());
@@ -254,6 +261,11 @@ clearPlateButton.gameObject.SetActive(false);
         cookingSlider.gameObject.SetActive(false);
         craftingPanel.SetActive(false);
 
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.StopSFX();
+        }
+
         SpawnCookedFood();
 
         // Reset ingredient slots and UI
@@ -275,6 +287,11 @@ clearPlateButton.gameObject.SetActive(false);
         {
             Debug.LogError("Missing references for spawning cooked food");
             return;
+        }
+
+        if (AudioManager.Instance != null && foodAppearSFX != null)
+        {
+            AudioManager.Instance.PlaySFX(foodAppearSFX);
         }
 
         foreach (Transform child in cookedFoodParent)

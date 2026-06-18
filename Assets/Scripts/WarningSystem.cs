@@ -1,4 +1,4 @@
-﻿using TMPro;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,6 +6,7 @@ public class WarningSystem : MonoBehaviour
 {
     [SerializeField] private GameObject gameOverPanel; 
     [SerializeField] private Button restartButton;     
+    public AudioClip gameOverSFX;
 
     [SerializeField] private GameClock gameClock;
     [SerializeField] private CustomerManager customerManager;
@@ -38,8 +39,13 @@ public class WarningSystem : MonoBehaviour
             gameClock.ResetClock();
             customerManager.ClearCustomers();
 
+            if (AudioManager.Instance != null && gameOverSFX != null)
+            {
+                AudioManager.Instance.PlaySFX(gameOverSFX, true); // Added duckMusic: true
+            }
+
             gameOverPanel.SetActive(true); //Show Game Over
-        }
+}
     }
 
     public void OnRestartDayClicked()

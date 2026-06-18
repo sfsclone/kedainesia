@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public GameObject nextDayButton;
     [FormerlySerializedAs("gameFinishedPanel")]
     public GameObject winPanel;
+    public AudioClip winSFX;
 
     public int currentDay = 1;
     public int maxDays = 7;
@@ -25,7 +26,13 @@ public class GameManager : MonoBehaviour
     public void ShowNextDayButton()
     {
         if (winPanel != null)
+        {
             winPanel.SetActive(true);
+            if (AudioManager.Instance != null && winSFX != null)
+            {
+                AudioManager.Instance.PlaySFX(winSFX, true); // Duck music for win sound
+            }
+        }
 
         if (currentDay < maxDays)
         {
@@ -91,7 +98,13 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.SetInt("HighestUnlockedDay", maxDays);
         PlayerPrefs.Save();
         if (winPanel != null)
+        {
             winPanel.SetActive(true);
+            if (AudioManager.Instance != null && winSFX != null)
+            {
+                AudioManager.Instance.PlaySFX(winSFX, true);
+            }
+        }
     }
 
     void UpdateDayUI()

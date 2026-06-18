@@ -23,6 +23,7 @@ public class CustomerManager : MonoBehaviour
 
     [Header("Settings")]
     public float delayBetweenCustomers = 2f;
+    public AudioClip customerAppearSFX;
 
     [Header("Dependencies")]
     [SerializeField] private WarningSystem warningSystem;
@@ -127,6 +128,11 @@ public class CustomerManager : MonoBehaviour
         CustomerData customer = todaysCustomers[currentCustomerIndex];
         currentCustomerInstance = Instantiate(customerPrefab, customerSpawnPoint);
         Debug.Log("Customer Spawned: " + customer.customerName);
+
+        if (AudioManager.Instance != null && customerAppearSFX != null)
+        {
+            AudioManager.Instance.PlaySFX(customerAppearSFX);
+        }
 
         var image = currentCustomerInstance.transform.Find("OutfitImage")?.GetComponent<Image>();
         var nameText = currentCustomerInstance.transform.Find("NameText")?.GetComponent<TMP_Text>();

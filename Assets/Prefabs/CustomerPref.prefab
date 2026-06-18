@@ -429,7 +429,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 242.8, y: -519.4}
+  m_AnchoredPosition: {x: 242.79999, y: -526}
   m_SizeDelta: {x: 249.0202, y: 71.8204}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6676753421229908211
@@ -487,12 +487,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 37.45
+  m_fontSize: 35
   m_fontSizeBase: 38
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 12
-  m_fontSizeMax: 80
+  m_fontSizeMax: 35
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -625,12 +625,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06b4c80eb6b3bdd41b3d7d53b26d4eff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  preAcceptPatienceTime: 20
+  preAcceptPatienceTime: 15
   postAcceptPatienceTime: 60
   acceptOrderButton: {fileID: 1044492253825262204}
   komporButton: {fileID: 4837138946727139723}
   patienceSliderUI: {fileID: 8907621430312383502}
   patienceSlider: {fileID: 9044918512755771277}
+  patienceWarningSFX: {fileID: 8300000, guid: 38de66a2f52725745b0404523054349f, type: 3}
+  happySFX: {fileID: 8300000, guid: 4810e6846c6e70c43a3dda2dd9b5ab7d, type: 3}
+  angrySFX: {fileID: 8300000, guid: a6f9987154f2a1f4c84ea616f5d494a6, type: 3}
+  warningThreshold: 4
   emojiImage: {fileID: 3993235596181792520}
   smileEmoji: {fileID: 4684057861738530012, guid: 54a1e6021690bba4a930d683fc8aced4, type: 3}
   angryEmoji: {fileID: 8379811097228679920, guid: a070306a0ef3d574198716d587477d42, type: 3}
@@ -951,8 +955,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 834.44995, y: -117.109985}
-  m_SizeDelta: {x: 242.6403, y: 129.0258}
+  m_AnchoredPosition: {x: 834.45, y: -117.11}
+  m_SizeDelta: {x: 273.0538, y: 129.0258}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &631869454489333224
 CanvasRenderer:
@@ -1009,12 +1013,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 32
   m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 12
-  m_fontSizeMax: 80
+  m_enableAutoSizing: 1
+  m_fontSizeMin: 20
+  m_fontSizeMax: 32
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -1088,8 +1092,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 334.45, y: 382.89}
-  m_SizeDelta: {x: 322.98, y: 207.08}
+  m_AnchoredPosition: {x: 334.45, y: 363.38}
+  m_SizeDelta: {x: 322.98, y: 168.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4617884367872358382
 CanvasRenderer:
@@ -1119,7 +1123,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2759030191359400338, guid: 3fd10037fa35dc24da36d0daf47eb4ac, type: 3}
+  m_Sprite: {fileID: 688391822196341824, guid: cee35cbb0c3b38248881ebc5375a24bf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1194,7 +1198,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4536993422171202805, guid: 8c2aff26db2ddc34493b25f40033d77b, type: 3}
+  m_Sprite: {fileID: -6271795628545397759, guid: 14e6ae368fe06a64e927c744364eda2a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

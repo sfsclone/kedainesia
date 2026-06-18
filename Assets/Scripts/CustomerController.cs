@@ -19,6 +19,13 @@ public class CustomerController : MonoBehaviour
     private CraftingManager craftingManager;
     private bool isTimerActive = true;
 
+    [Header("SFX")]
+    public AudioClip patienceWarningSFX;
+    public AudioClip happySFX;
+    public AudioClip angrySFX;
+    public float warningThreshold = 5f;
+    private bool hasPlayedWarningSFX = false;
+
     [Header("Emoji")]
 public Image emojiImage;          // assign the Image component in Inspector
     public Sprite smileEmoji;         // assign smile sprite in Inspector
@@ -44,6 +51,15 @@ public Image emojiImage;          // assign the Image component in Inspector
         currentTimer -= Time.deltaTime;
         patienceSlider.value = currentTimer;
 
+        if (currentTimer <= warningThreshold && !hasPlayedWarningSFX)
+        {
+            hasPlayedWarningSFX = true;
+            if (AudioManager.Instance != null && patienceWarningSFX != null)
+            {
+                AudioManager.Instance.PlaySFX(patienceWarningSFX, true); // Added duckMusic: true
+            }
+        }
+
         if (currentTimer <= 0)
         {
             isTimerActive = false;
@@ -54,6 +70,11 @@ public Image emojiImage;          // assign the Image component in Inspector
                 {
                     emojiImage.sprite = angryEmoji;
                     emojiImage.enabled = true;
+                }
+
+                if (AudioManager.Instance != null && angrySFX != null)
+                {
+                    AudioManager.Instance.PlaySFX(angrySFX);
                 }
 
                 FindAnyObjectByType<WarningSystem>()?.AddWarning();
@@ -71,6 +92,7 @@ public Image emojiImage;          // assign the Image component in Inspector
         patienceSlider.value = currentTimer;
         acceptOrderButton.SetActive(false);
         if (komporButton) komporButton.SetActive(true);
+        hasPlayedWarningSFX = false;
     }
 
     public void OpenStove()
@@ -95,6 +117,11 @@ public Image emojiImage;          // assign the Image component in Inspector
         {
             emojiImage.sprite = smileEmoji;
             emojiImage.enabled = true;
+        }
+
+        if (AudioManager.Instance != null && happySFX != null)
+        {
+            AudioManager.Instance.PlaySFX(happySFX);
         }
 
         yield return new WaitForSeconds(emojiDisplayDuration);

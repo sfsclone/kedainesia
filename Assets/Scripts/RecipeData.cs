@@ -6,5 +6,5 @@ public class RecipeData : ScriptableObject
 {
     public string recipeName;
     public Sprite foodIcon;
-    public List<string> requiredIngredients; // Use ingredient names for now
+    public List<string> requiredIngredients; 
 }

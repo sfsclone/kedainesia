@@ -66,7 +66,7 @@ public class DragIngredient : MonoBehaviour, IBeginDragHandler, IDragHandler, IE
         // If the parent is still the DragLayer, it means it wasn't dropped into a valid slot
         if (transform.parent == dragLayerTransform)
         {
-            // Return to scroll list
+            // balik ke list kiri
             transform.SetParent(ingredientListParent);
             transform.localPosition = Vector3.zero;
         }
