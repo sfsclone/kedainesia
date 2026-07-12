@@ -10,7 +10,7 @@ public class WarningSystem : MonoBehaviour
 
     [SerializeField] private GameClock gameClock;
     [SerializeField] private CustomerManager customerManager;
-    [SerializeField] private Button openButton;
+    //[SerializeField] private Button openButton;
 
     public int maxWarnings = 3;
     private int currentWarnings = 0;

@@ -5,12 +5,6 @@ public class MainMenuManager : MonoBehaviour
 {
     public static int selectedDay = 1;
 
-    public void StartNewGame()
-    {
-        selectedDay = 1;
-        SceneManager.LoadScene("GameScene1"); // Make sure the game scene is added in Build Settings
-    }
-
     public void LoadLevel(int day)
     {
         selectedDay = day;

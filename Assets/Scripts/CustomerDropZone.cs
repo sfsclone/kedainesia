@@ -12,7 +12,7 @@ public class CustomerDropZone : MonoBehaviour, IDropHandler
 
     [Header("Feedback")]
     public float flashDuration = 0.3f;
-    public Color successColor = Color.green;
+   // public Color successColor = Color.green;
     public Color failColor = Color.red;
 
     private Image customerImage;

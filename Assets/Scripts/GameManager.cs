@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     public AudioClip winSFX;
 
     public int currentDay = 1;
-    public int maxDays = 7;
+    public int maxDays = 4;
 
     private void Start()
     {

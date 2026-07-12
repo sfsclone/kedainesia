@@ -83,7 +83,7 @@ public class GuideBookManager : MonoBehaviour
         UpdatePages();
     }
 
-    private void NextPage()
+    public void NextPage()
     {
         int pageCount = activeBook == BookType.Customer ? customerPages.Length : recipePages.Length;
         if (currentPage < pageCount - 1)
@@ -93,7 +93,7 @@ public class GuideBookManager : MonoBehaviour
         }
     }
 
-    private void PreviousPage()
+    public void PreviousPage()
     {
         if (currentPage > 0)
         {

@@ -47,7 +47,7 @@ public class TutorialManager : MonoBehaviour
             }
         }
 
-        // Optional: Update button interactivity
+        // Update button interactivity
         if (nextButton != null)
             nextButton.interactable = (currentPage < pages.Length - 1);
         

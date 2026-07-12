@@ -66,11 +66,13 @@ public Image emojiImage;          // assign the Image component in Inspector
 
             if (!isServed)
             {
+                /*
                 if (emojiImage)
                 {
                     emojiImage.sprite = angryEmoji;
                     emojiImage.enabled = true;
                 }
+                */
 
                 if (AudioManager.Instance != null && angrySFX != null)
                 {
@@ -132,8 +134,29 @@ public Image emojiImage;          // assign the Image component in Inspector
 
     private IEnumerator LeaveUnhappy()
     {
-        yield return null; // wait one frame to ensure emoji appears
+        Transform outfitTransform = transform.Find("OutfitImage");
+        Image outfitImage = outfitTransform != null ? outfitTransform.GetComponent<Image>() : null;
+        Color originalColor = Color.white;
+        if (outfitImage != null)
+        { 
+            originalColor = outfitImage.color;
+            Color flashColor;
+            if (ColorUtility.TryParseHtmlString("#FF745C", out flashColor))
+            {
+                outfitImage.color = flashColor;
+            }
+            else
+            {
+                outfitImage.color = new Color32(0xFF, 0x4D, 0x2E, 0xFF);
+            }
+        }
+
         yield return new WaitForSeconds(emojiDisplayDuration);
+
+        if (outfitImage != null)
+        {
+            outfitImage.color = originalColor;
+        }
 
         customerManager?.OnCustomerLeftImpatiently();
         Destroy(gameObject);
