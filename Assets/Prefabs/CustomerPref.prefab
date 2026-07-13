@@ -311,7 +311,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerManager: {fileID: 0}
   flashDuration: 0.5
-  successColor: {r: 0, g: 1, b: 0, a: 1}
   failColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!61 &2991492503316375294
 BoxCollider2D:
@@ -635,6 +634,10 @@ MonoBehaviour:
   happySFX: {fileID: 8300000, guid: 4810e6846c6e70c43a3dda2dd9b5ab7d, type: 3}
   angrySFX: {fileID: 8300000, guid: a6f9987154f2a1f4c84ea616f5d494a6, type: 3}
   warningThreshold: 4
+  happyMaleSFX: {fileID: 8300000, guid: 388ad8eb8db59f44292b0e17942d21be, type: 3}
+  happyFemaleSFX: {fileID: 8300000, guid: 9a0aea7fbd0f7f349bda5f09159736d7, type: 3}
+  angryMaleSFX: {fileID: 8300000, guid: 72a8ab9f480b9fb47ba9e59f0ff909b7, type: 3}
+  angryFemaleSFX: {fileID: 8300000, guid: 01d217f3b71b45148bda8cc6b2a34ad7, type: 3}
   emojiImage: {fileID: 3993235596181792520}
   smileEmoji: {fileID: 4684057861738530012, guid: 54a1e6021690bba4a930d683fc8aced4, type: 3}
   angryEmoji: {fileID: 8379811097228679920, guid: a070306a0ef3d574198716d587477d42, type: 3}

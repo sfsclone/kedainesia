@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: Wanita Samin
   customerSprite: {fileID: 1333485088841401884, guid: 2c6744b7408e8ee4991dda8e69d21f4b, type: 3}
+  gender: 1
   possibleRecipes:
   - {fileID: 11400000, guid: 3da41e8b721d4644baeae0e6a011fe83, type: 2}
   - {fileID: 11400000, guid: 5f5470208a100a34db6b37c8e081e2ad, type: 2}

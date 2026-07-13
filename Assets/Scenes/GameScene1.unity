@@ -4088,6 +4088,8 @@ MonoBehaviour:
   customerProgressText: {fileID: 1246089684}
   delayBetweenCustomers: 3
   customerAppearSFX: {fileID: 8300000, guid: accb6f6deb4837444ae8470567424498, type: 3}
+  customerAppearMaleSFX: {fileID: 8300000, guid: b6cc9f8e6c1b6c14da59c6d50fd745ea, type: 3}
+  customerAppearFemaleSFX: {fileID: 8300000, guid: 9e3985b776dab4e4f84beca354b93ee6, type: 3}
   warningSystem: {fileID: 1935444802}
 --- !u!1 &915608269
 GameObject:
@@ -10087,7 +10089,6 @@ MonoBehaviour:
   gameOverSFX: {fileID: 8300000, guid: 03a96b58d54e60e4d8852dd6d1809f33, type: 3}
   gameClock: {fileID: 1935444799}
   customerManager: {fileID: 891066994}
-  openButton: {fileID: 941645689}
   maxWarnings: 3
   warningText: {fileID: 1707757209}
   gameManager: {fileID: 1935444800}

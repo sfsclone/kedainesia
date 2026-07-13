@@ -24,6 +24,8 @@ public class CustomerManager : MonoBehaviour
     [Header("Settings")]
     public float delayBetweenCustomers = 2f;
     public AudioClip customerAppearSFX;
+    public AudioClip customerAppearMaleSFX;
+    public AudioClip customerAppearFemaleSFX;
 
     [Header("Dependencies")]
     [SerializeField] private WarningSystem warningSystem;
@@ -129,9 +131,30 @@ public class CustomerManager : MonoBehaviour
         currentCustomerInstance = Instantiate(customerPrefab, customerSpawnPoint);
         Debug.Log("Customer Spawned: " + customer.customerName);
 
-        if (AudioManager.Instance != null && customerAppearSFX != null)
+        CustomerController controller = currentCustomerInstance.GetComponent<CustomerController>();
+        if (controller != null)
         {
-            AudioManager.Instance.PlaySFX(customerAppearSFX);
+            controller.Initialize(customer);
+        }
+
+        AudioClip appearSFX = customerAppearSFX;
+        if (customer != null)
+        {
+            if (customer.gender == CustomerGender.Female && customerAppearFemaleSFX != null)
+            {
+                appearSFX = customerAppearFemaleSFX;
+            }
+            else if (customer.gender == CustomerGender.Male && customerAppearMaleSFX != null)
+            {
+                appearSFX = customerAppearMaleSFX;
+            }
+        }
+
+        Debug.Log($"[CustomerManager] Spawned Customer: {customer?.customerName}, Gender: {customer?.gender}, Appear clip to play: {appearSFX?.name}");
+
+        if (AudioManager.Instance != null && appearSFX != null)
+        {
+            AudioManager.Instance.PlaySFX(appearSFX);
         }
 
         var image = currentCustomerInstance.transform.Find("OutfitImage")?.GetComponent<Image>();

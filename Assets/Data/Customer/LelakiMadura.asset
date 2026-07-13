@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: Lelaki Madura
   customerSprite: {fileID: 4748592009795039595, guid: 1d96060ccf3f32c44853e32afcaa1116, type: 3}
+  gender: 0
   possibleRecipes:
   - {fileID: 11400000, guid: 219e560bc0e5dbe43be77c96776f9f3a, type: 2}
   - {fileID: 11400000, guid: d9f8b6b4f8d51e848b2c591907f0b244, type: 2}

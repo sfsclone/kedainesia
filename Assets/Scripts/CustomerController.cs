@@ -26,6 +26,19 @@ public class CustomerController : MonoBehaviour
     public float warningThreshold = 5f;
     private bool hasPlayedWarningSFX = false;
 
+    [Header("Gendered SFX")]
+    public AudioClip happyMaleSFX;
+    public AudioClip happyFemaleSFX;
+    public AudioClip angryMaleSFX;
+    public AudioClip angryFemaleSFX;
+    private CustomerData customerData;
+
+    public void Initialize(CustomerData data)
+    {
+        customerData = data;
+        Debug.Log($"[CustomerController] Initialize called for customer {customerData?.customerName}, gender: {customerData?.gender}");
+    }
+
     [Header("Emoji")]
 public Image emojiImage;          // assign the Image component in Inspector
     public Sprite smileEmoji;         // assign smile sprite in Inspector
@@ -74,9 +87,20 @@ public Image emojiImage;          // assign the Image component in Inspector
                 }
                 */
 
-                if (AudioManager.Instance != null && angrySFX != null)
+                AudioClip clipToPlay = angrySFX;
+                if (customerData != null)
                 {
-                    AudioManager.Instance.PlaySFX(angrySFX);
+                    if (customerData.gender == CustomerGender.Female && angryFemaleSFX != null)
+                        clipToPlay = angryFemaleSFX;
+                    else if (customerData.gender == CustomerGender.Male && angryMaleSFX != null)
+                        clipToPlay = angryMaleSFX;
+                }
+
+                Debug.Log($"[CustomerController] Unhappy timeout. Customer: {customerData?.customerName}, Gender: {customerData?.gender}, Clip to play: {clipToPlay?.name}");
+
+                if (AudioManager.Instance != null && clipToPlay != null)
+                {
+                    AudioManager.Instance.PlaySFX(clipToPlay);
                 }
 
                 FindAnyObjectByType<WarningSystem>()?.AddWarning();
@@ -121,9 +145,20 @@ public Image emojiImage;          // assign the Image component in Inspector
             emojiImage.enabled = true;
         }
 
-        if (AudioManager.Instance != null && happySFX != null)
+        AudioClip clipToPlay = happySFX;
+        if (customerData != null)
         {
-            AudioManager.Instance.PlaySFX(happySFX);
+            if (customerData.gender == CustomerGender.Female && happyFemaleSFX != null)
+                clipToPlay = happyFemaleSFX;
+            else if (customerData.gender == CustomerGender.Male && happyMaleSFX != null)
+                clipToPlay = happyMaleSFX;
+        }
+
+        Debug.Log($"[CustomerController] LeaveHappily. Customer: {customerData?.customerName}, Gender: {customerData?.gender}, Clip to play: {clipToPlay?.name}");
+
+        if (AudioManager.Instance != null && clipToPlay != null)
+        {
+            AudioManager.Instance.PlaySFX(clipToPlay);
         }
 
         yield return new WaitForSeconds(emojiDisplayDuration);
