@@ -5,7 +5,7 @@ using System.Collections;
 public class CustomerController : MonoBehaviour
 {
     public float preAcceptPatienceTime = 15f;
-    public float postAcceptPatienceTime = 20f;
+    public float postAcceptPatienceTime = 60f;
     private float currentTimer;
     private bool isAccepted = false;
     private bool isServed = false;
